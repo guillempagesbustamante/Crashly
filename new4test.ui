@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1200</width>
+    <height>800</height>
+   </rect>
+  </property>
+
+  <property name="windowTitle">
+   <string>Dashboard Seguretat Viària</string>
+  </property>
+
+  <!-- ESTIL GLOBAL -->
+  <property name="styleSheet">
+   <string>
+    QMainWindow {
+        background-color: #0f172a;
+    }
+
+    QLabel {
+        color: #e2e8f0;
+        font-size: 13px;
+    }
+
+    QFrame {
+        background-color: #1e293b;
+        border-radius: 10px;
+    }
+
+    QComboBox, QTextEdit {
+        background-color: #334155;
+        border: none;
+        padding: 6px;
+        border-radius: 6px;
+        color: white;
+    }
+
+    QTableWidget {
+        background-color: #334155;
+        border-radius: 8px;
+        color: white;
+    }
+
+    QPushButton {
+        background-color: #3b82f6;
+        border-radius: 8px;
+        padding: 6px 12px;
+        color: white;
+        font-weight: bold;
+    }
+   </string>
+  </property>
+
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout">
+
+    <!-- HEADER -->
+    <item>
+     <widget class="QFrame">
+      <layout class="QHBoxLayout">
+       <item>
+        <widget class="QLabel">
+         <property name="text">
+          <string>🚦 Dashboard de Seguretat Viària</string>
+         </property>
+         <property name="styleSheet">
+          <string>font-size: 20px; font-weight: bold; color:#38bdf8;</string>
+         </property>
+        </widget>
+       </item>
+
+       <item>
+        <spacer>
+         <property name="orientation">
+          <enum>Qt.Horizontal</enum>
+         </property>
+        </spacer>
+       </item>
+
+       <item>
+        <widget class="QLabel">
+         <property name="text">
+          <string>🟢 Temps real</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+
+    <!-- FILTRES -->
+    <item>
+     <widget class="QFrame">
+      <layout class="QGridLayout">
+
+       <item row="0" column="0">
+        <widget class="QLabel">
+         <property name="text"><string>Any</string></property>
+        </widget>
+       </item>
+       <item row="0" column="1">
+        <widget class="QComboBox" name="yearCombo"/>
+       </item>
+
+       <item row="0" column="2">
+        <widget class="QLabel">
+         <property name="text"><string>Tipus via</string></property>
+        </widget>
+       </item>
+       <item row="0" column="3">
+        <widget class="QComboBox" name="roadCombo"/>
+       </item>
+
+       <item row="1" column="0">
+        <widget class="QLabel">
+         <property name="text"><string>Clima</string></property>
+        </widget>
+       </item>
+       <item row="1" column="1">
+        <widget class="QComboBox" name="weatherCombo"/>
+       </item>
+
+       <item row="1" column="2">
+        <widget class="QLabel">
+         <property name="text"><string>Gravetat</string></property>
+        </widget>
+       </item>
+       <item row="1" column="3">
+        <widget class="QComboBox" name="severityCombo"/>
+       </item>
+
+      </layout>
+     </widget>
+    </item>
+
+    <!-- MAIN -->
+    <item>
+     <layout class="QHBoxLayout">
+
+      <!-- PANEL IZQUIERDO -->
+      <item>
+       <widget class="QFrame">
+        <layout class="QVBoxLayout">
+
+         <item>
+          <widget class="QLabel">
+           <property name="text">
+            <string>📍 Zona Crítica: Barcelona</string>
+           </property>
+           <property name="styleSheet">
+            <string>font-size:16px; font-weight:bold;</string>
+           </property>
+          </widget>
+         </item>
+
+         <item>
+          <widget class="QTextEdit">
+           <property name="readOnly"><bool>true</bool></property>
+           <property name="text">
+            <string>Alta densitat d'accidents entre vehicles lleugers en zones urbanes amb trànsit intens.</string>
+           </property>
+          </widget>
+         </item>
+
+         <item>
+          <widget class="QLabel">
+           <property name="text">
+            <string>🗺️ Mapa de la zona crítica</string>
+           </property>
+          </widget>
+         </item>
+
+         <item>
+          <widget class="QWidget" name="mapContainer"/>
+         </item>
+
+        </layout>
+       </widget>
+      </item>
+
+      <!-- PANEL DERECHO -->
+      <item>
+       <widget class="QFrame">
+        <layout class="QVBoxLayout">
+
+         <item>
+          <widget class="QLabel">
+           <property name="text">
+            <string>🚗 Estadístiques</string>
+           </property>
+           <property name="styleSheet">
+            <string>font-size:16px; font-weight:bold;</string>
+           </property>
+          </widget>
+         </item>
+
+         <item>
+          <widget class="QTableWidget" name="tableStats">
+           <property name="columnCount"><number>5</number></property>
+           <property name="rowCount"><number>5</number></property>
+          </widget>
+         </item>
+
+         <item>
+          <widget class="QLabel">
+           <property name="text">
+            <string>📈 Accidents per estació</string>
+           </property>
+          </widget>
+         </item>
+
+         <item>
+          <widget class="QFrame">
+           <layout class="QVBoxLayout">
+            <item>
+             <widget class="QLabel">
+              <property name="text">
+               <string>📊 Gràfic</string>
+              </property>
+              <property name="alignment">
+               <set>Qt.AlignCenter</set>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+
+        </layout>
+       </widget>
+      </item>
+
+     </layout>
+    </item>
+
+    <!-- FOOTER -->
+    <item>
+     <widget class="QFrame">
+      <layout class="QHBoxLayout">
+
+       <item>
+        <widget class="QLabel">
+         <property name="text">
+          <string>© 2026 Observatori de Trànsit</string>
+         </property>
+        </widget>
+       </item>
+
+       <item>
+        <spacer>
+         <property name="orientation">
+          <enum>Qt.Horizontal</enum>
+         </property>
+        </spacer>
+       </item>
+
+       <item>
+        <widget class="QPushButton" name="refreshButton">
+         <property name="text">
+          <string>Actualitzar</string>
+         </property>
+        </widget>
+       </item>
+
+      </layout>
+     </widget>
+    </item>
+
+   </layout>
+  </widget>
+
+ </widget>
+
+ <resources/>
+ <connections/>
+</ui>
