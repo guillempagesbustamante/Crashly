@@ -1,5 +1,6 @@
 import sys
 import folium
+from geopy.geocoders import Nominatim
 
 from PySide6.QtWidgets import (
     QApplication, QComboBox, QDateEdit, QFrame, QGridLayout,
@@ -15,7 +16,7 @@ class Ui_MainWindow(object):
 
     def setupUi(self, MainWindow):
 
-        MainWindow.resize(2000, 1500)
+        MainWindow.resize(3000, 3000)
         MainWindow.setWindowTitle("Traffic Analytics Catalunya")
 
         # =========================
@@ -115,7 +116,7 @@ class Ui_MainWindow(object):
         # =========================
 
         self.mapView = QWebEngineView()
-        self.mapView.setMaximumSize(300, 200)
+        self.mapView.setMaximumSize(500, 300)
 
         self.middleLayout.addWidget(self.mapView)
 
@@ -161,10 +162,28 @@ class Ui_MainWindow(object):
         # MARCADOR EJEMPLO
         # =========================
 
+        from geopy.geocoders import Nominatim
+
+        geolocator = Nominatim(user_agent="accidents_app")
+
+        direccion = "C-31 km 350, Torroella de Montgrí, Girona"
+
+        location = geolocator.geocode(direccion)
+
+        if location:
+            print("Latitud:", location.latitude)
+            print("Longitud:", location.longitude)
+        else:
+            print("No encontrada")
+
+        latitud = location.latitude
+        longitud = location.longitude
+
         folium.Marker(
-            location=[41.5958, 1.8302],
-            popup="Montserrat",
-            tooltip="Accidente"
+            location=[latitud,longitud],
+            popup="Torroella de Montgrí",
+            tooltip="Accidente",
+            icon=folium.Icon(icon = "star", markerColor="white", iconColor=("red"), icon_size=(5,5))
         ).add_to(mapa_catalunya)
 
         # =========================
