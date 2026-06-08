@@ -85,9 +85,9 @@ class Markers:
         """Load and cache the full dataset (only needed columns)."""
         if self._dades is None:
             csv_path = os.path.join(BASE_DIR, "base_dades.csv")
-            self._dades = pd.read_csv(csv_path, usecols=self.COLUMNES)
+            self._dades = pd.read_csv(csv_path, usecols=self.COLUMNES, encoding="utf-8-sig")
             self._dades["dat"] = pd.to_datetime(
-                self._dades["dat"], dayfirst=True, errors="coerce"
+                self._dades["dat"], dayfirst=False, errors="coerce"
             )
         return self._dades
 
