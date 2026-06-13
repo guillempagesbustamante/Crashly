@@ -178,11 +178,11 @@
        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
       </property>
       <property name="styleSheet">
-       <string notr="true">background-color: rgb(234, 244, 255);
-</string>
+       <string notr="true">selection-color: rgb(255, 255, 255);
+background-color: rgb(174, 213, 255);</string>
       </property>
       <property name="currentIndex">
-       <number>3</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="Temporal">
        <attribute name="title">
@@ -596,6 +596,22 @@ border-color: rgb(0, 0, 255);</string>
    <header location="global">QtWebEngineWidgets/QWebEngineView</header>
   </customwidget>
  </customwidgets>
+ <tabstops>
+  <tabstop>pushButton</tabstop>
+  <tabstop>pushButton_2</tabstop>
+  <tabstop>Grup_Horari</tabstop>
+  <tabstop>Grup_dial</tabstop>
+  <tabstop>Data_fi</tabstop>
+  <tabstop>Data_Inici</tabstop>
+  <tabstop>Provincia</tabstop>
+  <tabstop>Tipus_via</tabstop>
+  <tabstop>Tipus_Vehicle</tabstop>
+  <tabstop>Defuncions</tabstop>
+  <tabstop>Filtres</tabstop>
+  <tabstop>comboBox_6</tabstop>
+  <tabstop>comboBox_5</tabstop>
+  <tabstop>comboBox</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>
