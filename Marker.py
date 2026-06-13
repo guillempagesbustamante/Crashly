@@ -103,7 +103,8 @@ class Markers:
         hora_fi=None,      # int 0-23       – end hour   (inclusive)
         gravetat=None,     # str or list    – e.g. "Mort" / ["Mort","Ferit greu"]
         tipus_acc=None,    # str or list    – value(s) from tipAcc
-        municipi=None,     # str or list    – value(s) from nomMun
+        municipi=None,
+        provincia=None
     ):
         """
         Return a filtered DataFrame. All parameters are optional;
@@ -131,10 +132,10 @@ class Markers:
                 tipus_acc = [tipus_acc]
             df = df[df["tipAcc"].isin(tipus_acc)]
 
-        if municipi:
-            if isinstance(municipi, str):
-                municipi = [municipi]
-            df = df[df["nomMun"].isin(municipi)]
+        if provincia:
+            if isinstance(provincia, str):
+                provincia = [provincia]
+            df = df[df["nomDem"].isin(provincia)]
 
         return df.reset_index(drop=True)
 

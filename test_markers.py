@@ -14,5 +14,6 @@ print("\nGravetat values:", m.valors_unics("D_GRAVETAT"))
 print("TipAcc values:", m.valors_unics("tipAcc"))
 
 # Test a filter
-df_filtrat = m.filtrar(gravetat=m.valors_unics("D_GRAVETAT")[0])
+df_filtrat = m.filtrar(gravetat=m.valors_unics("D_GRAVETAT")[1])
 print(f"\nFiltered rows: {len(df_filtrat)}")
+print(df_filtrat)
