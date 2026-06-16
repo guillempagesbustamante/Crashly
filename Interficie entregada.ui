@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>interficie</class>
+ <widget class="QDialog" name="interficie">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1762</width>
+    <height>1237</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>0</width>
+    <height>3</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>16777215</width>
+    <height>16777215</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="whatsThis">
+   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Interfaz&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+  </property>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>110</y>
+     <width>991</width>
+     <height>631</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QWebEngineView" name="contenedor_mapa">
+      <property name="url">
+       <url>
+        <string>about:blank</string>
+       </url>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1751</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QFrame" name="frame">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>37</height>
+       </size>
+      </property>
+      <property name="contextMenuPolicy">
+       <enum>Qt::ContextMenuPolicy::CustomContextMenu</enum>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(105, 183, 255);</string>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::Shape::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Shadow::Raised</enum>
+      </property>
+      <widget class="QLabel" name="label">
+       <property name="geometry">
+        <rect>
+         <x>680</x>
+         <y>0</y>
+         <width>371</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(105, 183, 255);</string>
+       </property>
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:20pt; font-weight:700;&quot;&gt;Crashle&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QFrame" name="frame_2">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>65</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(194, 223, 255);</string>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::Shape::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Shadow::Raised</enum>
+      </property>
+      <widget class="QLabel" name="label_2">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>821</width>
+         <height>21</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:700; color:#000000;&quot;&gt;Aplicació per a veure estadístiques d'accidents a Catalunya&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_3">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>20</y>
+         <width>861</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>50</height>
+        </size>
+       </property>
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Filtres d'accidents i mapa representatiu del punt exacte i amb major influència d'accidents&lt;/p&gt;&lt;p&gt;- Gràfics representatius a partir de les dades d'accidents a Catalunya&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>110</y>
+     <width>761</width>
+     <height>631</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QTabWidget" name="Filtres">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>500</height>
+       </size>
+      </property>
+      <property name="whatsThis">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">selection-color: rgb(255, 255, 255);
+background-color: rgb(174, 213, 255);</string>
+      </property>
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="Temporal">
+       <attribute name="title">
+        <string>Temporal</string>
+       </attribute>
+       <widget class="QWidget" name="gridLayoutWidget">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>761</width>
+          <height>471</height>
+         </rect>
+        </property>
+        <layout class="QGridLayout" name="gridLayout">
+         <item row="3" column="0">
+          <widget class="QComboBox" name="Grup_Horari">
+           <item>
+            <property name="text">
+             <string>Matí</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tarda</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Nit</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item row="4" column="0">
+          <widget class="QComboBox" name="Grup_dial">
+           <item>
+            <property name="text">
+             <string>Feiner</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Cap de setmana</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item row="2" column="0">
+          <widget class="QDateEdit" name="Data_fi"/>
+         </item>
+         <item row="1" column="0">
+          <widget class="QDateEdit" name="Data_Inici"/>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="Ubicacio">
+       <attribute name="title">
+        <string>Ubicacion</string>
+       </attribute>
+       <widget class="QWidget" name="gridLayoutWidget_2">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>761</width>
+          <height>471</height>
+         </rect>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_2">
+         <item row="2" column="0">
+          <widget class="QComboBox" name="Provincia">
+           <item>
+            <property name="text">
+             <string>Barcelona</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Girona</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tarragona</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Lleida</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item row="0" column="0">
+          <widget class="QComboBox" name="Tipus_via">
+           <item>
+            <property name="text">
+             <string>Autopista</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Camp rural/Pista forestal</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Autovia</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Carretera convencional</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Urbà</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Altres</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="Vehicles_Gravetat">
+       <property name="mouseTracking">
+        <bool>false</bool>
+       </property>
+       <attribute name="title">
+        <string>Vehicles i gravetat</string>
+       </attribute>
+       <widget class="QWidget" name="gridLayoutWidget_3">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>761</width>
+          <height>471</height>
+         </rect>
+        </property>
+        <layout class="QGridLayout" name="Vehicle_gravetat_2">
+         <item row="0" column="0">
+          <widget class="QComboBox" name="Tipus_Vehicle">
+           <property name="minimumSize">
+            <size>
+             <width>309</width>
+             <height>22</height>
+            </size>
+           </property>
+           <item>
+            <property name="text">
+             <string>Vehicles lleugers</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Moto</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Ciclomotor</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Vehicles pesants</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Vianant</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Bicicleta</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Altres</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QComboBox" name="Defuncions">
+           <item>
+            <property name="text">
+             <string>Accident greu</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Accident mortal</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Sense especificar</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="Condicions_ambientals">
+       <attribute name="title">
+        <string>Condicions ambientals</string>
+       </attribute>
+       <widget class="QWidget" name="gridLayoutWidget_4">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>761</width>
+          <height>471</height>
+         </rect>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_4">
+         <item row="1" column="0">
+          <widget class="QComboBox" name="comboBox_6">
+           <item>
+            <property name="text">
+             <string>Alba o capvespre</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>De dia, dia clar</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>De dia, dia fosc</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>De nit, il·luminació artificial insuficient</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>De nit, il·luminació artificial suficient</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>De nit, sense llum artificial</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Sense especificar</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item row="0" column="0">
+          <widget class="QComboBox" name="comboBox_5">
+           <item>
+            <property name="text">
+             <string>Bon temps</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Pluja débil</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Pluja forta</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Calamarsa</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Boira</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Vent</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Sense especificar</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item row="2" column="0">
+          <widget class="QComboBox" name="comboBox">
+           <item>
+            <property name="text">
+             <string>Sec i net</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Relliscós</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Nevat</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Mullat</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Inundat</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Gelat</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Sense especificar</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QWidget" name="Aplicar_filtres" native="true">
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(255, 255, 255);</string>
+      </property>
+      <widget class="QPushButton" name="pushButton">
+       <property name="geometry">
+        <rect>
+         <x>130</x>
+         <y>30</y>
+         <width>151</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">color: rgb(0, 0, 255);</string>
+       </property>
+       <property name="text">
+        <string>Aplicar filtres</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pushButton_2">
+       <property name="geometry">
+        <rect>
+         <x>440</x>
+         <y>30</y>
+         <width>151</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">color: rgb(0, 0, 255);
+border-color: rgb(0, 0, 255);</string>
+       </property>
+       <property name="text">
+        <string>Netejar</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>740</y>
+     <width>1761</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_3"/>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QWebEngineView</class>
+   <extends>QWidget</extends>
+   <header location="global">QtWebEngineWidgets/QWebEngineView</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>pushButton</tabstop>
+  <tabstop>pushButton_2</tabstop>
+  <tabstop>Grup_Horari</tabstop>
+  <tabstop>Grup_dial</tabstop>
+  <tabstop>Data_fi</tabstop>
+  <tabstop>Data_Inici</tabstop>
+  <tabstop>Provincia</tabstop>
+  <tabstop>Tipus_via</tabstop>
+  <tabstop>Tipus_Vehicle</tabstop>
+  <tabstop>Defuncions</tabstop>
+  <tabstop>Filtres</tabstop>
+  <tabstop>comboBox_6</tabstop>
+  <tabstop>comboBox_5</tabstop>
+  <tabstop>comboBox</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
