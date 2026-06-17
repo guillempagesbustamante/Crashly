@@ -10,7 +10,7 @@ CACHE_PATH = os.path.join(BASE_DIR, "geocode_cache.json")
 
 class Markers:
 
-    COLUMNES = ["via", "pk", "nomMun", "nomDem","dat", "hor", "D_GRAVETAT", "tipAcc", "D_SUBTIPUS_ACCIDENT"]
+    COLUMNES = ["via", "pk", "nomMun", "nomDem","dat", "hor", "D_GRAVETAT", "tipAcc", "D_SUBTIPUS_ACCIDENT","F_VICTIMES","F_MORTS","D_CLIMATOLOGIA"]
 
     def __init__(self):
         self.geolocator = Nominatim(user_agent="accidents_app")
