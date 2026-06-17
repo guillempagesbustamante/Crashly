@@ -306,5 +306,118 @@ background-color: rgb(243, 247, 255);</string>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>dateEdit</sender>
+   <signal>dateTimeChanged(QDateTime)</signal>
+   <receiver>pushButton</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>139</x>
+     <y>205</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>158</x>
+     <y>240</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dateEdit_2</sender>
+   <signal>dateTimeChanged(QDateTime)</signal>
+   <receiver>pushButton</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>444</x>
+     <y>207</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>439</x>
+     <y>241</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_2</sender>
+   <signal>currentIndexChanged(int)</signal>
+   <receiver>pushButton</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>702</x>
+     <y>207</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>568</x>
+     <y>233</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_5</sender>
+   <signal>activated(int)</signal>
+   <receiver>pushButton</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>930</x>
+     <y>205</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>563</x>
+     <y>238</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>mapFrame</receiver>
+   <slot>update()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>334</x>
+     <y>238</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>331</x>
+     <y>345</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>viaFrame</receiver>
+   <slot>update()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>381</x>
+     <y>241</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>699</x>
+     <y>344</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>provincesFrame</receiver>
+   <slot>update()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>367</x>
+     <y>239</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>995</x>
+     <y>355</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
 </ui>

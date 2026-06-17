@@ -9,16 +9,16 @@ CACHE_PATH = os.path.join(BASE_DIR, "geocode_cache.json")
 
 
 class Markers:
-
-    COLUMNES = ["via", "pk", "nomMun", "dat", "hor", "D_GRAVETAT", "tipAcc", "D_SUBTIPUS_ACCIDENT"]
+    COLUMNES = ["via", "pk", "nomMun", "nomDem", "dat", "hor", "D_GRAVETAT", "tipAcc", "D_TIPUS_VIA"]
 
     def __init__(self):
         self.geolocator = Nominatim(user_agent="accidents_app")
         self.geocode = RateLimiter(self.geolocator.geocode, min_delay_seconds=1)
-        self._dades = None                        # DataFrame cache
-        self._geo_cache = self._carregar_cache()  # address → [lat, lon] | null
+        self._dades = None
+        self._geo_cache = self._carregar_cache()
 
-    # ------------------------------------------------------------------ #
+        # ------------------------------------------------------------------ #
+
     #  GEOCODE CACHE  (geocode_cache.json)                                #
     # ------------------------------------------------------------------ #
 
@@ -37,14 +37,7 @@ class Markers:
     def construir_cache(self):
         """
         One-time setup: geocode every unique address in the dataset and save
-        results to geocode_cache.json.  Run this ONCE from a script or shell:
-
-            from markers import Markers
-            Markers().construir_cache()
-
-        After that, the app never calls Nominatim at runtime again.
-        Progress is saved every 50 addresses so you can safely interrupt
-        and resume — already-cached addresses are skipped automatically.
+        results to geocode_cache.json.
         """
         df = self.cargar_datos()
         adreces = (
@@ -58,7 +51,7 @@ class Markers:
         for i, (_, fila) in enumerate(adreces.iterrows(), 1):
             adreca = f"{fila['via']} {fila['nomMun']}"
             if adreca in self._geo_cache:
-                continue  # already cached, skip
+                continue
 
             try:
                 location = self.geocode(adreca)
@@ -87,7 +80,7 @@ class Markers:
             csv_path = os.path.join(BASE_DIR, "base_dades.csv")
             self._dades = pd.read_csv(csv_path, usecols=self.COLUMNES, encoding="utf-8-sig")
             self._dades["dat"] = pd.to_datetime(
-                self._dades["dat"], dayfirst=False, errors="coerce"
+                self._dades["dat"], dayfirst=True, errors="coerce"
             )
         return self._dades
 
@@ -96,50 +89,37 @@ class Markers:
     # ------------------------------------------------------------------ #
 
     def filtrar(
-        self,
-        data_inici=None,   # "DD/MM/YYYY"  – start date (inclusive)
-        data_fi=None,      # "DD/MM/YYYY"  – end date   (inclusive)
-        hora_inici=None,   # int 0-23       – start hour (inclusive)
-        hora_fi=None,      # int 0-23       – end hour   (inclusive)
-        gravetat=None,     # str or list    – e.g. "Mort" / ["Mort","Ferit greu"]
-        tipus_acc=None,    # str or list    – value(s) from tipAcc
-        municipi=None,     # str or list    – value(s) from nomMun
+            self,
+            data_inici=None,
+            data_fi=None,
+            hora_inici=None,
+            hora_fi=None,
+            gravetat=None,
+            tipus_acc=None,
+            municipi=None,
     ):
-        """
-        Return a filtered DataFrame. All parameters are optional;
-        omit any to skip that filter.
-        """
         df = self.cargar_datos().copy()
 
+        # Filtro de fecha de Inicio
         if data_inici:
-            df = df[df["dat"] >= pd.to_datetime(data_inici, dayfirst=True)]
+            dt_inici = pd.to_datetime(data_inici, format="%d/%m/%Y", errors="coerce")
+            if not pd.isna(dt_inici):
+                df = df[df["dat"] >= dt_inici]
+
+        # Filtro de fecha Fin
         if data_fi:
-            df = df[df["dat"] <= pd.to_datetime(data_fi, dayfirst=True)]
+            dt_fi = pd.to_datetime(data_fi, format="%d/%m/%Y", errors="coerce")
+            if not pd.isna(dt_fi):
+                df = df[df["dat"] <= dt_fi]
 
-        if hora_inici is not None:
-            df = df[df["hor"] >= hora_inici]
-        if hora_fi is not None:
-            df = df[df["hor"] <= hora_fi]
+        # Filtro de gravedad
+        if gravetat and gravetat != "Seleccionar":
+            df = df[df["D_GRAVETAT"].str.upper() == gravetat.upper()]
 
-        if gravetat:
-            if isinstance(gravetat, str):
-                gravetat = [gravetat]
-            df = df[df["D_GRAVETAT"].isin(gravetat)]
-
-        if tipus_acc:
-            if isinstance(tipus_acc, str):
-                tipus_acc = [tipus_acc]
-            df = df[df["tipAcc"].isin(tipus_acc)]
-
-        if municipi:
-            if isinstance(municipi, str):
-                municipi = [municipi]
-            df = df[df["nomMun"].isin(municipi)]
-
-        return df.reset_index(drop=True)
+        return df
 
     # ------------------------------------------------------------------ #
-    #  GEOCODING  (cache-first, no live calls at runtime)                 #
+    #  GEOCODING                                                         #
     # ------------------------------------------------------------------ #
 
     def _coords_per_adreca(self, via, nom_mun):
@@ -153,12 +133,7 @@ class Markers:
         return None, None
 
     def obtenir_tots_marcadors(self, df=None):
-        """
-        Return a list of marker dicts for every row in *df* that has
-        coordinates in the cache.  Pass the result of filtrar() here.
-
-            [{"lat": ..., "lon": ..., "gravetat": ..., "dat": ..., ...}, ...]
-        """
+        """Return a list of marker dicts for every row in *df*."""
         if df is None:
             df = self.cargar_datos()
 
@@ -167,19 +142,15 @@ class Markers:
             lat, lon = self._coords_per_adreca(fila["via"], fila["nomMun"])
             if lat is not None:
                 marcadors.append({
-                    "lat":      lat,
-                    "lon":      lon,
-                    "dat":      fila["dat"],
-                    "hor":      fila["hor"],
+                    "lat": lat,
+                    "lon": lon,
+                    "dat": fila["dat"],
+                    "hor": fila["hor"],
                     "gravetat": fila["D_GRAVETAT"],
-                    "tipAcc":   fila["tipAcc"],
+                    "tipAcc": fila["tipAcc"],
                     "municipi": fila["nomMun"],
                 })
         return marcadors
-
-    # ------------------------------------------------------------------ #
-    #  HELPER – unique values for building UI dropdowns                   #
-    # ------------------------------------------------------------------ #
 
     def valors_unics(self, columna):
         """Return sorted unique non-null values of a column."""
