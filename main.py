@@ -11,6 +11,8 @@ from matplotlib.figure import Figure
 from Marker import Markers
 from ui_main_window import Ui_MainWindow
 
+# Si no necesitas reconstruir la cache en cada inicio, puedes comentar la línea de abajo
+Markers().construir_cache()
 
 class MplCanvas(FigureCanvas):
     def __init__(self):
@@ -42,16 +44,23 @@ class MainWindow(QMainWindow):
         self.ui.verticalLayout_3.addWidget(self.canvas_province)
         self.ui.verticalLayout_4.addWidget(self.canvas_temporal)
 
-        # Configurar las fechas por defecto correctas en la interfaz (2010 a 2023)
-        self.ui.dateEdit.setDate(QDate(2010, 1, 1))
-        self.ui.dateEdit_2.setDate(QDate(2023, 12, 31))
+        # Límites históricos globales de la base de datos
+        self.MIN_FECHA_GLOBAL = QDate(2010, 1, 1)
+        self.MAX_FECHA_GLOBAL = QDate(2023, 12, 31)
 
-        # Impedir físicamente bajar del año 2010 y subir del año 2023 en los calendarios
-        self.ui.dateEdit.setMinimumDate(QDate(2010, 1, 1))
-        self.ui.dateEdit.setMaximumDate(QDate(2023, 12, 31))
+        # Impedir físicamente bajar de 2010 o subir de 2023 en los calendarios de forma absoluta
+        self.ui.dateEdit.setMinimumDate(self.MIN_FECHA_GLOBAL)
+        self.ui.dateEdit.setMaximumDate(self.MAX_FECHA_GLOBAL)
+        self.ui.dateEdit_2.setMinimumDate(self.MIN_FECHA_GLOBAL)
+        self.ui.dateEdit_2.setMaximumDate(self.MAX_FECHA_GLOBAL)
 
-        self.ui.dateEdit_2.setMinimumDate(QDate(2010, 1, 1))
-        self.ui.dateEdit_2.setMaximumDate(QDate(2023, 12, 31))
+        # Configurar las fechas iniciales de partida según tu ejemplo
+        self.ui.dateEdit.setDate(QDate(2022, 1, 1))
+        self.ui.dateEdit_2.setDate(QDate(2023, 1, 1))
+
+        # --- Conexiones dinámicas para el efecto "arrastre" (máximo 1 año) ---
+        self.ui.dateEdit.dateChanged.connect(self.on_date_inici_changed)
+        self.ui.dateEdit_2.dateChanged.connect(self.on_date_fi_changed)
 
         # --- Gráfico temporal FIJO nada más iniciar la página web ---
         self.inicializar_grafico_temporal_fijo()
@@ -60,8 +69,54 @@ class MainWindow(QMainWindow):
         self.ui.pushButton.clicked.connect(self.procesar_filtros_y_actualizar)
         self.ui.pushButton_2.clicked.connect(self.limpiar_filtros)
 
-        # Carga inicial de la web: mapa y sectores con los filtros por defecto (Muestra todo)
+        # Carga inicial de la web: mapa y sectores con los filtros por defecto
         self.procesar_filtros_y_actualizar()
+
+    def on_date_inici_changed(self, nueva_fecha_inici):
+        """Se ejecuta cuando el usuario cambia la fecha de INICIO"""
+        # Desconectamos señales para evitar bucles infinitos al programar fechas por código
+        self.ui.dateEdit.dateChanged.disconnect(self.on_date_inici_changed)
+        self.ui.dateEdit_2.dateChanged.disconnect(self.on_date_fi_changed)
+
+        fecha_fi_actual = self.ui.dateEdit_2.date()
+
+        # Regla 1: La fecha de inicio siempre debe ser igual o menor que la fecha final
+        if nueva_fecha_inici > fecha_fi_actual:
+            self.ui.dateEdit_2.setDate(nueva_fecha_inici)
+            fecha_fi_actual = nueva_fecha_inici
+
+        # Regla 2: Si el intervalo supera un año, arrastramos/bajamos la fecha fin
+        un_ano_adelante = nueva_fecha_inici.addYears(1)
+        if fecha_fi_actual > un_ano_adelante:
+            # Forzamos que la fecha fin baje para mantener el intervalo máximo de un año
+            self.ui.dateEdit_2.setDate(un_ano_adelante)
+
+        # Volvemos a conectar las señales
+        self.ui.dateEdit.dateChanged.connect(self.on_date_inici_changed)
+        self.ui.dateEdit_2.dateChanged.connect(self.on_date_fi_changed)
+
+    def on_date_fi_changed(self, nueva_fecha_fi):
+        """Se ejecuta cuando el usuario cambia la fecha FINAL"""
+        # Desconectamos señales para evitar bucles infinitos al programar fechas por código
+        self.ui.dateEdit.dateChanged.disconnect(self.on_date_inici_changed)
+        self.ui.dateEdit_2.dateChanged.disconnect(self.on_date_fi_changed)
+
+        fecha_inici_actual = self.ui.dateEdit.date()
+
+        # Regla 1: La fecha final siempre debe ser mayor o igual que la inicial
+        if nueva_fecha_fi < fecha_inici_actual:
+            self.ui.dateEdit.setDate(nueva_fecha_fi)
+            fecha_inici_actual = nueva_fecha_fi
+
+        # Regla 2: Si el intervalo supera un año, arrastramos/subimos la fecha inicio
+        un_ano_atras = nueva_fecha_fi.addYears(-1)
+        if fecha_inici_actual < un_ano_atras:
+            # Forzamos que la fecha inicio suba para mantener el intervalo máximo de un año
+            self.ui.dateEdit.setDate(un_ano_atras)
+
+        # Volvemos a conectar las señales
+        self.ui.dateEdit.dateChanged.connect(self.on_date_inici_changed)
+        self.ui.dateEdit_2.dateChanged.connect(self.on_date_fi_changed)
 
     def inicializar_grafico_temporal_fijo(self):
         """Carga TODO el histórico de datos sin importar los filtros y dibuja el gráfico de líneas"""
@@ -132,7 +187,7 @@ class MainWindow(QMainWindow):
 
         lista_marcadors = self.markers_engine.obtenir_tots_marcadors(df)
 
-        for m in lista_marcadors[:600]:
+        for m in lista_marcadors[:1000]:
             color_nodo = "red" if "mortal" in str(m["gravetat"]).lower() else "orange"
             fecha_bonita = m['dat'].strftime('%d/%m/%Y') if hasattr(m['dat'], 'strftime') else str(m['dat'])
 
@@ -153,10 +208,9 @@ class MainWindow(QMainWindow):
     def renderizar_graficos_sectoriales(self, df):
         """Calcula los datos según los filtros y pinta los diagramas de queso con leyenda"""
 
-        # --- 1. SECTORIAL TIPOS DE VÍA (SEPARADO RURAL Y PORCENTAJES EN LEYENDA) ---
+        # --- 1. SECTORIAL TIPOS DE VÍA ---
         self.canvas_via.axes.clear()
         if not df.empty and "D_TIPUS_VIA" in df.columns:
-            # MAPEO EN CATALÁN: Volvemos a separar 'Camí rural/pista forestal' de 'Altres'
             mapeo_vias = {
                 "Via urbana( inclou carrer i carrer residencial)": "Via urbana",
                 "Carretera convencional": "Carretera convencional",
@@ -170,20 +224,17 @@ class MainWindow(QMainWindow):
             via_counts = tipos_vias.value_counts()
             total_vias = via_counts.sum()
 
-            # SOLUCIÓN AL APELOTONAMIENTO: Ocultamos texto interno en el gráfico para que no se superponga
             wedges, _ = self.canvas_via.axes.pie(
                 via_counts.values,
                 startangle=90,
                 radius=1
             )
 
-            # Construimos las etiquetas de la leyenda integrando los porcentajes reales de forma limpia
             etiquetas_con_pct = [
                 f"{index} ({(val / total_vias * 100):.1f}%)"
                 for index, val in zip(via_counts.index, via_counts.values)
             ]
 
-            # Ubicación óptima: debajo del gráfico sin colisiones de texto
             self.canvas_via.axes.legend(
                 wedges, etiquetas_con_pct,
                 loc="upper center",
@@ -196,7 +247,7 @@ class MainWindow(QMainWindow):
         self.canvas_via.figure.tight_layout()
         self.canvas_via.draw()
 
-        # --- 2. SECTORIAL PROVINCIAS (PORCENTAJES EN LEYENDA) ---
+        # --- 2. SECTORIAL PROVINCIAS ---
         self.canvas_province.axes.clear()
         if not df.empty and "nomDem" in df.columns:
             prov_counts = df["nomDem"].value_counts()
@@ -230,8 +281,9 @@ class MainWindow(QMainWindow):
         self.ui.comboBox_2.setCurrentIndex(0)
         self.ui.comboBox_5.setCurrentIndex(0)
 
-        self.ui.dateEdit.setDate(QDate(2010, 1, 1))
-        self.ui.dateEdit_2.setDate(QDate(2023, 12, 31))
+        # Restablecemos al rango por defecto del ejemplo inicial
+        self.ui.dateEdit.setDate(QDate(2022, 1, 1))
+        self.ui.dateEdit_2.setDate(QDate(2023, 1, 1))
 
         self.procesar_filtros_y_actualizar()
 
