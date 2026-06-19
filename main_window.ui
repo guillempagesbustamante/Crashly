@@ -244,48 +244,182 @@ background-color: rgb(243, 247, 255);</string>
         </widget>
        </item>
        <item>
-        <widget class="QFrame" name="dashboardFrame">
-         <property name="frameShape">
-          <enum>QFrame::Shape::StyledPanel</enum>
+        <widget class="QTabWidget" name="Dashboard">
+         <property name="currentIndex">
+          <number>2</number>
          </property>
-         <property name="frameShadow">
-          <enum>QFrame::Shadow::Raised</enum>
-         </property>
-         <layout class="QGridLayout" name="gridLayout_2">
-          <item row="0" column="0">
-           <widget class="QFrame" name="viaFrame">
-            <property name="frameShape">
-             <enum>QFrame::Shape::StyledPanel</enum>
-            </property>
-            <property name="frameShadow">
-             <enum>QFrame::Shadow::Raised</enum>
-            </property>
-            <layout class="QVBoxLayout" name="verticalLayout_2"/>
-           </widget>
-          </item>
-          <item row="0" column="1">
-           <widget class="QFrame" name="provincesFrame">
-            <property name="frameShape">
-             <enum>QFrame::Shape::StyledPanel</enum>
-            </property>
-            <property name="frameShadow">
-             <enum>QFrame::Shadow::Raised</enum>
-            </property>
-            <layout class="QVBoxLayout" name="verticalLayout_3"/>
-           </widget>
-          </item>
-          <item row="1" column="0" colspan="2">
-           <widget class="QFrame" name="temporalFrame">
-            <property name="frameShape">
-             <enum>QFrame::Shape::StyledPanel</enum>
-            </property>
-            <property name="frameShadow">
-             <enum>QFrame::Shadow::Raised</enum>
-            </property>
-            <layout class="QVBoxLayout" name="verticalLayout_4"/>
-           </widget>
-          </item>
-         </layout>
+         <widget class="QWidget" name="Pg1">
+          <property name="whatsThis">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pàgina 1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <attribute name="title">
+           <string>Pàgina 1</string>
+          </attribute>
+          <widget class="QFrame" name="frame">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>541</width>
+             <height>571</height>
+            </rect>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::Shape::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Shadow::Raised</enum>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_2">
+            <item row="0" column="1">
+             <widget class="QFrame" name="provincesFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="0">
+             <widget class="QFrame" name="viaFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0" colspan="2">
+             <widget class="QFrame" name="temporalFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+         <widget class="QWidget" name="Pg2">
+          <attribute name="title">
+           <string>Pàgina 2</string>
+          </attribute>
+          <widget class="QFrame" name="frame_5">
+           <property name="geometry">
+            <rect>
+             <x>-10</x>
+             <y>0</y>
+             <width>541</width>
+             <height>571</height>
+            </rect>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::Shape::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Shadow::Raised</enum>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_3">
+            <item row="0" column="0">
+             <widget class="QFrame" name="vehiclesFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="1">
+             <widget class="QFrame" name="llumFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0">
+             <widget class="QFrame" name="labFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="1">
+             <widget class="QFrame" name="frame_9">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+         <widget class="QWidget" name="Pg3">
+          <attribute name="title">
+           <string>Pàgina 3</string>
+          </attribute>
+          <widget class="QFrame" name="frame_10">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>541</width>
+             <height>571</height>
+            </rect>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::Shape::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Shadow::Raised</enum>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_4">
+            <item row="0" column="1">
+             <widget class="QFrame" name="climaFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="0">
+             <widget class="QFrame" name="velocitatFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0" colspan="2">
+             <widget class="QFrame" name="temporalviesFrame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </widget>
         </widget>
        </item>
       </layout>
@@ -384,38 +518,6 @@ background-color: rgb(243, 247, 255);</string>
     <hint type="destinationlabel">
      <x>331</x>
      <y>345</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>pushButton</sender>
-   <signal>clicked()</signal>
-   <receiver>viaFrame</receiver>
-   <slot>update()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>381</x>
-     <y>241</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>699</x>
-     <y>344</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>pushButton</sender>
-   <signal>clicked()</signal>
-   <receiver>provincesFrame</receiver>
-   <slot>update()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>367</x>
-     <y>239</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>995</x>
-     <y>355</y>
     </hint>
    </hints>
   </connection>
