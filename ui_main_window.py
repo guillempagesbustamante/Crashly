@@ -24,13 +24,13 @@ class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         if not MainWindow.objectName():
             MainWindow.setObjectName(u"MainWindow")
-        MainWindow.resize(1200, 911)
+        MainWindow.resize(1244, 911)
         MainWindow.setStyleSheet(u"background-color: rgb(243, 247, 255);")
         self.centralWidget = QWidget(MainWindow)
         self.centralWidget.setObjectName(u"centralWidget")
         self.centralWidget.setMaximumSize(QSize(16777215, 900))
-        self.verticalLayout_5 = QVBoxLayout(self.centralWidget)
-        self.verticalLayout_5.setObjectName(u"verticalLayout_5")
+        self.gridLayout_5 = QGridLayout(self.centralWidget)
+        self.gridLayout_5.setObjectName(u"gridLayout_5")
         self.headerFrame = QFrame(self.centralWidget)
         self.headerFrame.setObjectName(u"headerFrame")
         self.headerFrame.setMaximumSize(QSize(16777215, 250))
@@ -131,7 +131,7 @@ class Ui_MainWindow(object):
         self.verticalLayout_6.addWidget(self.FiltersGroup)
 
 
-        self.verticalLayout_5.addWidget(self.headerFrame)
+        self.gridLayout_5.addWidget(self.headerFrame, 0, 0, 1, 1)
 
         self.bottomFrame = QFrame(self.centralWidget)
         self.bottomFrame.setObjectName(u"bottomFrame")
@@ -142,7 +142,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout.setObjectName(u"horizontalLayout")
         self.mapFrame = QFrame(self.bottomFrame)
         self.mapFrame.setObjectName(u"mapFrame")
-        self.mapFrame.setMinimumSize(QSize(600, 0))
+        self.mapFrame.setMinimumSize(QSize(600, 600))
         self.mapFrame.setFrameShape(QFrame.Shape.StyledPanel)
         self.mapFrame.setFrameShadow(QFrame.Shadow.Raised)
         self.verticalLayout = QVBoxLayout(self.mapFrame)
@@ -152,21 +152,23 @@ class Ui_MainWindow(object):
 
         self.Dashboard = QTabWidget(self.bottomFrame)
         self.Dashboard.setObjectName(u"Dashboard")
+        self.Dashboard.setMinimumSize(QSize(600, 500))
+        self.Dashboard.setMaximumSize(QSize(600, 16777215))
         self.Pg1 = QWidget()
         self.Pg1.setObjectName(u"Pg1")
         self.frame = QFrame(self.Pg1)
         self.frame.setObjectName(u"frame")
-        self.frame.setGeometry(QRect(0, 0, 541, 571))
+        self.frame.setGeometry(QRect(0, 0, 591, 571))
         self.frame.setFrameShape(QFrame.Shape.StyledPanel)
         self.frame.setFrameShadow(QFrame.Shadow.Raised)
         self.gridLayout_2 = QGridLayout(self.frame)
         self.gridLayout_2.setObjectName(u"gridLayout_2")
-        self.provincesFrame = QFrame(self.frame)
-        self.provincesFrame.setObjectName(u"provincesFrame")
-        self.provincesFrame.setFrameShape(QFrame.Shape.StyledPanel)
-        self.provincesFrame.setFrameShadow(QFrame.Shadow.Raised)
+        self.temporalviesFrame = QFrame(self.frame)
+        self.temporalviesFrame.setObjectName(u"temporalviesFrame")
+        self.temporalviesFrame.setFrameShape(QFrame.Shape.StyledPanel)
+        self.temporalviesFrame.setFrameShadow(QFrame.Shadow.Raised)
 
-        self.gridLayout_2.addWidget(self.provincesFrame, 0, 1, 1, 1)
+        self.gridLayout_2.addWidget(self.temporalviesFrame, 1, 0, 1, 2)
 
         self.viaFrame = QFrame(self.frame)
         self.viaFrame.setObjectName(u"viaFrame")
@@ -175,29 +177,29 @@ class Ui_MainWindow(object):
 
         self.gridLayout_2.addWidget(self.viaFrame, 0, 0, 1, 1)
 
-        self.temporalFrame = QFrame(self.frame)
-        self.temporalFrame.setObjectName(u"temporalFrame")
-        self.temporalFrame.setFrameShape(QFrame.Shape.StyledPanel)
-        self.temporalFrame.setFrameShadow(QFrame.Shadow.Raised)
+        self.provincesFrame = QFrame(self.frame)
+        self.provincesFrame.setObjectName(u"provincesFrame")
+        self.provincesFrame.setFrameShape(QFrame.Shape.StyledPanel)
+        self.provincesFrame.setFrameShadow(QFrame.Shadow.Raised)
 
-        self.gridLayout_2.addWidget(self.temporalFrame, 1, 0, 1, 2)
+        self.gridLayout_2.addWidget(self.provincesFrame, 0, 1, 1, 1)
 
         self.Dashboard.addTab(self.Pg1, "")
         self.Pg2 = QWidget()
         self.Pg2.setObjectName(u"Pg2")
         self.frame_5 = QFrame(self.Pg2)
         self.frame_5.setObjectName(u"frame_5")
-        self.frame_5.setGeometry(QRect(-10, 0, 541, 571))
+        self.frame_5.setGeometry(QRect(-10, 0, 601, 571))
         self.frame_5.setFrameShape(QFrame.Shape.StyledPanel)
         self.frame_5.setFrameShadow(QFrame.Shadow.Raised)
         self.gridLayout_3 = QGridLayout(self.frame_5)
         self.gridLayout_3.setObjectName(u"gridLayout_3")
-        self.vehiclesFrame = QFrame(self.frame_5)
-        self.vehiclesFrame.setObjectName(u"vehiclesFrame")
-        self.vehiclesFrame.setFrameShape(QFrame.Shape.StyledPanel)
-        self.vehiclesFrame.setFrameShadow(QFrame.Shadow.Raised)
+        self.climaFrame = QFrame(self.frame_5)
+        self.climaFrame.setObjectName(u"climaFrame")
+        self.climaFrame.setFrameShape(QFrame.Shape.StyledPanel)
+        self.climaFrame.setFrameShadow(QFrame.Shadow.Raised)
 
-        self.gridLayout_3.addWidget(self.vehiclesFrame, 0, 0, 1, 1)
+        self.gridLayout_3.addWidget(self.climaFrame, 0, 0, 1, 1)
 
         self.llumFrame = QFrame(self.frame_5)
         self.llumFrame.setObjectName(u"llumFrame")
@@ -213,29 +215,29 @@ class Ui_MainWindow(object):
 
         self.gridLayout_3.addWidget(self.labFrame, 1, 0, 1, 1)
 
-        self.frame_9 = QFrame(self.frame_5)
-        self.frame_9.setObjectName(u"frame_9")
-        self.frame_9.setFrameShape(QFrame.Shape.StyledPanel)
-        self.frame_9.setFrameShadow(QFrame.Shadow.Raised)
+        self.horaFrame = QFrame(self.frame_5)
+        self.horaFrame.setObjectName(u"horaFrame")
+        self.horaFrame.setFrameShape(QFrame.Shape.StyledPanel)
+        self.horaFrame.setFrameShadow(QFrame.Shadow.Raised)
 
-        self.gridLayout_3.addWidget(self.frame_9, 1, 1, 1, 1)
+        self.gridLayout_3.addWidget(self.horaFrame, 1, 1, 1, 1)
 
         self.Dashboard.addTab(self.Pg2, "")
         self.Pg3 = QWidget()
         self.Pg3.setObjectName(u"Pg3")
         self.frame_10 = QFrame(self.Pg3)
         self.frame_10.setObjectName(u"frame_10")
-        self.frame_10.setGeometry(QRect(0, 0, 541, 571))
+        self.frame_10.setGeometry(QRect(0, 0, 591, 571))
         self.frame_10.setFrameShape(QFrame.Shape.StyledPanel)
         self.frame_10.setFrameShadow(QFrame.Shadow.Raised)
         self.gridLayout_4 = QGridLayout(self.frame_10)
         self.gridLayout_4.setObjectName(u"gridLayout_4")
-        self.climaFrame = QFrame(self.frame_10)
-        self.climaFrame.setObjectName(u"climaFrame")
-        self.climaFrame.setFrameShape(QFrame.Shape.StyledPanel)
-        self.climaFrame.setFrameShadow(QFrame.Shadow.Raised)
+        self.vehiclesFrame = QFrame(self.frame_10)
+        self.vehiclesFrame.setObjectName(u"vehiclesFrame")
+        self.vehiclesFrame.setFrameShape(QFrame.Shape.StyledPanel)
+        self.vehiclesFrame.setFrameShadow(QFrame.Shadow.Raised)
 
-        self.gridLayout_4.addWidget(self.climaFrame, 0, 1, 1, 1)
+        self.gridLayout_4.addWidget(self.vehiclesFrame, 0, 1, 1, 1)
 
         self.velocitatFrame = QFrame(self.frame_10)
         self.velocitatFrame.setObjectName(u"velocitatFrame")
@@ -244,35 +246,32 @@ class Ui_MainWindow(object):
 
         self.gridLayout_4.addWidget(self.velocitatFrame, 0, 0, 1, 1)
 
-        self.temporalviesFrame = QFrame(self.frame_10)
-        self.temporalviesFrame.setObjectName(u"temporalviesFrame")
-        self.temporalviesFrame.setFrameShape(QFrame.Shape.StyledPanel)
-        self.temporalviesFrame.setFrameShadow(QFrame.Shadow.Raised)
+        self.temporalFrame = QFrame(self.frame_10)
+        self.temporalFrame.setObjectName(u"temporalFrame")
+        self.temporalFrame.setFrameShape(QFrame.Shape.StyledPanel)
+        self.temporalFrame.setFrameShadow(QFrame.Shadow.Raised)
 
-        self.gridLayout_4.addWidget(self.temporalviesFrame, 1, 0, 1, 2)
+        self.gridLayout_4.addWidget(self.temporalFrame, 1, 0, 1, 2)
 
         self.Dashboard.addTab(self.Pg3, "")
 
         self.horizontalLayout.addWidget(self.Dashboard)
 
 
-        self.verticalLayout_5.addWidget(self.bottomFrame)
+        self.gridLayout_5.addWidget(self.bottomFrame, 1, 0, 1, 1)
 
         MainWindow.setCentralWidget(self.centralWidget)
         self.menubar = QMenuBar(MainWindow)
         self.menubar.setObjectName(u"menubar")
-        self.menubar.setGeometry(QRect(0, 0, 1200, 22))
+        self.menubar.setGeometry(QRect(0, 0, 1244, 22))
         MainWindow.setMenuBar(self.menubar)
         self.statusbar = QStatusBar(MainWindow)
         self.statusbar.setObjectName(u"statusbar")
         MainWindow.setStatusBar(self.statusbar)
 
         self.retranslateUi(MainWindow)
-        self.dateEdit.dateTimeChanged.connect(self.pushButton.click)
-        self.dateEdit_2.dateTimeChanged.connect(self.pushButton.click)
-        self.comboBox_2.currentIndexChanged.connect(self.pushButton.click)
-        self.comboBox_5.activated.connect(self.pushButton.click)
-        self.pushButton.clicked.connect(self.mapFrame.update)
+        self.pushButton_2.clicked.connect(MainWindow.limpiar_filtros)
+        self.pushButton.clicked.connect(MainWindow.aplicar_filtros_manualmente)
 
         self.Dashboard.setCurrentIndex(2)
 

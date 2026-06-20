@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1200</width>
+    <width>1244</width>
     <height>911</height>
    </rect>
   </property>
@@ -23,8 +23,8 @@
      <height>900</height>
     </size>
    </property>
-   <layout class="QVBoxLayout" name="verticalLayout_5">
-    <item>
+   <layout class="QGridLayout" name="gridLayout_5">
+    <item row="0" column="0">
      <widget class="QFrame" name="headerFrame">
       <property name="maximumSize">
        <size>
@@ -211,7 +211,7 @@ background-color: rgb(243, 247, 255);</string>
       </layout>
      </widget>
     </item>
-    <item>
+    <item row="1" column="0">
      <widget class="QFrame" name="bottomFrame">
       <property name="maximumSize">
        <size>
@@ -231,7 +231,7 @@ background-color: rgb(243, 247, 255);</string>
          <property name="minimumSize">
           <size>
            <width>600</width>
-           <height>0</height>
+           <height>600</height>
           </size>
          </property>
          <property name="frameShape">
@@ -245,6 +245,18 @@ background-color: rgb(243, 247, 255);</string>
        </item>
        <item>
         <widget class="QTabWidget" name="Dashboard">
+         <property name="minimumSize">
+          <size>
+           <width>600</width>
+           <height>500</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>600</width>
+           <height>16777215</height>
+          </size>
+         </property>
          <property name="currentIndex">
           <number>2</number>
          </property>
@@ -260,7 +272,7 @@ background-color: rgb(243, 247, 255);</string>
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>541</width>
+             <width>591</width>
              <height>571</height>
             </rect>
            </property>
@@ -271,8 +283,8 @@ background-color: rgb(243, 247, 255);</string>
             <enum>QFrame::Shadow::Raised</enum>
            </property>
            <layout class="QGridLayout" name="gridLayout_2">
-            <item row="0" column="1">
-             <widget class="QFrame" name="provincesFrame">
+            <item row="1" column="0" colspan="2">
+             <widget class="QFrame" name="temporalviesFrame">
               <property name="frameShape">
                <enum>QFrame::Shape::StyledPanel</enum>
               </property>
@@ -291,8 +303,8 @@ background-color: rgb(243, 247, 255);</string>
               </property>
              </widget>
             </item>
-            <item row="1" column="0" colspan="2">
-             <widget class="QFrame" name="temporalFrame">
+            <item row="0" column="1">
+             <widget class="QFrame" name="provincesFrame">
               <property name="frameShape">
                <enum>QFrame::Shape::StyledPanel</enum>
               </property>
@@ -313,7 +325,7 @@ background-color: rgb(243, 247, 255);</string>
             <rect>
              <x>-10</x>
              <y>0</y>
-             <width>541</width>
+             <width>601</width>
              <height>571</height>
             </rect>
            </property>
@@ -325,7 +337,7 @@ background-color: rgb(243, 247, 255);</string>
            </property>
            <layout class="QGridLayout" name="gridLayout_3">
             <item row="0" column="0">
-             <widget class="QFrame" name="vehiclesFrame">
+             <widget class="QFrame" name="climaFrame">
               <property name="frameShape">
                <enum>QFrame::Shape::StyledPanel</enum>
               </property>
@@ -355,7 +367,7 @@ background-color: rgb(243, 247, 255);</string>
              </widget>
             </item>
             <item row="1" column="1">
-             <widget class="QFrame" name="frame_9">
+             <widget class="QFrame" name="horaFrame">
               <property name="frameShape">
                <enum>QFrame::Shape::StyledPanel</enum>
               </property>
@@ -376,7 +388,7 @@ background-color: rgb(243, 247, 255);</string>
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>541</width>
+             <width>591</width>
              <height>571</height>
             </rect>
            </property>
@@ -388,7 +400,7 @@ background-color: rgb(243, 247, 255);</string>
            </property>
            <layout class="QGridLayout" name="gridLayout_4">
             <item row="0" column="1">
-             <widget class="QFrame" name="climaFrame">
+             <widget class="QFrame" name="vehiclesFrame">
               <property name="frameShape">
                <enum>QFrame::Shape::StyledPanel</enum>
               </property>
@@ -408,7 +420,7 @@ background-color: rgb(243, 247, 255);</string>
              </widget>
             </item>
             <item row="1" column="0" colspan="2">
-             <widget class="QFrame" name="temporalviesFrame">
+             <widget class="QFrame" name="temporalFrame">
               <property name="frameShape">
                <enum>QFrame::Shape::StyledPanel</enum>
               </property>
@@ -432,7 +444,7 @@ background-color: rgb(243, 247, 255);</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1200</width>
+     <width>1244</width>
      <height>22</height>
     </rect>
    </property>
@@ -442,84 +454,40 @@ background-color: rgb(243, 247, 255);</string>
  <resources/>
  <connections>
   <connection>
-   <sender>dateEdit</sender>
-   <signal>dateTimeChanged(QDateTime)</signal>
-   <receiver>pushButton</receiver>
-   <slot>click()</slot>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>limpiar_filtros()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>139</x>
-     <y>205</y>
+     <x>1150</x>
+     <y>212</y>
     </hint>
     <hint type="destinationlabel">
-     <x>158</x>
-     <y>240</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>dateEdit_2</sender>
-   <signal>dateTimeChanged(QDateTime)</signal>
-   <receiver>pushButton</receiver>
-   <slot>click()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>444</x>
-     <y>207</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>439</x>
-     <y>241</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>comboBox_2</sender>
-   <signal>currentIndexChanged(int)</signal>
-   <receiver>pushButton</receiver>
-   <slot>click()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>702</x>
-     <y>207</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>568</x>
-     <y>233</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>comboBox_5</sender>
-   <signal>activated(int)</signal>
-   <receiver>pushButton</receiver>
-   <slot>click()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>930</x>
-     <y>205</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>563</x>
-     <y>238</y>
+     <x>1243</x>
+     <y>253</y>
     </hint>
    </hints>
   </connection>
   <connection>
    <sender>pushButton</sender>
    <signal>clicked()</signal>
-   <receiver>mapFrame</receiver>
-   <slot>update()</slot>
+   <receiver>MainWindow</receiver>
+   <slot>aplicar_filtros_manualmente()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>334</x>
-     <y>238</y>
+     <x>455</x>
+     <y>219</y>
     </hint>
     <hint type="destinationlabel">
-     <x>331</x>
-     <y>345</y>
+     <x>1298</x>
+     <y>401</y>
     </hint>
    </hints>
   </connection>
  </connections>
+ <slots>
+  <slot>aplicar_filtros_manualmente()</slot>
+  <slot>limpiar_filtros()</slot>
+ </slots>
 </ui>
