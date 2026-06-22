@@ -154,6 +154,71 @@ class Stats:
         ordenat = dict(sorted(resultat.items(), key=lambda x: x[1], reverse=True))
         return dict(list(ordenat.items())[:top_n])
 
+    def distribucio_per_tipus_vehicle(self):
+        """
+        Return a dict {tipus_vehicle: total_implicats} summing how many
+        vehicles of each type were involved across all accidents in this
+        dataset. Requires the F_*_IMPLICADES columns in Markers.COLUMNES.
+        """
+        columnes_vehicle = {
+            "Vianants": "F_VIANANTS_IMPLICADES",
+            "Bicicletes": "F_BICICLETES_IMPLICADES",
+            "Ciclomotors": "F_CICLOMOTORS_IMPLICADES",
+            "Motocicletes": "F_MOTOCICLETES_IMPLICADES",
+            "Vehicles lleugers": "F_VEH_LLEUGERS_IMPLICADES",
+            "Vehicles pesants": "F_VEH_PESANTS_IMPLICADES",
+            "Altres": "F_ALTRES_UNIT_IMPLICADES",
+        }
+
+        resultat = {}
+        for nom, columna in columnes_vehicle.items():
+            if columna not in self.df.columns:
+                raise KeyError(
+                    f"Falta la columna '{columna}'. Afegeix-la a Markers.COLUMNES "
+                    "per poder calcular aquesta estadística."
+                )
+            resultat[nom] = int(self.df[columna].fillna(0).sum())
+
+        return dict(sorted(resultat.items(), key=lambda x: x[1], reverse=True))
+
+    def tipus_vehicle_mes_implicat(self):
+        """Return the vehicle type most frequently involved in accidents."""
+        distribucio = self.distribucio_per_tipus_vehicle()
+        if not distribucio:
+            return None
+        return max(distribucio, key=distribucio.get)
+
+    def distribucio_per_lluminositat(self):
+        """
+        Return a dict {condicio_lluminositat: count}, e.g.
+        "Ple dia", "Crepuscle", "Nit amb enllumenat", "Nit sense enllumenat", etc.
+        Requires the D_LLUMINOSITAT column in Markers.COLUMNES.
+        """
+        if "D_LLUMINOSITAT" not in self.df.columns:
+            raise KeyError(
+                "Falta la columna 'D_LLUMINOSITAT'. Afegeix-la a Markers.COLUMNES "
+                "per poder calcular aquesta estadística."
+            )
+        counts = self.df["D_LLUMINOSITAT"].dropna().value_counts()
+        return counts.to_dict()
+
+    def taxa_mortalitat_per_lluminositat(self):
+        """
+        Return a dict {condicio_lluminositat: mortality_rate_%} showing
+        which lighting conditions are deadliest.
+        """
+        if "D_LLUMINOSITAT" not in self.df.columns:
+            raise KeyError(
+                "Falta la columna 'D_LLUMINOSITAT'. Afegeix-la a Markers.COLUMNES "
+                "per poder calcular aquesta estadística."
+            )
+        resultat = {}
+        for condicio in self.df["D_LLUMINOSITAT"].dropna().unique():
+            subset = self.df[self.df["D_LLUMINOSITAT"] == condicio]
+            total = len(subset)
+            mortals = len(subset[subset["D_GRAVETAT"] == "Accident mortal"])
+            resultat[condicio] = round((mortals / total) * 100, 2) if total else 0.0
+        return dict(sorted(resultat.items(), key=lambda x: x[1], reverse=True))
     # ------------------------------------------------------------------ #
     #  SUMMARY                                                            #
     # ------------------------------------------------------------------ #
