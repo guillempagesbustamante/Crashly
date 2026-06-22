@@ -10,11 +10,10 @@ CACHE_PATH = os.path.join(BASE_DIR, "geocode_cache.json")
 
 class Markers:
     COLUMNES = [
-        "via", "pk", "nomMun", "nomDem", "dat", "hor", "D_GRAVETAT", "tipAcc", "D_TIPUS_VIA",
-        "F_VIANANTS_IMPLICADES", "F_BICICLETES_IMPLICADES", "F_CICLOMOTORS_IMPLICADES",
-        "F_MOTOCICLETES_IMPLICADES", "F_VEH_LLEUGERS_IMPLICADES", "F_VEH_PESANTS_IMPLICADES",
-        "F_ALTRES_UNIT_IMPLICADES", "D_LLUMINOSITAT", "grupHor", "grupDiaLab",
-        "C_VELOCITAT_VIA", "D_CLIMATOLOGIA"
+        "via", "pk", "nomMun", "nomDem", "dat", "hor", "D_GRAVETAT", "tipAcc", "D_SUBTIPUS_ACCIDENT", "F_VICTIMES",
+        "F_MORTS", "D_CLIMATOLOGIA", "D_LLUMINOSITAT", "F_VIANANTS_IMPLICADES", "F_BICICLETES_IMPLICADES",
+        "F_CICLOMOTORS_IMPLICADES", "F_MOTOCICLETES_IMPLICADES", "F_VEH_LLEUGERS_IMPLICADES",
+        "F_VEH_PESANTS_IMPLICADES", "F_ALTRES_UNIT_IMPLICADES"
     ]
 
     def __init__(self):
