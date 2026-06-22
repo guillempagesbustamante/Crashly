@@ -309,7 +309,6 @@ class MainWindow(QMainWindow):
         self.ui.dateEdit_2.blockSignals(False)
         self.aplicar_filtros_manualmente()
 
-
 if __name__ == "__main__":
     os.environ["QTWEBENGINE_DISABLE_GPU"] = "1"
     sys.argv.append("--disable-gpu")
