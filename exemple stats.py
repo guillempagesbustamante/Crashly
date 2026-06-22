@@ -1,5 +1,5 @@
-from Marker import Markers
-from Stats import Stats
+from Marker1 import Markers
+from Stats1 import Stats
 
 m = Markers()
 
