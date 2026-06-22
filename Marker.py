@@ -35,17 +35,17 @@ class Markers:
             json.dump(self._geo_cache, f, ensure_ascii=False, indent=2)
 
     def construir_cache(self):
-        """
-        Versión optimizada: Verifica qué direcciones faltan, pero NO bloquea
-        el inicio de la aplicación intentando buscar miles de calles a la vez.
-        """
+
+        #versió optimizada, verifica quines adreces falten, pero
+        #no fa totes a la vegada per tal de no sobrecargar el primer inici analitzant milers de dades
+
         df = self.cargar_datos()
         if df.empty:
             return
 
         adreces = df[df["via"] != "SE"][["via", "nomMun"]].drop_duplicates()
 
-        # Filtrar solo las calles que no existen en tu archivo json actual
+        # Filtra nomes els carrers que falten en el json
         adreces_nuevas = []
         for _, fila in adreces.iterrows():
             adreca = f"{fila['via']} {fila['nomMun']}"
@@ -59,7 +59,7 @@ class Markers:
         print(f"Cache actual: {len(self._geo_cache)} guardadas. Faltan {len(adreces_nuevas)} por geocodificar.")
         print("Buscando las primeras 5 nuevas direcciones de fondo para no congelar la app...")
 
-        # Buscamos solo 5 por cada vez que abras la app para ir rellenando el JSON poco a poco sin colgar la interfaz
+        # busquem de 5 en 5 per anar omplint el JSON poc a poc sense saturar la interfaz
         nous = 0
         for fila in adreces_nuevas[:5]:
             adreca = f"{fila['via']} {fila['nomMun']}"
@@ -74,6 +74,7 @@ class Markers:
         if nous > 0:
             self._guardar_cache()
             print("Cache actualizada con éxito.")
+
 
     def cargar_datos(self):
         if self._dades is None:

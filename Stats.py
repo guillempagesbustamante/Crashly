@@ -5,12 +5,9 @@ import pandas as pd
 
 class Stats:
    """
-   Statistics helper for the accident dataset.
+stats generals aribitraries
 
-
-   Pass in any DataFrame returned by Markers.cargar_datos() or
-   Markers.filtrar() — every method here works on whatever subset
-   you give it, so filtered stats "just work" the same way.
+ho fa tot respecte el cargar datos escollit, aixi que els filtres s'apliquen automaticament
    """
 
 
@@ -18,13 +15,13 @@ class Stats:
        self.df = df
 
 
-   # ------------------------------------------------------------------ #
-   #  TIME PATTERNS                                                      #
-   # ------------------------------------------------------------------ #
+   #  #
+   #  filtres de temps                                                      #
+   #  #
 
 
    def hora_mes_frequent(self):
-       """Return the hour (0-23) with the most accidents."""
+       """torna la hora (0-23) on succeeixen mes accidents"""
        if self.df.empty:
            return None
        hores = self.df["hor"].dropna().astype(int)
@@ -33,8 +30,7 @@ class Stats:
 
    def distribucio_per_hora(self):
        """
-       Return a dict {hour: count} for all 24 hours (0 if no accidents
-       in that hour), useful for a bar chart.
+       torna el nombre de accidents totals a cada hora
        """
        hores = self.df["hor"].dropna().astype(int)
        counts = hores.value_counts().to_dict()
@@ -43,8 +39,7 @@ class Stats:
 
    def distribucio_per_dia_setmana(self):
        """
-       Return a dict {day_name: count}, Monday through Sunday,
-       based on the 'dat' column.
+      torna el nombre de accidents per a cada dia de la setmana
        """
        dies = ["Dilluns", "Dimarts", "Dimecres", "Dijous", "Divendres", "Dissabte", "Diumenge"]
        df_valid = self.df.dropna(subset=["dat"])
@@ -53,7 +48,7 @@ class Stats:
 
 
    def distribucio_per_mes(self):
-       """Return a dict {month_number (1-12): count}."""
+       """torna el nombre de accidents per a cada mes (1-12)."""
        df_valid = self.df.dropna(subset=["dat"])
        counts = df_valid["dat"].dt.month.value_counts().to_dict()
        return {m: counts.get(m, 0) for m in range(1, 13)}
@@ -61,8 +56,7 @@ class Stats:
 
    def franja_mes_perillosa(self):
        """
-       Return the most dangerous time-of-day band:
-       Matí (6-12), Tarda (12-18), Vespre (18-22), Nit (22-6).
+       torna la franja de dia mes perillosa (mati tarda vespre nit)
        """
 
 
@@ -84,15 +78,14 @@ class Stats:
        return franges.mode()[0]
 
 
-   # ------------------------------------------------------------------ #
-   #  ENVIRONMENT & METRICS                                             #
-   # ------------------------------------------------------------------ #
+   #  #
+   #  clima velocitat vehicles                                            #
+   #  #
 
 
    def distribucio_climatologia(self):
        """
-       Return a dict {climatologia: count} ordered by accident frequency.
-       Fills missing values with 'Altres'.
+       torna el nombre de accidents per a cada situacio climatologica. si no hi ha pose altres
        """
        if self.df.empty or "D_CLIMATOLOGIA" not in self.df.columns:
            return {}
@@ -101,9 +94,7 @@ class Stats:
 
    def distribucio_velocitats(self, top_n=6):
        """
-       Return a dict {velocitat_kmh: count} for the top_n most frequent
-       speed limits regulated on the crash scenes.
-       Excludes NA values and 999 (code used for "no disponible / desconegut").
+       torna el top 6 nombre de accidents per a cada rang de velocitats, exclou NA i 999 ja que no aporten informacio interesant
        """
        if "C_VELOCITAT_VIA" not in self.df.columns:
            raise KeyError(
@@ -117,8 +108,7 @@ class Stats:
 
    def recompte_vehicles_implicats(self):
        """
-       Return a dict {tipus_vehicle: total_accidents_implicat} counting how many
-       accidents had at least one vehicle of each category involved.
+       torna el nombre de accidents en els que ha participat cada tipus de vehicle
        """
        columnes_vehiculos = {
            "F_VIANANTS_IMPLICADES": "Vianants",
@@ -142,13 +132,13 @@ class Stats:
        return dict(sorted(recompte.items(), key=lambda x: x[1], reverse=True))
 
 
-   # ------------------------------------------------------------------ #
-   #  SEVERITY & RISK                                                    #
-   # ------------------------------------------------------------------ #
+   #  #
+   #  gravetat i risc                                                    #
+   #  #
 
 
    def taxa_mortalitat(self):
-       """Return the % of accidents in this dataset that were fatal."""
+       """Percentatge de accidents mortals."""
        total = len(self.df)
        if total == 0:
            return 0.0
@@ -158,8 +148,7 @@ class Stats:
 
    def probabilitat_gravetat(self, gravetat):
        """
-       Return the probability (0-1) that a random accident in this
-       dataset has the given gravetat value (e.g. "Accident mortal").
+       percentatge de accidents per a cada grau de gravetat
        """
        total = len(self.df)
        if total == 0:
@@ -169,7 +158,7 @@ class Stats:
 
 
    def mitjana_victimes(self):
-       """Average victims per accident."""
+       """ mitjana victimes, autoexplicatiu."""
        if "F_VICTIMES" not in self.df.columns:
            raise KeyError(
                "Falta la columna 'F_VICTIMES'. Afegeix-la a Markers.COLUMNES."
@@ -178,7 +167,7 @@ class Stats:
 
 
    def risc_per_tipus_accident(self):
-       """Return a dict {tipus_accident: mortality_rate_%} ordered."""
+       """percentatge de mortalitat per a cada tipus daccident (atropellament, colisio etc."""
        resultat = {}
        for tipus in self.df["tipAcc"].dropna().unique():
            subset = self.df[self.df["tipAcc"] == tipus]
@@ -188,25 +177,25 @@ class Stats:
        return dict(sorted(resultat.items(), key=lambda x: x[1], reverse=True))
 
 
-   # ------------------------------------------------------------------ #
-   #  LOCATION-BASED                                                     #
-   # ------------------------------------------------------------------ #
+   #  #
+   # stats per ubicacio                                                     #
+   #  #
 
 
    def municipis_mes_perillosos(self, top_n=10):
-       """Return a dict {municipi: count} for the top_n towns."""
+       """num de accidents per a cada municipi (top10)."""
        counts = self.df["nomMun"].value_counts().head(top_n)
        return counts.to_dict()
 
 
    def vies_mes_perilloses(self, top_n=10):
-       """Return a dict {via: count} for the top_n roads."""
+       """num de accidents per a cada via (top10). """
        counts = self.df[self.df["via"] != "SE"]["via"].value_counts().head(top_n)
        return counts.to_dict()
 
 
    def taxa_mortalitat_per_municipi(self, top_n=10):
-       """Return a dict {municipi: mortality_rate_%} for the top_n towns."""
+       """ percentatge de accidents mortals per municipi top 10."""
        resultat = {}
        for municipi in self.df["nomMun"].dropna().unique():
            subset = self.df[self.df["nomMun"] == municipi]
@@ -222,9 +211,7 @@ class Stats:
 
    def distribucio_per_tipus_vehicle(self):
        """
-       Return a dict {tipus_vehicle: total_implicats} summing how many
-       vehicles of each type were involved across all accidents in this
-       dataset. Requires the F_*_IMPLICADES columns in Markers.COLUMNES.
+       torna un dict amb la suma de cada tipus de vehicle involucrat en un accident en la base de dades
        """
        columnes_vehicle = {
            "Vianants": "F_VIANANTS_IMPLICADES",
@@ -248,7 +235,7 @@ class Stats:
        return dict(sorted(resultat.items(), key=lambda x: x[1], reverse=True))
 
    def tipus_vehicle_mes_implicat(self):
-       """Return the vehicle type most frequently involved in accidents."""
+       """Torna el vehicle mes comu en accidents"""
        distribucio = self.distribucio_per_tipus_vehicle()
        if not distribucio:
            return None
@@ -256,9 +243,7 @@ class Stats:
 
    def distribucio_per_lluminositat(self):
        """
-       Return a dict {condicio_lluminositat: count}, e.g.
-       "Ple dia", "Crepuscle", "Nit amb enllumenat", "Nit sense enllumenat", etc.
-       Requires the D_LLUMINOSITAT column in Markers.COLUMNES.
+       torna el nombre de accidents per a cada condicio de lluminositat.
        """
        if "D_LLUMINOSITAT" not in self.df.columns:
            raise KeyError(
@@ -270,8 +255,7 @@ class Stats:
 
    def taxa_mortalitat_per_lluminositat(self):
        """
-       Return a dict {condicio_lluminositat: mortality_rate_%} showing
-       which lighting conditions are deadliest.
+      torna el percentatge de mortalitat per a cada condicio de lluminositat.
        """
        if "D_LLUMINOSITAT" not in self.df.columns:
            raise KeyError(
@@ -285,13 +269,13 @@ class Stats:
            mortals = len(subset[subset["D_GRAVETAT"] == "Accident mortal"])
            resultat[condicio] = round((mortals / total) * 100, 2) if total else 0.0
        return dict(sorted(resultat.items(), key=lambda x: x[1], reverse=True))
-   # ------------------------------------------------------------------ #
-   #  SUMMARY                                                            #
-   # ------------------------------------------------------------------ #
+   #  #
+   #  Resum                                                            #
+   #  #
 
 
    def resum(self):
-       """Quick all-in-one summary dict."""
+       """resum general de les dades."""
        return {
            "total_accidents": len(self.df),
            "taxa_mortalitat_%": self.taxa_mortalitat(),
