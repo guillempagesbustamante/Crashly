@@ -1,0 +1,119 @@
+@startuml
+title Diagrama de clases - Crashle (Estadístiques d'accidents de trànsit a Catalunya, 2010-2023)
+
+skinparam classAttributeIconSize 0
+skinparam monochrome true
+skinparam shadowing false
+
+package "Matplotlib & PySide6 (Libraries)" {
+    class QMainWindow
+    class FigureCanvasQTAgg
+}
+
+package "App Core" {
+    class MainWindow {
+        - ui : Ui_MainWindow
+        - markers_engine : Markers
+        - df_global : DataFrame
+        - mapView : QWebEngineView
+        - MIN_FECHA_GLOBAL : QDate
+        - MAX_FECHA_GLOBAL : QDate
+        + canvas_via : MplCanvas
+        + canvas_province : MplCanvas
+        + canvas_temporalvies : MplCanvas
+        + canvas_clima : MplCanvas
+        + canvas_llum : MplCanvas
+        + canvas_horari : MplCanvas
+        + canvas_dialab : MplCanvas
+        + canvas_velocitat : MplCanvas
+        + canvas_vehicles : MplCanvas
+        + canvas_temporal : MplCanvas
+        --
+        + __init__()
+        + inject_canvas(frame_destino, canvas_objeto)
+        + on_date_inici_changed(data)
+        + on_date_fi_changed(data)
+        + inicializar_graficos_fijos()
+        + aplicar_filtros_manualmente()
+        + renderizar_mapa(df)
+        + renderizar_graficos_sectoriales(df)
+        - sanejar_text(text) : String
+        - _crear_pastis(canvas, data_dict, titol, ncol, bbox, format_label)
+        + limpiar_filtros()
+    }
+
+    class MplCanvas {
+        + figure : Figure
+        + axes : Axes
+        --
+        + __init__(width, height)
+    }
+}
+
+package "Modules & Data" {
+    class Stats {
+        - df : DataFrame
+        --
+        + __init__(df)
+        + distribucio_climatologia() : Dict
+        + distribucio_per_lluminositat() : Dict
+        + distribucio_per_hora() : Dict
+        + distribucio_velocitats(top_n) : Dict
+        + recompte_vehicles_implicats() : Dict
+    }
+
+    class Markers {
+        + COLUMNS : list {static}
+        - geolocator : Nominatim
+        - geocode : RateLimiter
+        - _dades : DataFrame
+        - _geo_cache : dict
+        --
+        + cargar_datos() : DataFrame
+        + filtrar(data_inici, data_fi, gravetat) : DataFrame
+        + obtener_tots_marcadors(df) : List
+        + construir_cache()
+        - _carregar_cache()
+        - _guardar_cache()
+        - _coords_per_adreca(via, nomMun)
+    }
+
+    class Ui_MainWindow {
+        + centralWidget : QWidget
+        + mapFrame : QFrame
+        + Dashboard : QTabWidget
+        + comboBox_2 : QComboBox
+        + comboBox_5 : QComboBox
+        + dateEdit : QDateEdit
+        + dateEdit_2 : QDateEdit
+        --
+        + setupUi(MainWindow)
+        + retranslateUi(MainWindow)
+    }
+}
+
+package "External Services" {
+    class folium.Map <<library>>
+    class Nominatim <<library>>
+    class RateLimiter <<library>>
+    class DataFrame <<library>>
+}
+
+' --- Relaciones y Enlaces UML ---
+QMainWindow <|-- MainWindow : "Herencia"
+FigureCanvasQTAgg <|-- MplCanvas : "Herencia"
+
+MainWindow "1" *-- "1" Ui_MainWindow : "ui"
+MainWindow "1" o-- "1" Markers : "markers_engine"
+MainWindow "1" o-- "10" MplCanvas : "canvas_*"
+
+MainWindow ..> Stats : "crea / usa (temporalmente)"
+MainWindow ..> folium.Map : "usa / renderiza mapa"
+
+Markers "1" o-- "1" Nominatim : "geolocator"
+Markers "1" o-- "1" RateLimiter : "geocode"
+Markers "1" --> "1" DataFrame : "_dades"
+
+MainWindow ..> DataFrame : "df"
+
+@enduml

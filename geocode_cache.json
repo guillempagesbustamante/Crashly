@@ -1,0 +1,8626 @@
+{
+  "N-240 Lleida": [
+    41.6059198,
+    0.6783396
+  ],
+  "N-II Fornells de la Selva": [
+    41.9282533,
+    2.7970789
+  ],
+  "AP-7 Mollet del VallÃ¨s": null,
+  "C-31 Torroella de MontgrÃ­": null,
+  "N-II Girona": [
+    42.0026448,
+    2.8473354
+  ],
+  "B-522 Manlleu": [
+    41.9971332,
+    2.285936
+  ],
+  "C-14 OrganyÃ ": [
+    42.1866735,
+    1.3306415
+  ],
+  "GI-673 Caldes de Malavella": [
+    41.8514262,
+    2.7727514
+  ],
+  "LV-3021 Artesa de Segre": [
+    41.855717,
+    1.0558752
+  ],
+  "C-17 Tagamanent": [
+    41.7622695,
+    2.2519287
+  ],
+  "TP-7225 Morell, el": [
+    41.1928615,
+    1.2035805
+  ],
+  "AL Barcelona": [
+    -22.1870462,
+    -49.9170952
+  ],
+  "C-1415B LliÃ§Ã  d'Amunt": null,
+  "C-55 CollbatÃ³": null,
+  "BP-2121 Sant MartÃ­ Sarroca": null,
+  "C-31 Calafell": [
+    41.2063969,
+    1.5597202
+  ],
+  "N-II Sant Pol de Mar": [
+    41.6054255,
+    2.6374286
+  ],
+  "TV-3405 Amposta": [
+    40.7084517,
+    0.5888813
+  ],
+  "GI-634 Verges": [
+    42.0674482,
+    3.0270952
+  ],
+  "BV-2415 OlÃ¨rdola": null,
+  "C-31 Sitges": [
+    41.2374487,
+    1.830465
+  ],
+  "C-66 FlaÃ§Ã ": [
+    46.7715764,
+    11.7048633
+  ],
+  "C-59 Caldes de Montbui": [
+    41.6450891,
+    2.1616014
+  ],
+  "C-17 Montesquiu": [
+    42.1241711,
+    2.2048166
+  ],
+  "C-55 Castellbell i el Vilar": [
+    41.6405367,
+    1.8547702
+  ],
+  "C-243a Vilafranca del PenedÃ¨s": null,
+  "A-2 CornellÃ  de Llobregat": [
+    41.3447901,
+    2.0901482
+  ],
+  "B-10 Sant AdriÃ  de BesÃ²s": null,
+  "N-260 Pont de Bar, el": [
+    42.3721732,
+    1.6047661
+  ],
+  "C-25 Gurb": [
+    41.9330929,
+    2.2021517
+  ],
+  "C-58 Barcelona": [
+    41.4583122,
+    2.185016
+  ],
+  "C-55 Monistrol de Montserrat": [
+    41.5918309,
+    1.8509602
+  ],
+  "BP-1417 Sant Cugat del VallÃ¨s": null,
+  "A-2 TÃ rrega": null,
+  "C-58 Castellbell i el Vilar": [
+    41.6235074,
+    1.8533277
+  ],
+  "BP-1101 Sant Salvador de Guardiola": [
+    41.6490205,
+    1.7661778
+  ],
+  "GIV-6612 Calonge": [
+    41.8549259,
+    3.062074
+  ],
+  "B-224 Sant Esteve Sesrovires": [
+    41.4782845,
+    1.8939415
+  ],
+  "C-25 Brunyola": [
+    41.8867389,
+    2.6754667
+  ],
+  "C-65 Quart": [
+    41.9331098,
+    2.8437745
+  ],
+  "C-65 Llagostera": [
+    41.8395032,
+    2.8981755
+  ],
+  "C-15 Sant Pere de Riudebitlles": [
+    41.4530795,
+    1.6866761
+  ],
+  "B-23 Sant Feliu de Llobregat": [
+    41.3860441,
+    2.0277463
+  ],
+  "N-420 Riudoms": [
+    41.1679603,
+    1.0417407
+  ],
+  "AP-7 AviÃ ": [
+    30.3558482,
+    -81.5614359
+  ],
+  "AP-7 Martorell": [
+    41.4711254,
+    1.9252796
+  ],
+  "N-II Jonquera, la": [
+    42.4242431,
+    2.8687017
+  ],
+  "N-141e BescanÃ³": null,
+  "C-55 Sant Joan de Vilatorrada": [
+    41.7543475,
+    1.8000125
+  ],
+  "N-II Llers": [
+    42.2970591,
+    2.9417847
+  ],
+  "BV-5303 Seva": [
+    41.8456608,
+    2.2345916
+  ],
+  "C-32 Castelldefels": [
+    41.266848,
+    1.9527
+  ],
+  "C-12 Aldover": [
+    40.8568938,
+    0.5120316
+  ],
+  "N-340 Ampolla, l'": [
+    40.8531888,
+    0.7124703
+  ],
+  "C-25 Oluges, les": [
+    41.7054913,
+    1.3301501
+  ],
+  "TP-2442 Sant Jaume dels Domenys": [
+    41.3217547,
+    1.5340348
+  ],
+  "N-240 Alpicat": [
+    41.6458304,
+    0.5675325
+  ],
+  "A-7 Freginals": [
+    40.6715945,
+    0.5202611
+  ],
+  "C-61 Arenys de Munt": [
+    41.592877,
+    2.542661
+  ],
+  "GI-632 Tallada d'EmpordÃ , la": [
+    42.0549032,
+    3.087369
+  ],
+  "C-58 Montcada i Reixac": [
+    41.4761373,
+    2.1628663
+  ],
+  "C-65 Santa Cristina d'Aro": [
+    41.8009418,
+    3.0134612
+  ],
+  "N-141c Calders": [
+    41.7925876,
+    1.9956567
+  ],
+  "C-66 Forallac": [
+    41.9575421,
+    3.0469083
+  ],
+  "BV-5001 Montcada i Reixac": [
+    41.5012597,
+    2.2037451
+  ],
+  "N-340 Amposta": [
+    40.7069983,
+    0.5892337
+  ],
+  "A-2 Montmaneu": [
+    41.6248902,
+    1.4326972
+  ],
+  "C-243a Granada, la": [
+    41.3782102,
+    1.7301053
+  ],
+  "N-340a Tarragona": [
+    40.7148774,
+    0.5817
+  ],
+  "C-25 Sant Hilari Sacalm": [
+    41.8576233,
+    2.5060285
+  ],
+  "C-15 Vallbona d'Anoia": [
+    41.520796,
+    1.694799
+  ],
+  "C-14 Reus": [
+    41.1449615,
+    1.1401113
+  ],
+  "B-124 Castellar del VallÃ¨s": null,
+  "C-32 CornellÃ  de Llobregat": [
+    41.357547,
+    2.0886401
+  ],
+  "C-31 Cubelles": [
+    41.207457,
+    1.6731778
+  ],
+  "N-420 Botarell": [
+    41.1634372,
+    1.0198838
+  ],
+  "TP-2311 Cabra del Camp": [
+    41.3943868,
+    1.2760929
+  ],
+  "C-233 Vilanova de Bellpuig": [
+    41.6173572,
+    0.986267
+  ],
+  "CR40 Terrassa": [
+    41.5629623,
+    2.0100492
+  ],
+  "GI-614 Roses": [
+    42.2717036,
+    3.148753
+  ],
+  "N-260 Sort": [
+    42.4094258,
+    1.1303159
+  ],
+  "C-12 Maials": [
+    41.3339774,
+    0.5157375
+  ],
+  "C-37 Manresa": [
+    41.7266719,
+    1.7816219
+  ],
+  "C-243C Ullastrell": [
+    41.5323903,
+    1.9846253
+  ],
+  "C-17 Sant MartÃ­ de Centelles": null,
+  "AP-7 Ulldecona": [
+    40.5719207,
+    0.4375275
+  ],
+  "GI-682 Tossa de Mar": [
+    41.7117738,
+    2.8923893
+  ],
+  "N-240 Espluga de FrancolÃ­, l'": null,
+  "C-14 TÃ rrega": null,
+  "N-II Vilassar de Mar": [
+    41.4998241,
+    2.3877576
+  ],
+  "C-32 Viladecans": [
+    41.3196306,
+    2.0386465
+  ],
+  "C-55 SÃºria": null,
+  "C-32 Esplugues de Llobregat": [
+    41.3831595,
+    2.1028191
+  ],
+  "N-II Caldes de Malavella": [
+    41.8482583,
+    2.7651608
+  ],
+  "B-30 Cerdanyola del VallÃ¨s": null,
+  "C-59 Mollet del VallÃ¨s": null,
+  "C-1415B Caldes de Montbui": [
+    41.637871,
+    2.1909855
+  ],
+  "A-7 Tarragona": [
+    41.126791,
+    1.1872216
+  ],
+  "A-7 Gelida": [
+    41.4324961,
+    1.8614458
+  ],
+  "AL Granollers": [
+    41.5957695,
+    2.2862826
+  ],
+  "C-58 Vacarisses": [
+    41.5790474,
+    1.959403
+  ],
+  "B-40 Roca del VallÃ¨s, la": null,
+  "A-2 Santa Coloma de CervellÃ³": null,
+  "C-32 AviÃ ": [
+    48.0425512,
+    3.0678602
+  ],
+  "N-150 BarberÃ  del VallÃ¨s": null,
+  "C-251 Cardedeu": [
+    41.637916,
+    2.3715658
+  ],
+  "C-31 RegencÃ³s": null,
+  "C-243C Castellbisbal": [
+    41.523039,
+    1.978457
+  ],
+  "T-704 Aleixar, l'": [
+    41.2358356,
+    1.0598744
+  ],
+  "C-14 Bassella": [
+    41.9750033,
+    1.2970563
+  ],
+  "TV-7211 ConstantÃ­": null,
+  "B-510 Dosrius": [
+    41.5826127,
+    2.3932207
+  ],
+  "C-66 Banyoles": [
+    42.1322049,
+    2.7736189
+  ],
+  "C-16 Barcelona": [
+    42.314827,
+    1.8503587
+  ],
+  "C-61 Vallgorguina": [
+    41.6270473,
+    2.5271553
+  ],
+  "B-431 ArtÃ©s": [
+    46.158803,
+    6.2711304
+  ],
+  "GI-682 Blanes": [
+    41.6833412,
+    2.7905472
+  ],
+  "C-17 Masies de VoltregÃ , les": [
+    42.0126369,
+    2.2502341
+  ],
+  "BV-5128 Sant Pol de Mar": [
+    41.6032534,
+    2.6106708
+  ],
+  "N-340 PerellÃ³, el": null,
+  "A-2 Cervera": [
+    41.6835964,
+    1.2453498
+  ],
+  "GI-644 Forallac": [
+    41.9760585,
+    3.0705345
+  ],
+  "C-14 Riba, la": [
+    41.3184294,
+    1.181359
+  ],
+  "GI-623 BÃ scara": null,
+  "C-155 Sabadell": [
+    41.5617717,
+    2.1265342
+  ],
+  "C-14 Ciutadilla": [
+    41.5590742,
+    1.1341815
+  ],
+  "C-16 Cercs": [
+    42.1165784,
+    1.8559247
+  ],
+  "AP-7 Llinars del VallÃ¨s": null,
+  "N-340 VandellÃ²s i l'Hospitalet de l'Infant": null,
+  "C-51 AliÃ³": null,
+  "BP-4313 Sallent": [
+    41.8774075,
+    1.9206703
+  ],
+  "C-58 AviÃ ": [
+    42.0774337,
+    1.8221304
+  ],
+  "C-31 Vilanova i la GeltrÃº": null,
+  "C-244 Pobla de Claramunt, la": [
+    41.5551974,
+    1.6750412
+  ],
+  "C-14 Ribera d'Urgellet": [
+    42.2763029,
+    1.3607757
+  ],
+  "N-II Arenys de Mar": [
+    41.5774115,
+    2.5494194
+  ],
+  "T-740 Falset": [
+    41.1687206,
+    0.8447413
+  ],
+  "C-13 Sort": [
+    42.4116711,
+    1.131261
+  ],
+  "C-31 Badalona": [
+    41.4400848,
+    2.2278425
+  ],
+  "GI-633 Sant Jordi Desvalls": [
+    42.0825515,
+    2.9699783
+  ],
+  "T-204 Montferri": [
+    41.2639898,
+    1.3835469
+  ],
+  "C-13 Balaguer": [
+    41.7728232,
+    0.8190015
+  ],
+  "C-58 Viladecavalls": [
+    41.557808,
+    1.9828927
+  ],
+  "C-252 Cabanes": [
+    42.2892303,
+    2.9899979
+  ],
+  "N-260 Pedret i MarzÃ ": [
+    42.3154094,
+    3.0631168
+  ],
+  "C-32 GavÃ ": [
+    41.2827242,
+    1.9938085
+  ],
+  "C-28 Naut Aran": [
+    42.700769,
+    0.9278481
+  ],
+  "N-II PallejÃ ": [
+    41.4101076,
+    2.0024114
+  ],
+  "N-II Vidreres": [
+    41.7769478,
+    2.758869
+  ],
+  "N-260 Fontanals de Cerdanya": [
+    42.3539774,
+    1.9797556
+  ],
+  "B-120 Viladecavalls": [
+    41.5560241,
+    1.9823341
+  ],
+  "BV-2241 Sant SadurnÃ­ d'Anoia": null,
+  "N-II GarrigÃ s": null,
+  "C-250 Quart": [
+    41.9630017,
+    2.8446936
+  ],
+  "N-340 CervellÃ³": null,
+  "N-340 ArboÃ§, l'": null,
+  "T-203 Catllar, el": [
+    41.1750529,
+    1.3281503
+  ],
+  "N-340 Camarles": [
+    40.7816541,
+    0.6657619
+  ],
+  "TV-2001 Figuerola del Camp": [
+    41.3688612,
+    1.2819922
+  ],
+  "N-340 Alcanar": [
+    40.6173046,
+    0.5715328
+  ],
+  "C-58 Terrassa": [
+    41.5495176,
+    2.0066882
+  ],
+  "GIP-6531 Begur": [
+    41.9433015,
+    3.2029792
+  ],
+  "A-7 VandellÃ²s i l'Hospitalet de l'Infant": null,
+  "B-231 AviÃ ": [
+    42.0774337,
+    1.8221304
+  ],
+  "C-15 Canyelles": [
+    41.2985072,
+    1.7270646
+  ],
+  "C-58 Badia del VallÃ¨s": null,
+  "C-31 Siurana": [
+    42.2120911,
+    3.0310163
+  ],
+  "N-260 Bellver de Cerdanya": [
+    42.3701378,
+    1.8001575
+  ],
+  "C-65 CassÃ  de la Selva": [
+    41.9026042,
+    2.8574901
+  ],
+  "C-55 Manresa": [
+    41.7459666,
+    1.8099417
+  ],
+  "C-35 Vilalba Sasserra": [
+    41.6530566,
+    2.4354174
+  ],
+  "N-260 ArsÃ¨guel": null,
+  "N-240 Juneda": [
+    41.5574073,
+    0.8028447
+  ],
+  "C-1415A Terrassa": [
+    41.5815538,
+    2.0370854
+  ],
+  "AP-7 BarberÃ  del VallÃ¨s": null,
+  "C-66 Sant Ferriol": [
+    42.1815476,
+    2.7426414
+  ],
+  "C-12 Balaguer": [
+    41.7676195,
+    0.7866886
+  ],
+  "AP-7 Sant Cugat del VallÃ¨s": null,
+  "C-16 Sant Quirze del VallÃ¨s": null,
+  "B-431 Prats de LluÃ§anÃ¨s": null,
+  "BV-5122 Tordera": [
+    41.7047199,
+    2.7066883
+  ],
+  "N-230 Lleida": [
+    42.6475636,
+    0.7711752
+  ],
+  "TV-3454 Deltebre": [
+    40.724875,
+    0.6671499
+  ],
+  "B-211 Sant Pere de Ribes": [
+    41.2590078,
+    1.77516
+  ],
+  "C-12 MÃ³ra la Nova": null,
+  "TV-2041 Creixell": [
+    41.1682353,
+    1.4584678
+  ],
+  "C-16 Sant Cugat del VallÃ¨s": null,
+  "C-16 RubÃ­": [
+    55.2973549,
+    30.3070339
+  ],
+  "N-145 Seu d'Urgell, la": [
+    42.3615591,
+    1.4568046
+  ],
+  "T-340 Camarles": [
+    40.7662013,
+    0.6508702
+  ],
+  "TV-3409 Deltebre": [
+    40.7471167,
+    0.6931221
+  ],
+  "GI-660 Bisbal d'EmpordÃ , la": [
+    41.9295363,
+    3.036196
+  ],
+  "B-23 Esplugues de Llobregat": [
+    41.3808237,
+    2.0967306
+  ],
+  "C-1412a Castellfollit de RiubregÃ³s": null,
+  "GI-661 Calonge": [
+    41.8585422,
+    3.079513
+  ],
+  "C-252 Far d'EmpordÃ , el": [
+    42.2364846,
+    2.9680778
+  ],
+  "B-20 Badalona": [
+    41.4614425,
+    2.2308763
+  ],
+  "GI-512 Tordera": [
+    41.7084699,
+    2.7213373
+  ],
+  "BV-2127 Cabanyes, les": [
+    41.3620143,
+    1.6953645
+  ],
+  "C-16 Berga": [
+    42.0942565,
+    1.8542
+  ],
+  "C-25 Aguilar de Segarra": [
+    41.7375034,
+    1.6303941
+  ],
+  "C-53 Fuliola, la": [
+    41.7152035,
+    1.0169988
+  ],
+  "BP-5002 Alella": [
+    41.4918397,
+    2.2957247
+  ],
+  "N-IIa Figueres": [
+    42.2566021,
+    2.9655786
+  ],
+  "AP-7 VilobÃ­ d'Onyar": null,
+  "A-2 Bell-lloc d'Urgell": [
+    41.6322218,
+    0.7206733
+  ],
+  "C-153 Roda de Ter": [
+    41.9741819,
+    2.3015377
+  ],
+  "B-151 Castellbisbal": [
+    41.5071703,
+    1.9824811
+  ],
+  "C-14 Oliola": [
+    41.8856724,
+    1.1334199
+  ],
+  "C-25 Sant FruitÃ³s de Bages": null,
+  "C-153 Planes d'Hostoles, les": [
+    42.04811,
+    2.5104702
+  ],
+  "N-II Cabrera de Mar": [
+    41.5155397,
+    2.4133328
+  ],
+  "BV-1415 Cerdanyola del VallÃ¨s": null,
+  "BP-5107 CÃ noves i SamalÃºs": null,
+  "C-25 Rajadell": [
+    41.7325559,
+    1.668706
+  ],
+  "GI-554 Vilademuls": [
+    42.1852898,
+    2.8548561
+  ],
+  "GI-600 Tordera": [
+    41.6938266,
+    2.7521397
+  ],
+  "N-240 Montblanc": [
+    41.3409125,
+    1.2190569
+  ],
+  "BV-2122 Sant MartÃ­ Sarroca": null,
+  "AP-7 Roda de BerÃ ": [
+    41.1814763,
+    1.4703237
+  ],
+  "C-55 CallÃºs": null,
+  "C-60 Argentona": [
+    41.5451563,
+    2.4160594
+  ],
+  "C-31 Hospitalet de Llobregat, l'": [
+    41.3629386,
+    2.1330053
+  ],
+  "TV-3421 Roquetes": [
+    40.8171777,
+    0.5057227
+  ],
+  "AP-7 MontornÃ¨s del VallÃ¨s": null,
+  "BV-1602 LliÃ§Ã  d'Amunt": null,
+  "C-243B Subirats": [
+    41.4259462,
+    1.7996819
+  ],
+  "C-35 Sant Feliu de Buixalleu": [
+    41.7256273,
+    2.572641
+  ],
+  "L-310 Torrefeta i Florejacs": [
+    41.7745818,
+    1.2641772
+  ],
+  "A-2 Sant Andreu de la Barca": [
+    41.4487774,
+    1.9775009
+  ],
+  "C-31 GavÃ ": [
+    41.2712573,
+    2.0293435
+  ],
+  "GI-531 Sant Gregori": [
+    41.990511,
+    2.7603095
+  ],
+  "C-31 Torroella de FluviÃ ": [
+    42.206526,
+    3.0374892
+  ],
+  "AP-2 Papiol, el": [
+    41.4282472,
+    2.0049001
+  ],
+  "AP-7 Roca del VallÃ¨s, la": null,
+  "BV-2135 Torre de Claramunt, la": [
+    41.5160162,
+    1.6711547
+  ],
+  "GIP-5101 Vilanant": [
+    42.2575139,
+    2.8681512
+  ],
+  "C-352 Canovelles": [
+    41.6228047,
+    2.2802939
+  ],
+  "AP-7 Freginals": [
+    40.6881076,
+    0.5275145
+  ],
+  "C-31 MatarÃ³": null,
+  "AP-7 Fogars de la Selva": [
+    41.7164471,
+    2.5621442
+  ],
+  "B-20 Esplugues de Llobregat": [
+    41.3831595,
+    2.1028191
+  ],
+  "C-1413a Papiol, el": [
+    41.4244932,
+    2.0061362
+  ],
+  "A-2 Castellbisbal": [
+    41.4710824,
+    1.9437711
+  ],
+  "BV-5159 Vilanova del VallÃ¨s": null,
+  "N-260 Vilanant": [
+    42.2407092,
+    2.9023859
+  ],
+  "C-17 Llosses, les": [
+    42.1500365,
+    2.2008421
+  ],
+  "LV-7046 Almatret": [
+    41.3409018,
+    0.4638178
+  ],
+  "N-II Biure": [
+    42.3567536,
+    2.9034392
+  ],
+  "TV-3022 PerellÃ³, el": null,
+  "BV-1243 Caldes de Montbui": [
+    41.6399635,
+    2.1525295
+  ],
+  "L-313 Vilanova de l'Aguda": [
+    41.8265218,
+    1.2327418
+  ],
+  "N-260 VilajuÃ¯ga": null,
+  "C-51 Vendrell, el": [
+    41.2885743,
+    1.2741202
+  ],
+  "BV-2249 Sant LlorenÃ§ d'Hortons": null,
+  "C-14 Montblanc": [
+    41.360854,
+    1.1771094
+  ],
+  "N-230 Arres": [
+    42.7573038,
+    0.6951664
+  ],
+  "GIV-6621 Castell-Platja d'Aro": [
+    41.808616,
+    3.0353109
+  ],
+  "N-260 Portbou": [
+    42.4269568,
+    3.1594518
+  ],
+  "GI-512 AviÃ ": [
+    41.9192419,
+    3.2152526
+  ],
+  "C-1413A AviÃ ": [
+    -17.7730087,
+    -66.5394532
+  ],
+  "N-II MatarÃ³": null,
+  "C-16 BagÃ ": [
+    42.2528655,
+    1.8670132
+  ],
+  "C-63 Amer": [
+    42.0161772,
+    2.597836
+  ],
+  "N-260 Peralada": [
+    42.2956399,
+    3.0277688
+  ],
+  "B-430 Sallent": [
+    41.8015643,
+    1.9328611
+  ],
+  "C-35 Sant Celoni": [
+    41.679485,
+    2.4859128
+  ],
+  "C-1415c Roca del VallÃ¨s, la": null,
+  "BV-2115 Cubelles": [
+    41.2315999,
+    1.6687277
+  ],
+  "C-51 RodonyÃ ": [
+    41.2868879,
+    1.3954641
+  ],
+  "N-240 Tarragona": [
+    41.12483,
+    1.2425316
+  ],
+  "BV-4608 Manlleu": [
+    41.9972682,
+    2.251756
+  ],
+  "BV-5001 MontornÃ¨s del VallÃ¨s": null,
+  "BV-5126 Calella": [
+    41.6273687,
+    2.6441341
+  ],
+  "N-II Sils": [
+    41.7905186,
+    2.756165
+  ],
+  "GI-552 Sant Feliu de Buixalleu": [
+    41.7736028,
+    2.5530697
+  ],
+  "C-31 Tallada d'EmpordÃ , la": [
+    42.0539939,
+    3.0863166
+  ],
+  "TV-2041 Roda de BerÃ ": [
+    41.1753554,
+    1.4565249
+  ],
+  "BV-2005 Torrelles de Llobregat": [
+    41.377241,
+    1.9912821
+  ],
+  "C-58 Ripollet": [
+    41.4951273,
+    2.1497117
+  ],
+  "T-314 Riudoms": [
+    41.1289612,
+    1.0642697
+  ],
+  "N-340 Sant Carles de la RÃ pita": null,
+  "C-31 Castell-Platja d'Aro": [
+    41.8179761,
+    3.0481307
+  ],
+  "N-340 Tarragona": [
+    41.1378294,
+    1.3440725
+  ],
+  "CR19 Vall d'en Bas, la": null,
+  "C-245 CornellÃ  de Llobregat": [
+    41.3564515,
+    2.0725974
+  ],
+  "B-124 Sabadell": [
+    41.5601018,
+    2.1014211
+  ],
+  "N-340 Bellvei": [
+    41.229665,
+    1.5563674
+  ],
+  "LV-2001 Torregrossa": [
+    41.5718806,
+    0.832386
+  ],
+  "C-14 Ponts": [
+    41.8897852,
+    1.1564405
+  ],
+  "TP-2124 ArboÃ§, l'": null,
+  "N-340 Subirats": [
+    41.3903987,
+    1.8721284
+  ],
+  "C-251 Roca del VallÃ¨s, la": null,
+  "C-66 Pera, la": [
+    42.0251308,
+    2.9833121
+  ],
+  "C-155 PolinyÃ ": [
+    41.5633142,
+    2.1308559
+  ],
+  "LV-4241b OdÃ¨n": null,
+  "TV-3316 Alcanar": [
+    40.5269327,
+    0.5047044
+  ],
+  "N-141c MoiÃ ": [
+    41.8172166,
+    2.1454802
+  ],
+  "B-520 Santa EugÃ¨nia de Berga": null,
+  "GI-555 Massanes": [
+    41.7473033,
+    2.6559381
+  ],
+  "C-31 Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "C-25 Santa Maria d'OlÃ³": null,
+  "N-II Masnou, el": [
+    41.4762503,
+    2.3087093
+  ],
+  "BV-5119 Mollet del VallÃ¨s": null,
+  "AL Terrassa": [
+    41.5895792,
+    1.9849124
+  ],
+  "C-28 Alt Ã€neu": [
+    52.5135993,
+    13.4043946
+  ],
+  "C-17 Parets del VallÃ¨s": null,
+  "C-13 Vallfogona de Balaguer": [
+    41.7632428,
+    0.812833
+  ],
+  "C-55 CastellgalÃ­": null,
+  "C-17 Llagosta, la": [
+    42.4125406,
+    2.4248982
+  ],
+  "GI-533 Aiguaviva": [
+    41.9432879,
+    2.78782
+  ],
+  "C-12 Camarasa": [
+    42.0020086,
+    0.8353038
+  ],
+  "TV-3148 Vila-seca": [
+    41.09067,
+    1.1790735
+  ],
+  "B-142 PolinyÃ ": [
+    41.5634275,
+    2.1629569
+  ],
+  "C-26 Llosses, les": [
+    42.1584491,
+    2.0963524
+  ],
+  "N-II PremiÃ  de Mar": [
+    41.4876052,
+    2.3549178
+  ],
+  "CR08 Barcelona": [
+    41.3825802,
+    2.177073
+  ],
+  "B-500 Sant Fost de Campsentelles": [
+    41.4920132,
+    2.2538758
+  ],
+  "C-63 Riudarenes": [
+    41.8195179,
+    2.729775
+  ],
+  "N-260 Alp": [
+    42.3539774,
+    1.9797556
+  ],
+  "C-16 Nou de BerguedÃ , la": [
+    42.1620813,
+    1.8810964
+  ],
+  "L-500 Vall de BoÃ­, la": null,
+  "B-522 Gurb": [
+    41.95537,
+    2.2633575
+  ],
+  "C-66 Bordils": [
+    42.0387252,
+    2.9198566
+  ],
+  "N-340 Aldea, l'": [
+    40.7531415,
+    0.6064219
+  ],
+  "N-260 BesalÃº": null,
+  "LV-3003 Sant Ramon": [
+    41.7356611,
+    1.3831097
+  ],
+  "N-260 Garriguella": [
+    42.3220307,
+    3.0700473
+  ],
+  "TP-3311 Ulldecona": [
+    40.6412905,
+    0.3591192
+  ],
+  "N-II Sant Andreu de Llavaneres": [
+    41.555398,
+    2.4983663
+  ],
+  "N-260 Prullans": [
+    42.373255,
+    1.7595394
+  ],
+  "C-12 Xerta": [
+    40.9388077,
+    0.4885184
+  ],
+  "N-IIa Sant JuliÃ  de Ramis": [
+    42.0295599,
+    2.8349877
+  ],
+  "C-55 PinÃ³s": null,
+  "AP-7 GarrigÃ s": [
+    39.8680372,
+    4.2081747
+  ],
+  "C-31 PalamÃ³s": null,
+  "C-14 Selva del Camp, la": [
+    41.1931655,
+    1.1399919
+  ],
+  "N-340 Torredembarra": [
+    41.1562461,
+    1.4266781
+  ],
+  "N-II Pont de Molins": [
+    42.3073942,
+    2.936198
+  ],
+  "C-25 ArtÃ©s": [
+    44.1690706,
+    28.6086408
+  ],
+  "TV-3541 Xerta": [
+    40.9112891,
+    0.4906137
+  ],
+  "L-702 Lleida": [
+    41.593762,
+    0.6460901
+  ],
+  "C-58 Sant Quirze del VallÃ¨s": null,
+  "C-16 Guardiola de BerguedÃ ": [
+    42.314827,
+    1.8503587
+  ],
+  "N-420 MÃ³ra d'Ebre": null,
+  "AP-7 Vilablareix": [
+    41.9608196,
+    2.7826066
+  ],
+  "T-750 Perafort": [
+    41.1865961,
+    1.2360718
+  ],
+  "BV-5001 Vilanova del VallÃ¨s": null,
+  "TV-2126 Calafell": [
+    41.1965582,
+    1.5697745
+  ],
+  "C-44 VandellÃ²s i l'Hospitalet de l'Infant": null,
+  "BV-5022 Vilassar de Mar": [
+    41.5048575,
+    2.3880105
+  ],
+  "N-340 Vinyols i els Arcs": [
+    41.0777228,
+    1.062291
+  ],
+  "GI-550 ArbÃºcies": null,
+  "C-244 Pla del PenedÃ¨s, el": null,
+  "C-26 Olius": [
+    42.0168947,
+    1.4660437
+  ],
+  "L-313 Torrefeta i Florejacs": [
+    41.8172277,
+    1.2353013
+  ],
+  "N-II MaÃ§anet de la Selva": null,
+  "BV-5115 Gualba": [
+    41.7210284,
+    2.517198
+  ],
+  "AP-7 Agullana": [
+    42.392927,
+    2.8799156
+  ],
+  "GIV-5235 MaiÃ  de Montcal": [
+    42.2083869,
+    2.7529117
+  ],
+  "C-14 Oliana": [
+    42.0833711,
+    1.3007661
+  ],
+  "C-63 Brunyola": [
+    41.8782271,
+    2.6957138
+  ],
+  "AP-7 Vendrell, el": [
+    41.1999954,
+    1.5051699
+  ],
+  "N-340 Mont-roig del Camp": [
+    41.0589287,
+    1.0140283
+  ],
+  "BV-2113 Sant Pere de Ribes": [
+    41.2408023,
+    1.7610522
+  ],
+  "AL Sabadell": [
+    41.5825554,
+    2.079419
+  ],
+  "AP-7 Jonquera, la": [
+    42.4283813,
+    2.8662051
+  ],
+  "N-240 Valls": [
+    41.3409125,
+    1.2190569
+  ],
+  "N-II AviÃ ": [
+    52.3715948,
+    10.7466649
+  ],
+  "C-13 SalÃ s de Pallars": null,
+  "N-260 CampdevÃ nol": null,
+  "AL Santa Maria d'OlÃ³": null,
+  "C-15 Vilanova i la GeltrÃº": null,
+  "C-14 Alcover": [
+    41.2942231,
+    1.1899431
+  ],
+  "C-63 Lloret de Mar": [
+    41.7465675,
+    2.8162244
+  ],
+  "N-340 Altafulla": [
+    41.1566197,
+    1.3855411
+  ],
+  "C-12 Tortosa": [
+    40.8391707,
+    0.514108
+  ],
+  "AP-7 Papiol, el": [
+    41.4567474,
+    2.0049271
+  ],
+  "GI-612 Port de la Selva, el": [
+    42.3500946,
+    3.1772101
+  ],
+  "N-260 MaiÃ  de Montcal": [
+    42.2063186,
+    2.7499791
+  ],
+  "N-230 AlfarrÃ s": [
+    -2.5272451,
+    -44.2224553
+  ],
+  "AP-7 Aldea, l'": [
+    40.7374512,
+    0.5906686
+  ],
+  "C-15 Vilafranca del PenedÃ¨s": null,
+  "C-35 Santa Maria de Palautordera": [
+    41.6772061,
+    2.4843654
+  ],
+  "BP-2151 Torrelavit": [
+    41.4349435,
+    1.7605269
+  ],
+  "BV-2119 OlÃ¨rdola": null,
+  "C-43 Gandesa": [
+    41.0399862,
+    0.464433
+  ],
+  "C-33 Llagosta, la": [
+    42.4125406,
+    2.4248982
+  ],
+  "N-340 Vilafranca del PenedÃ¨s": null,
+  "N-340 OlÃ¨rdola": null,
+  "BV-2244 Sant SadurnÃ­ d'Anoia": null,
+  "C-153 Santa Maria de CorcÃ³": null,
+  "N-II Bruc, el": [
+    41.5998024,
+    1.7359737
+  ],
+  "N-340 Vendrell, el": [
+    41.225856,
+    1.5482659
+  ],
+  "N-340 Avinyonet del PenedÃ¨s": null,
+  "T-751 Vallmoll": [
+    41.2407159,
+    1.2467254
+  ],
+  "C-1415c Argentona": [
+    41.5691755,
+    2.3898781
+  ],
+  "C-31 Calonge": [
+    41.8469077,
+    3.0759968
+  ],
+  "N-145 Valls de Valira, les": [
+    42.370557,
+    1.4555972
+  ],
+  "N-II Sant VicenÃ§ de Montalt": null,
+  "C-53 Penelles": [
+    41.7460786,
+    0.9375123
+  ],
+  "C-14 VerdÃº": [
+    -15.6062008,
+    -56.1179751
+  ],
+  "C-12 AlbatÃ rrec": null,
+  "N-II Montgat": [
+    41.462907,
+    2.2722059
+  ],
+  "GI-681 Tossa de Mar": [
+    41.7244823,
+    2.9284091
+  ],
+  "BV-1221 Navarcles": [
+    41.744304,
+    1.9088292
+  ],
+  "C-17 Seva": [
+    41.7837159,
+    2.2450558
+  ],
+  "BV-5001 Martorelles": [
+    41.5370977,
+    2.2411673
+  ],
+  "GI-642 RupiÃ ": [
+    42.0231134,
+    3.0109368
+  ],
+  "C-451 Massoteres": [
+    41.8251785,
+    1.3277096
+  ],
+  "BV-4512 ArtÃ©s": null,
+  "C-55 Cardona": [
+    41.9180153,
+    1.6871614
+  ],
+  "GIP-6021 Peralada": [
+    42.3229233,
+    3.0053242
+  ],
+  "B-124 Calders": [
+    41.7784761,
+    2.0105712
+  ],
+  "C-12 Flix": [
+    41.2086522,
+    0.5501926
+  ],
+  "C-155 Palau-solitÃ  i Plegamans": [
+    41.5688016,
+    2.1731761
+  ],
+  "C-253 Calonge": [
+    41.845776,
+    3.0967745
+  ],
+  "C-31C Prat de Llobregat, el": [
+    41.3324388,
+    2.0681771
+  ],
+  "N-II GolmÃ©s": null,
+  "A-2 Fondarella": [
+    41.6401536,
+    0.8780066
+  ],
+  "C-25 Sant Bartomeu del Grau": [
+    41.9190801,
+    2.1370852
+  ],
+  "C-25 Muntanyola": [
+    41.9161128,
+    2.1339979
+  ],
+  "C-150a Porqueres": [
+    42.1400036,
+    2.7497242
+  ],
+  "C-12 Torrebesses": [
+    41.405972,
+    0.5787536
+  ],
+  "C-251 Llinars del VallÃ¨s": null,
+  "AP-7 Sils": [
+    41.7977928,
+    2.7468786
+  ],
+  "T-722 Vilallonga del Camp": [
+    41.2156713,
+    1.2097575
+  ],
+  "N-II Vilademuls": [
+    42.1138541,
+    2.9011008
+  ],
+  "C-25 Castellfollit de RiubregÃ³s": null,
+  "C-53 Vallfogona de Balaguer": [
+    41.7815124,
+    0.8414104
+  ],
+  "C-32 Sitges": [
+    41.2440069,
+    1.8566306
+  ],
+  "N-340 Creixell": [
+    41.1667054,
+    1.4546442
+  ],
+  "BV-5305 Taradell": [
+    41.8737379,
+    2.2870141
+  ],
+  "C-32 Palafolls": [
+    41.673269,
+    2.7264581
+  ],
+  "N-240a Montblanc": [
+    41.3866993,
+    1.1564849
+  ],
+  "N-230 VilamÃ²s": null,
+  "AP-7 Sant JuliÃ  de Ramis": [
+    42.0434217,
+    2.8585702
+  ],
+  "A-2 Jorba": [
+    41.5935845,
+    1.5838451
+  ],
+  "C-66 Porqueres": [
+    42.1136443,
+    2.790927
+  ],
+  "N-260 Ripoll": [
+    42.2164389,
+    2.2061883
+  ],
+  "C-1412a Oliola": [
+    41.8900961,
+    1.2314738
+  ],
+  "C-17 Montcada i Reixac": [
+    41.5038435,
+    2.1854489
+  ],
+  "BV-2041 GavÃ ": [
+    41.3192138,
+    1.9555006
+  ],
+  "B-124 Sant LlorenÃ§ Savall": null,
+  "N-260 Bolvir": [
+    42.4185588,
+    1.8950353
+  ],
+  "N-230b Pinell de Brai, el": [
+    41.0118757,
+    0.491259
+  ],
+  "C-31 Castelldefels": [
+    41.2695891,
+    1.9931764
+  ],
+  "C-14 Coll de NargÃ³": null,
+  "A-2 Sant VicenÃ§ dels Horts": null,
+  "C-26 Espunyola, l'": [
+    42.0539441,
+    1.7837019
+  ],
+  "BP-2126 Font-rubÃ­": null,
+  "TV-3223 Pradell de la Teixeta": [
+    41.1288302,
+    0.8652317
+  ],
+  "N-IIa Lleida": [
+    41.6091838,
+    0.6342668
+  ],
+  "T-323 Mont-roig del Camp": [
+    41.0564973,
+    0.9948332
+  ],
+  "TV-3146 Vila-seca": [
+    41.0969343,
+    1.1893578
+  ],
+  "GI-552 Riells i Viabrea": [
+    41.7235212,
+    2.5548761
+  ],
+  "C-17 Mollet del VallÃ¨s": null,
+  "T-201 Pontils": [
+    41.5027783,
+    1.389711
+  ],
+  "C-31 Pals": [
+    42.0019083,
+    3.1472278
+  ],
+  "N-II Tordera": [
+    41.7246423,
+    2.7364964
+  ],
+  "C-51 Bisbal del PenedÃ¨s, la": null,
+  "N-260 Colera": [
+    42.4004962,
+    3.1487601
+  ],
+  "C-244 Mediona": [
+    41.4889627,
+    1.6557671
+  ],
+  "BV-1201 Olesa de Montserrat": [
+    41.5409224,
+    1.9007054
+  ],
+  "BP-1503 Sant Cugat del VallÃ¨s": null,
+  "C-1413B Centelles": [
+    41.8055313,
+    2.2218709
+  ],
+  "BV-1432 Granollers": [
+    41.6111275,
+    2.268198
+  ],
+  "BV-4601 Sant Bartomeu del Grau": [
+    41.9738515,
+    2.1764325
+  ],
+  "C-242 ArbolÃ­": [
+    43.3143214,
+    -1.8982053
+  ],
+  "GI-500 Agullana": [
+    42.4029812,
+    2.8711051
+  ],
+  "C-59 Sant Feliu de Codines": [
+    41.681629,
+    2.1631674
+  ],
+  "C-31 Montgat": [
+    41.4740216,
+    2.282737
+  ],
+  "C-66 Palol de Revardit": [
+    42.0706658,
+    2.8147169
+  ],
+  "GIV-5241 Olot": [
+    42.174458,
+    2.5302706
+  ],
+  "B-224 Masquefa": [
+    41.5025439,
+    1.7880451
+  ],
+  "B-23 Molins de Rei": [
+    41.3967179,
+    2.0226975
+  ],
+  "C-60 Roca del VallÃ¨s, la": null,
+  "BP-1432 Bigues i Riells": [
+    41.6809912,
+    2.1715441
+  ],
+  "C-63 Santa Coloma de Farners": [
+    41.8698215,
+    2.6907537
+  ],
+  "TV-3319 SÃ©nia, la": null,
+  "C-31B Vila-seca": [
+    41.0961019,
+    1.1798334
+  ],
+  "T-310 Reus": [
+    41.1529079,
+    1.0962497
+  ],
+  "L-702 Artesa de Lleida": [
+    41.5769297,
+    0.6638523
+  ],
+  "C-245 Sant Boi de Llobregat": [
+    41.3250997,
+    2.0326927
+  ],
+  "N-II Capmany": [
+    42.3567536,
+    2.9034392
+  ],
+  "C-26 Foradada": [
+    41.8817675,
+    1.0420203
+  ],
+  "N-260 Ordis": [
+    42.2321652,
+    2.8786899
+  ],
+  "C-14 Artesa de Segre": [
+    41.8850088,
+    1.0517748
+  ],
+  "TV-3422 Alfara de Carles": [
+    40.8746487,
+    0.3977103
+  ],
+  "C-63 Cellera de Ter, la": [
+    41.9789305,
+    2.614742
+  ],
+  "BV-2041 Begues": [
+    41.3192138,
+    1.9555006
+  ],
+  "C-252 Garriguella": [
+    42.3399729,
+    3.0646193
+  ],
+  "C-1415B Santa EulÃ lia de RonÃ§ana": null,
+  "GIV-5043 Biure": [
+    42.3311259,
+    2.9004018
+  ],
+  "C-59 CastellterÃ§ol": null,
+  "T-331 Ulldecona": [
+    40.6474946,
+    0.5021108
+  ],
+  "C-12 AlfÃ©s": [
+    53.0941257,
+    18.048729
+  ],
+  "C-26 Algerri": [
+    41.8247852,
+    0.5859484
+  ],
+  "AP-7 Sant Celoni": [
+    41.7164471,
+    2.5621442
+  ],
+  "N-240 Garidells, els": [
+    40.838171,
+    0.4473671
+  ],
+  "C-12B AscÃ³": null,
+  "GI-634 Colomers": [
+    42.0839765,
+    2.9840232
+  ],
+  "B-30 Sant Cugat del VallÃ¨s": null,
+  "A-7 Cambrils": [
+    41.0856828,
+    1.0500769
+  ],
+  "N-420 MÃ³ra la Nova": null,
+  "N-240 Borges Blanques, les": [
+    41.5069873,
+    0.8830781
+  ],
+  "C-59 MoiÃ ": [
+    41.8272927,
+    2.093681
+  ],
+  "T-224 Llorac": [
+    41.5609626,
+    1.2687484
+  ],
+  "L-504 LlavorsÃ­": null,
+  "C-12 Llardecans": [
+    41.3709369,
+    0.544292
+  ],
+  "B-432 OristÃ ": [
+    41.9791647,
+    2.0624635
+  ],
+  "T-344 Amposta": [
+    40.7016606,
+    0.5590048
+  ],
+  "N-II Agullana": [
+    42.3932881,
+    2.8831325
+  ],
+  "C-17z Sant Quirze de Besora": [
+    42.0968776,
+    2.2224258
+  ],
+  "BV-5224 Sant Pere de TorellÃ³": null,
+  "C-12 Garcia": [
+    41.1657671,
+    0.6116398
+  ],
+  "C-32 Hospitalet de Llobregat, l'": [
+    41.3655356,
+    2.0898756
+  ],
+  "B-204 Viladecans": [
+    41.3028624,
+    2.04848
+  ],
+  "C-37 Valls": [
+    41.3007408,
+    1.2600068
+  ],
+  "T-301 Tortosa": [
+    40.8623967,
+    0.5226995
+  ],
+  "AP-7 Vilademuls": [
+    42.0722236,
+    2.8872502
+  ],
+  "N-260 Ribera d'Urgellet": [
+    42.333822,
+    1.4096136
+  ],
+  "GI-681 Caldes de Malavella": [
+    41.7732094,
+    2.8713573
+  ],
+  "N-260 Montferrer i CastellbÃ²": null,
+  "BV-5114 Sant Celoni": [
+    41.6935555,
+    2.4796189
+  ],
+  "C-13 LlavorsÃ­": null,
+  "C-51 Albinyana": [
+    41.2394712,
+    1.5246178
+  ],
+  "C-16 Vacarisses": [
+    41.5711744,
+    1.9206069
+  ],
+  "C-17 Garriga, la": [
+    41.6942563,
+    2.2819828
+  ],
+  "C-25 EstarÃ s": [
+    13.7257314,
+    100.6151629
+  ],
+  "N-II Figueres": [
+    42.2729012,
+    2.9858769
+  ],
+  "BV-5011 Montcada i Reixac": [
+    41.4790804,
+    2.1926388
+  ],
+  "N-420 Guiamets, els": [
+    41.0959105,
+    0.7477839
+  ],
+  "C-14 Pinell de SolsonÃ¨s": null,
+  "C-31E MatarÃ³": null,
+  "C-233 Bovera": [
+    41.3264819,
+    0.6348881
+  ],
+  "N-II Palafolls": [
+    41.6591499,
+    2.7324207
+  ],
+  "N-260 Seu d'Urgell, la": [
+    42.3605437,
+    1.4518976
+  ],
+  "AP-7 Subirats": [
+    41.4196256,
+    1.8014507
+  ],
+  "GI-400 Alp": [
+    42.3439044,
+    1.9205978
+  ],
+  "C-15 OlÃ¨rdola": null,
+  "BV-5106 Argentona": [
+    41.5689876,
+    2.3896766
+  ],
+  "C-66 Sant Joan de Mollet": [
+    42.0431072,
+    2.936492
+  ],
+  "T-315 Reus": [
+    41.1505684,
+    1.1144335
+  ],
+  "L-702 Puigverd de Lleida": [
+    41.548917,
+    0.7193274
+  ],
+  "B-225 Castellbisbal": [
+    41.4393164,
+    1.9951527
+  ],
+  "N-II BÃ scara": null,
+  "B-402 Pobla de Lillet, la": [
+    42.2448108,
+    1.9755172
+  ],
+  "N-230c Pinell de Brai, el": [
+    41.0139884,
+    0.506933
+  ],
+  "C-243B Gelida": [
+    41.4302619,
+    1.8557658
+  ],
+  "C-462 Olius": [
+    42.0092365,
+    1.5434789
+  ],
+  "L-401 FÃ­gols i AlinyÃ ": null,
+  "B-224 Piera": [
+    41.5195868,
+    1.7598456
+  ],
+  "BP-5002 Vilanova del VallÃ¨s": null,
+  "C-462 NavÃ¨s": [
+    40.4787503,
+    -4.680562
+  ],
+  "AP-7 Banyeres del PenedÃ¨s": null,
+  "C-32 TeiÃ ": [
+    41.487734,
+    2.3217112
+  ],
+  "GI-550 Sant Hilari Sacalm": [
+    41.8556431,
+    2.5055219
+  ],
+  "N-260 Estamariu": [
+    42.3596036,
+    1.5118435
+  ],
+  "C-17 Gurb": [
+    41.9932465,
+    2.2484062
+  ],
+  "BV-5003 MontmelÃ³": null,
+  "C-1412a Vilanova de l'Aguda": [
+    41.8885843,
+    1.2519022
+  ],
+  "N-230 BossÃ²st": null,
+  "AP-7 MaÃ§anet de la Selva": null,
+  "L-311 Cervera": [
+    41.6811917,
+    1.2862764
+  ],
+  "GIV-6612 Santa Cristina d'Aro": [
+    41.854112,
+    2.9631558
+  ],
+  "BP-4313 Balsareny": [
+    41.8656937,
+    1.8953712
+  ],
+  "T-742 Valls": [
+    41.2938812,
+    1.2170428
+  ],
+  "L-200 PuiggrÃ²s": null,
+  "C-563 Josa i TuixÃ©n": null,
+  "BV-2002 Santa Coloma de CervellÃ³": null,
+  "B-20 CornellÃ  de Llobregat": [
+    41.3624331,
+    2.0889029
+  ],
+  "L-511 Coll de NargÃ³": null,
+  "BV-2115 Castellet i la Gornal": [
+    41.2461924,
+    1.6592725
+  ],
+  "TP-2125 Santa Oliva": [
+    41.2314296,
+    1.5413217
+  ],
+  "C-66 CornellÃ  del Terri": [
+    42.101584,
+    2.7971453
+  ],
+  "BV-2411 Olesa de Bonesvalls": [
+    41.3503676,
+    1.8136168
+  ],
+  "B-402 Guardiola de BerguedÃ ": [
+    42.2368356,
+    1.8953126
+  ],
+  "BV-6001 Malgrat de Mar": [
+    41.6577812,
+    2.7505433
+  ],
+  "C-31 Verges": [
+    42.0619805,
+    3.0496821
+  ],
+  "C-25 Santa Coloma de Farners": [
+    41.881482,
+    2.645319
+  ],
+  "A-26 Olot": [
+    42.1952988,
+    2.5018944
+  ],
+  "GIV-5343 VilobÃ­ d'Onyar": null,
+  "A-2 CastellolÃ­": null,
+  "BV-2117 Castellet i la Gornal": [
+    41.2653627,
+    1.6360128
+  ],
+  "BV-5011 Badalona": [
+    41.4671977,
+    2.2352214
+  ],
+  "N-IIa CastellolÃ­": null,
+  "B-502 Argentona": [
+    41.5438405,
+    2.4090239
+  ],
+  "GIV-5221 Montagut i Oix": [
+    42.2807301,
+    2.5202109
+  ],
+  "C-65 Girona": [
+    41.9623383,
+    2.7910636
+  ],
+  "C-462 Lladurs": [
+    42.057934,
+    1.5671142
+  ],
+  "N-II Mollerussa": [
+    41.6300699,
+    0.8937291
+  ],
+  "C-35 Granollers": [
+    41.5762631,
+    2.2652958
+  ],
+  "LV-5052 Vielha e Mijaran": [
+    42.7222179,
+    0.7938128
+  ],
+  "C-14 Peramola": [
+    42.1105607,
+    1.3005748
+  ],
+  "C-13 Pobla de Segur, la": [
+    42.2437005,
+    0.9653687
+  ],
+  "C-1413a Sentmenat": [
+    41.5810353,
+    2.1253357
+  ],
+  "N-230 Pont de Suert, el": [
+    42.4128154,
+    0.7446655
+  ],
+  "B-112 CollbatÃ³": null,
+  "B-212 Sant Jaume dels Domenys": [
+    41.3078502,
+    1.5684546
+  ],
+  "C-1413a Sant Cugat del VallÃ¨s": null,
+  "N-420 Gandesa": [
+    41.0442562,
+    0.3504502
+  ],
+  "BV-5105 Roca del VallÃ¨s, la": null,
+  "TP-2235 Pallaresos, els": [
+    41.17058,
+    1.258848
+  ],
+  "A-2 PallejÃ ": [
+    41.4216137,
+    2.0026424
+  ],
+  "A-2 GolmÃ©s": [
+    47.9223523,
+    29.8447032
+  ],
+  "BP-5002 Vallromanes": [
+    41.5146315,
+    2.2935239
+  ],
+  "T-714 Torre de l'Espanyol, la": [
+    41.1993092,
+    0.6322855
+  ],
+  "C-32 MatarÃ³": null,
+  "TV-3408 Amposta": [
+    40.6422001,
+    0.6005372
+  ],
+  "C-13 Rialp": [
+    42.4658411,
+    1.187072
+  ],
+  "AP-7 Santa PerpÃ¨tua de Mogoda": null,
+  "N-152a Gurb": [
+    41.939942,
+    2.2429513
+  ],
+  "C-35 Gualba": [
+    41.7137322,
+    2.5322291
+  ],
+  "T-310 Riudoms": [
+    41.1452075,
+    1.0833782
+  ],
+  "AP-7 Salt": [
+    41.9680469,
+    2.7786682
+  ],
+  "N-260 Toses": [
+    42.3539774,
+    1.9797556
+  ],
+  "C-63 Vidreres": [
+    41.7475622,
+    2.8161128
+  ],
+  "N-260 Cabanelles": [
+    42.2220884,
+    2.8275167
+  ],
+  "N-II BorrassÃ ": [
+    42.2017393,
+    2.9386203
+  ],
+  "A-2 Palau d'Anglesola, el": [
+    41.6584442,
+    0.8818254
+  ],
+  "N-150 Cerdanyola del VallÃ¨s": null,
+  "BV-2137 Mediona": [
+    41.4732748,
+    1.6025996
+  ],
+  "LV-3002 Riner": [
+    41.896812,
+    1.5589045
+  ],
+  "N-230c Miravet": null,
+  "C-1411 Gironella": [
+    42.0133925,
+    1.8828346
+  ],
+  "CR24 OrÃ­s": [
+    12.1410311,
+    125.4408359
+  ],
+  "C-31 Cunit": [
+    41.1951936,
+    1.6177001
+  ],
+  "C-15 Cabrera d'Anoia": [
+    41.5190594,
+    1.6977374
+  ],
+  "AP-7 Ametlla de Mar, l'": [
+    40.8990933,
+    0.8117321
+  ],
+  "C-251 Franqueses del VallÃ¨s, les": null,
+  "TV-3025 Ametlla de Mar, l'": [
+    40.8903896,
+    0.7976888
+  ],
+  "LV-2101 VerdÃº": [
+    -15.6062008,
+    -56.1179751
+  ],
+  "T-310 Pratdip": [
+    41.0525591,
+    0.8736372
+  ],
+  "L-902 Almenar": [
+    41.7711953,
+    0.4990549
+  ],
+  "T-312 Cambrils": [
+    41.073652,
+    1.0454439
+  ],
+  "A-7 CastellvÃ­ de la Marca": null,
+  "C-31 Vendrell, el": [
+    41.2061391,
+    1.5559103
+  ],
+  "CR12 Canet de Mar": [
+    41.5900933,
+    2.5777998
+  ],
+  "CR PuigcerdÃ ": [
+    42.4317966,
+    1.9278693
+  ],
+  "CR Salt": [
+    10.5506765,
+    -85.6969871
+  ],
+  "C-25 Calonge de Segarra": [
+    41.7393241,
+    1.5101433
+  ],
+  "N-260 Lles de Cerdanya": [
+    42.3645316,
+    1.6616663
+  ],
+  "C-1412a Calaf": [
+    41.7245026,
+    1.5142642
+  ],
+  "BV-1001 Veciana": [
+    41.677227,
+    1.4614966
+  ],
+  "C-14 FÃ­gols i AlinyÃ ": null,
+  "C-55 Sant VicenÃ§ de Castellet": null,
+  "T-702 Morera de Montsant, la": [
+    41.244753,
+    0.8101568
+  ],
+  "C-13 TÃ©rmens": null,
+  "C-150a CornellÃ  del Terri": [
+    42.0979017,
+    2.7963476
+  ],
+  "C-37 Santa Margarida de Montbui": [
+    41.573195,
+    1.6088221
+  ],
+  "N-II Martorell": [
+    41.4978946,
+    1.9096573
+  ],
+  "B-502 Cabrera de Mar": [
+    41.5176716,
+    2.3976444
+  ],
+  "N-340 CastellvÃ­ de la Marca": null,
+  "C-15 Mediona": [
+    41.4840532,
+    1.7014242
+  ],
+  "C-32 Sant VicenÃ§ de Montalt": null,
+  "CR RubÃ­": [
+    55.2973549,
+    30.3070339
+  ],
+  "TV-3101 Borges del Camp, les": [
+    41.1642281,
+    1.0237019
+  ],
+  "BP-1503 Sant Quirze del VallÃ¨s": null,
+  "N-152a Aiguafreda": [
+    41.7679896,
+    2.2512859
+  ],
+  "C-13 Castell de Mur": [
+    42.1209291,
+    0.796629
+  ],
+  "LV-3003 TorÃ ": [
+    41.8048888,
+    1.4044105
+  ],
+  "GIV-5523 Riells i Viabrea": [
+    41.7272006,
+    2.5708271
+  ],
+  "BP-1241 Sant Feliu de Codines": [
+    41.6895807,
+    2.161707
+  ],
+  "LV-9022 Alpicat": [
+    41.6580907,
+    0.5564622
+  ],
+  "B-231 Esparreguera": [
+    41.5347097,
+    1.8657969
+  ],
+  "C-31 Sant AdriÃ  de BesÃ²s": null,
+  "C-12 AlcanÃ³": null,
+  "C-25 Riudellots de la Selva": [
+    41.897228,
+    2.8109121
+  ],
+  "N-150 Terrassa": [
+    41.5454873,
+    2.0957599
+  ],
+  "GIP-5121 CrespiÃ ": [
+    42.1993063,
+    2.8164653
+  ],
+  "C-17 LliÃ§Ã  de Vall": null,
+  "A-2 Vilagrassa": [
+    41.6492421,
+    1.0942606
+  ],
+  "LV-5222 Sort": [
+    42.4027557,
+    1.1290289
+  ],
+  "AP-7 Cerdanyola del VallÃ¨s": null,
+  "BP-2151 Sant SadurnÃ­ d'Anoia": null,
+  "C-25 Manresa": [
+    41.7340387,
+    1.8030716
+  ],
+  "CR Os de Balaguer": [
+    41.8713099,
+    0.7193399
+  ],
+  "CR Lleida": [
+    41.6147605,
+    0.6267842
+  ],
+  "C-25 ArbÃºcies": null,
+  "C-35 Roca del VallÃ¨s, la": null,
+  "C-154 Prats de LluÃ§anÃ¨s": null,
+  "CR Olivella": [
+    41.3103129,
+    1.8114946
+  ],
+  "C-16 Terrassa": [
+    41.5551861,
+    1.9852836
+  ],
+  "AP-7 Tarragona": [
+    41.1407397,
+    1.346606
+  ],
+  "C-32 Argentona": [
+    41.5496602,
+    2.4219481
+  ],
+  "N-260 IsÃ²vol": null,
+  "N-141 BescanÃ³": null,
+  "C-15 Granada, la": [
+    37.1734995,
+    -3.5995337
+  ],
+  "GI-682 Lloret de Mar": [
+    41.700463,
+    2.8402316
+  ],
+  "CR Alt Ã€neu": [
+    52.5135993,
+    13.4043946
+  ],
+  "CR Borges Blanques, les": [
+    41.5763446,
+    2.0363539
+  ],
+  "CR Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "C-15B Sant Pere de Ribes": [
+    41.2533225,
+    1.7835613
+  ],
+  "GIV-6546 Palafrugell": [
+    41.8978716,
+    3.1835116
+  ],
+  "TP-7402 Porrera": [
+    41.2102304,
+    0.868186
+  ],
+  "B-231 Hostalets de Pierola, els": [
+    41.5430499,
+    1.7605424
+  ],
+  "N-260 Conca de Dalt": [
+    42.2899305,
+    0.9359847
+  ],
+  "CR Selva del Camp, la": [
+    41.2171595,
+    1.1464352
+  ],
+  "A-2 Alcoletge": [
+    41.6412774,
+    0.6757986
+  ],
+  "AP-7 Reus": [
+    41.1265279,
+    1.1546424
+  ],
+  "BV-5201 Sant JuliÃ  de Vilatorta": [
+    41.9241193,
+    2.3221773
+  ],
+  "BV-5305 Seva": [
+    41.8496829,
+    2.2606067
+  ],
+  "C-55 Abrera": [
+    41.5284601,
+    1.9055794
+  ],
+  "BV-2176 CastellvÃ­ de la Marca": null,
+  "N-420 Riudecols": [
+    41.1710108,
+    0.9383905
+  ],
+  "GI-543 Viladrau": [
+    41.8487889,
+    2.409354
+  ],
+  "AP-7 Gelida": [
+    41.4510469,
+    1.8791225
+  ],
+  "C-12 MenÃ rguens": null,
+  "C-12 Amposta": [
+    40.7339943,
+    0.5686993
+  ],
+  "CR PerellÃ³, el": null,
+  "CR Arbeca": [
+    34.8955094,
+    -96.3858642
+  ],
+  "N-260 Riudaura": [
+    42.1887348,
+    2.4093804
+  ],
+  "CR Palau d'Anglesola, el": [
+    41.650042,
+    0.887173
+  ],
+  "BV-2415 Olivella": [
+    41.3174575,
+    1.7631767
+  ],
+  "CR Vilablareix": [
+    41.9569396,
+    2.7728439
+  ],
+  "C-38 Sant Joan de les Abadesses": [
+    42.2464546,
+    2.3268525
+  ],
+  "N-260 PuigcerdÃ ": [
+    42.4251198,
+    1.9232526
+  ],
+  "C-14 Vilaverd": [
+    41.3447765,
+    1.1777793
+  ],
+  "B-10 Hospitalet de Llobregat, l'": [
+    41.3402998,
+    2.1102991
+  ],
+  "CR Vilalba dels Arcs": [
+    41.1203999,
+    0.4097144
+  ],
+  "C-14 Pira": [
+    41.4365703,
+    1.180646
+  ],
+  "C-61 Arenys de Mar": [
+    41.5895001,
+    2.5439075
+  ],
+  "BV-1221 Matadepera": [
+    41.602013,
+    2.0203746
+  ],
+  "C-31 Mont-ras": [
+    41.914421,
+    3.1470817
+  ],
+  "B-150 Papiol, el": [
+    41.4282472,
+    2.0049001
+  ],
+  "C-150a Banyoles": [
+    42.1244578,
+    2.7630557
+  ],
+  "gi-682 Blanes": [
+    41.6841867,
+    2.7921753
+  ],
+  "CR Vielha e Mijaran": [
+    42.7017572,
+    0.7954744
+  ],
+  "C-31C Sant Boi de Llobregat": [
+    41.3340921,
+    2.0556577
+  ],
+  "AP-7 MontmelÃ³": null,
+  "C-241d Santa Coloma de Queralt": [
+    41.5533199,
+    1.4039647
+  ],
+  "C-35 Llinars del VallÃ¨s": null,
+  "C-14 Vilanova de l'Aguda": [
+    41.9568603,
+    1.287377
+  ],
+  "C-1415A Castellar del VallÃ¨s": null,
+  "A-2 Lleida": [
+    41.6451775,
+    0.6728453
+  ],
+  "N-II AlcarrÃ s": null,
+  "N-340 Ametlla de Mar, l'": [
+    40.8946697,
+    0.7823836
+  ],
+  "B-682 Malgrat de Mar": [
+    41.6574645,
+    2.7378552
+  ],
+  "L-313 Cabanabona": [
+    41.8519931,
+    1.2184712
+  ],
+  "N-IIa Cervera": [
+    41.6645227,
+    1.2986482
+  ],
+  "BV-1432 LliÃ§Ã  d'Amunt": null,
+  "TP-2442 Montmell, el": [
+    41.3531553,
+    1.509102
+  ],
+  "C-13 Vilanova de la Barca": [
+    41.6769592,
+    0.7159709
+  ],
+  "C-153 Masies de Roda, les": [
+    41.9664945,
+    2.2963631
+  ],
+  "N-340 Roda de BerÃ ": [
+    41.1767971,
+    1.4760193
+  ],
+  "CR Torre de Cabdella, la": [
+    42.4548013,
+    0.9869516
+  ],
+  "N-230 Alguaire": [
+    41.7339347,
+    0.591172
+  ],
+  "N-II Quart": [
+    41.9575515,
+    2.8390613
+  ],
+  "GI-674 Llagostera": [
+    41.8296646,
+    2.8879153
+  ],
+  "N-II Vilamalla": [
+    42.228731,
+    2.9646871
+  ],
+  "BP-1101 Bruc, el": [
+    41.6129725,
+    1.7660537
+  ],
+  "N-240 Vallmoll": [
+    41.2648568,
+    1.2479176
+  ],
+  "BP-1432 Ametlla del VallÃ¨s, l'": null,
+  "A-2 Sant Feliu de Llobregat": [
+    41.3752635,
+    2.0338924
+  ],
+  "C-31 Vilamalla": [
+    42.2280784,
+    2.9973713
+  ],
+  "AP-7 ConstantÃ­": [
+    44.1767161,
+    28.6507598
+  ],
+  "A-2 Sant Joan DespÃ­": null,
+  "C-31 Sant Pere de Ribes": [
+    41.2393221,
+    1.7528955
+  ],
+  "BV-5108 CÃ noves i SamalÃºs": null,
+  "N-230 Vielha e Mijaran": [
+    42.6475636,
+    0.7711752
+  ],
+  "N-IIa Martorell": [
+    41.4838708,
+    1.9187565
+  ],
+  "B-24 CervellÃ³": null,
+  "C-59 Santa PerpÃ¨tua de Mogoda": null,
+  "N-340 Sant Just Desvern": [
+    41.3797343,
+    2.0552639
+  ],
+  "C-45 Maials": [
+    41.3654082,
+    0.5082903
+  ],
+  "AP-7 Creixell": [
+    41.1780444,
+    1.4291098
+  ],
+  "N-260 LlanÃ§Ã ": [
+    43.5150624,
+    -5.7047005
+  ],
+  "N-260 Guils de Cerdanya": [
+    42.4260632,
+    1.9148807
+  ],
+  "BV-5108 Cardedeu": [
+    41.6571036,
+    2.3586436
+  ],
+  "C-1413a RubÃ­": null,
+  "N-II Fondarella": [
+    41.6295943,
+    0.8796655
+  ],
+  "CR AlcarrÃ s": null,
+  "T-702 Vilella Baixa, la": [
+    41.2318792,
+    0.7222569
+  ],
+  "BV-2411 Begues": [
+    41.3346812,
+    1.8800824
+  ],
+  "C-352 Roca del VallÃ¨s, la": null,
+  "C-352 Franqueses del VallÃ¨s, les": null,
+  "BV-2241 Piera": [
+    41.466892,
+    1.7903667
+  ],
+  "B-521 Vic": [
+    41.9255146,
+    2.2538833
+  ],
+  "N-141d Vic": [
+    41.9283142,
+    2.262875
+  ],
+  "N-II Sant JuliÃ  de Ramis": [
+    42.0232135,
+    2.8523765
+  ],
+  "L-313 Oliola": [
+    41.8859567,
+    1.2142127
+  ],
+  "N-260 Vilafant": [
+    42.2561743,
+    2.945543
+  ],
+  "C-17 Ripoll": [
+    42.1837146,
+    2.1957235
+  ],
+  "C-55 Olesa de Montserrat": [
+    41.55563,
+    1.8790754
+  ],
+  "CR Sant Jaume d'Enveja": [
+    40.7062849,
+    0.7182888
+  ],
+  "CR6 Torre de Claramunt, la": [
+    41.5402557,
+    1.6842529
+  ],
+  "B-120 Olesa de Montserrat": [
+    41.5420121,
+    1.8962845
+  ],
+  "N-240 Vinaixa": [
+    41.4638567,
+    0.935498
+  ],
+  "C-59 Palau-solitÃ  i Plegamans": [
+    41.5584902,
+    2.1856147
+  ],
+  "A-2 Ribera d'Ondara": [
+    41.6333205,
+    1.3449013
+  ],
+  "B-210 Viladecans": [
+    41.2993902,
+    2.034424
+  ],
+  "CR Mont-ras": [
+    41.9080196,
+    3.144796
+  ],
+  "GI-641 Torroella de MontgrÃ­": null,
+  "C-246a Vilanova i la GeltrÃº": null,
+  "C-12 Lleida": [
+    41.6362189,
+    0.6440941
+  ],
+  "GI-543 ArbÃºcies": null,
+  "CR Aldover": [
+    40.8800537,
+    0.5000194
+  ],
+  "C-155 LliÃ§Ã  de Vall": null,
+  "N-420 MarÃ§Ã ": [
+    -37.8012818,
+    145.1102831
+  ],
+  "C-451 Olius": [
+    41.9640885,
+    1.5039579
+  ],
+  "L-511 Isona i Conca DellÃ ": [
+    42.1336221,
+    1.0995213
+  ],
+  "C-242 Granadella, la": [
+    41.3876673,
+    0.5905305
+  ],
+  "N-230 Almenar": [
+    41.7874026,
+    0.5844086
+  ],
+  "N-340a Alcanar": [
+    40.5860843,
+    0.5583192
+  ],
+  "B-142 Santa PerpÃ¨tua de Mogoda": null,
+  "AP-7 Ampolla, l'": [
+    40.8353445,
+    0.7418097
+  ],
+  "N-340 Castellet i la Gornal": [
+    41.2493654,
+    1.5901941
+  ],
+  "BV-1201 Castellbisbal": [
+    41.4918742,
+    1.9274196
+  ],
+  "TV-3031 Guiamets, els": [
+    41.0959105,
+    0.7477839
+  ],
+  "C-15 Pobla de Claramunt, la": [
+    41.5779452,
+    1.6809847
+  ],
+  "B-20 Montgat": [
+    41.4747364,
+    2.2832764
+  ],
+  "N-II Malgrat de Mar": [
+    41.6510445,
+    2.7353845
+  ],
+  "A-2 Martorell": [
+    41.5012135,
+    1.908904
+  ],
+  "CR Aitona": [
+    41.4939531,
+    0.4591083
+  ],
+  "C-253 Santa Coloma de Farners": [
+    41.8599349,
+    2.66949
+  ],
+  "TV-7042 Montblanc": [
+    41.3446709,
+    1.1267627
+  ],
+  "B-120 Terrassa": [
+    41.5559962,
+    1.9911274
+  ],
+  "GI-664 CruÃ¯lles, Monells i Sant SadurnÃ­ de l'Heura": null,
+  "TV-3319 Ulldecona": [
+    40.6036848,
+    0.3981983
+  ],
+  "N-420 Corbera d'Ebre": [
+    41.0976355,
+    0.516845
+  ],
+  "BV-3008 Fonollosa": [
+    41.752809,
+    1.786697
+  ],
+  "CR MontornÃ¨s del VallÃ¨s": null,
+  "CR Amposta": [
+    40.7079905,
+    0.5827636
+  ],
+  "GIV-6101 Pau": [
+    42.3143279,
+    3.1141578
+  ],
+  "C-162 Riu de Cerdanya": [
+    42.3490106,
+    1.8316922
+  ],
+  "GI-533 VilobÃ­ d'Onyar": null,
+  "BV-4511 Sallent": [
+    41.7745174,
+    1.8986686
+  ],
+  "GI-554 EsponellÃ ": [
+    42.1765402,
+    2.7959382
+  ],
+  "CR Montferrer i CastellbÃ²": null,
+  "CR Gimenells i el Pla de la Font": [
+    41.6714077,
+    0.3842872
+  ],
+  "B-224 Martorell": [
+    41.4759425,
+    1.9102709
+  ],
+  "A-26 Montagut i Oix": [
+    42.2217027,
+    2.5764274
+  ],
+  "BV-4132 Casserres": [
+    42.0132039,
+    1.8454822
+  ],
+  "T-712 Gratallops": [
+    41.1901371,
+    0.7736984
+  ],
+  "GI-555 Riudarenes": [
+    41.7882137,
+    2.682055
+  ],
+  "N-II Castellbisbal": [
+    41.4994464,
+    1.9682812
+  ],
+  "N-154 LlÃ­via": [
+    41.9195549,
+    3.1653838
+  ],
+  "LV-3344 Bellpuig": [
+    41.6360391,
+    1.0023287
+  ],
+  "A-2 Torres de Segre": [
+    41.5670503,
+    0.5018256
+  ],
+  "A-2 Corbera de Llobregat": [
+    41.440023,
+    1.9881034
+  ],
+  "N-IIa Sant Andreu de la Barca": [
+    41.4529242,
+    1.96932
+  ],
+  "C-25 VilobÃ­ d'Onyar": null,
+  "AL Cunit": [
+    41.197596,
+    1.6344596
+  ],
+  "BV-3001 Cardona": [
+    41.9080657,
+    1.6693418
+  ],
+  "BV-5301 Santa Maria de Palautordera": [
+    41.6873117,
+    2.4440597
+  ],
+  "C-260 Figueres": [
+    42.2670251,
+    2.9852614
+  ],
+  "N-240 VimbodÃ­ i Poblet": null,
+  "BV-1414 Sabadell": [
+    41.5175183,
+    2.0993888
+  ],
+  "B-24 PallejÃ ": [
+    41.4152955,
+    2.0008016
+  ],
+  "C-31B Salou": [
+    41.087676,
+    1.1336624
+  ],
+  "BV-5224 TorellÃ³": null,
+  "C-37 Ã’dena": [
+    42.4504862,
+    -8.808322
+  ],
+  "C-32 Sant Boi de Llobregat": [
+    41.3323107,
+    2.0589648
+  ],
+  "N-340 PallejÃ ": [
+    41.4223067,
+    1.9967356
+  ],
+  "BV-1310 CastellterÃ§ol": null,
+  "C-14 Agramunt": [
+    41.847571,
+    1.0572555
+  ],
+  "T-11 Reus": [
+    41.1316766,
+    1.1885127
+  ],
+  "C-103 Freginals": [
+    40.6715092,
+    0.5251454
+  ],
+  "C-16 Balsareny": [
+    41.8555274,
+    1.8731846
+  ],
+  "BV-5111 Arenys de Munt": [
+    41.6179659,
+    2.5410133
+  ],
+  "C-12 CastellÃ³ de Farfanya": null,
+  "TV-3032 Tivissa": [
+    41.0926241,
+    0.7166722
+  ],
+  "CR Almacelles": [
+    41.7294989,
+    0.4404763
+  ],
+  "BV-5114 ArbÃºcies": null,
+  "C-66 CorÃ§Ã ": [
+    -3.8557629,
+    -38.5191932
+  ],
+  "CR Camprodon": [
+    42.3127896,
+    2.364926
+  ],
+  "N-141D Vic": [
+    41.9266929,
+    2.2777368
+  ],
+  "CR Far d'EmpordÃ , el": [
+    42.2565316,
+    3.0060633
+  ],
+  "TP-3318 Ulldecona": [
+    40.5836173,
+    0.4532994
+  ],
+  "BV-5224 Manlleu": [
+    42.0205923,
+    2.2745786
+  ],
+  "BV-4501 Manresa": [
+    41.7488002,
+    1.840716
+  ],
+  "BV-4406 SagÃ s": null,
+  "C-32 Vendrell, el": [
+    41.2043452,
+    1.5497738
+  ],
+  "C-66 SerinyÃ ": [
+    42.1535452,
+    2.754206
+  ],
+  "BP-1503 RubÃ­": null,
+  "N-260 Valls de Valira, les": [
+    42.3593051,
+    1.5650721
+  ],
+  "BV-5024 PremiÃ  de Dalt": [
+    41.5058563,
+    2.3435891
+  ],
+  "LL-11 Lleida": [
+    41.6066728,
+    0.6287695
+  ],
+  "N-240 Torregrossa": [
+    41.5711576,
+    0.7726549
+  ],
+  "N-260 Olot": [
+    42.2014403,
+    2.4982597
+  ],
+  "BV-2002 Sant Boi de Llobregat": [
+    41.3498265,
+    2.0423106
+  ],
+  "LP-2015 Belianes": [
+    41.5891685,
+    1.0039399
+  ],
+  "AP-7 Riudellots de la Selva": [
+    41.8922717,
+    2.7747549
+  ],
+  "N-II Vilagrassa": [
+    41.6479155,
+    1.1020045
+  ],
+  "C-462 Vansa i FÃ³rnols, la": null,
+  "B-520 Taradell": [
+    41.8948277,
+    2.2821975
+  ],
+  "C-1415a Castellar del VallÃ¨s": null,
+  "C-1411a Castellbell i el Vilar": [
+    41.6420534,
+    1.8567783
+  ],
+  "GI-682 Sant Feliu de GuÃ­xols": null,
+  "C-28 Vielha e Mijaran": [
+    42.6980871,
+    0.82176
+  ],
+  "BV-1468 Molins de Rei": [
+    41.4293346,
+    2.0493422
+  ],
+  "GIP-5239 Navata": [
+    42.2262614,
+    2.8537932
+  ],
+  "C-16C Sant FruitÃ³s de Bages": null,
+  "C-1414 Olesa de Montserrat": [
+    41.5455072,
+    1.8839722
+  ],
+  "C-55 Esparreguera": [
+    41.5708551,
+    1.8635313
+  ],
+  "GI-623 Viladamat": [
+    42.1340145,
+    3.0866016
+  ],
+  "C-260 Roses": [
+    42.2649618,
+    3.1712904
+  ],
+  "LP-7032 CerviÃ  de les Garrigues": [
+    41.4235276,
+    0.8638264
+  ],
+  "T-733 AscÃ³": null,
+  "N-340 Santa Margarida i els Monjos": [
+    41.3318958,
+    1.656233
+  ],
+  "C-260 Vila-sacra": [
+    42.2680903,
+    3.0046778
+  ],
+  "C-13 Camarasa": [
+    42.004197,
+    0.8622209
+  ],
+  "BV-2003 Viladecans": [
+    41.325031,
+    2.0131478
+  ],
+  "C-26 BorredÃ ": [
+    42.129743,
+    1.9770341
+  ],
+  "GI-555 Sils": [
+    41.8323068,
+    2.753047
+  ],
+  "TP-3311 Galera, la": [
+    40.6821584,
+    0.4592617
+  ],
+  "B-22 Sant Boi de Llobregat": [
+    41.3006065,
+    2.0530013
+  ],
+  "C-32 PremiÃ  de Dalt": [
+    41.5061652,
+    2.3645861
+  ],
+  "CR Vallfogona de Balaguer": [
+    41.7518459,
+    0.8165116
+  ],
+  "B-22 Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "C-12 Os de Balaguer": [
+    41.86749,
+    0.7495353
+  ],
+  "A-7 Canonja, la": [
+    41.3845708,
+    2.1764392
+  ],
+  "C-1415a Terrassa": [
+    41.5672245,
+    2.0248293
+  ],
+  "C-38 Sant Pau de SegÃºries": null,
+  "TV-3421 Mas de Barberans": [
+    40.7370304,
+    0.3824937
+  ],
+  "B-23 Sant Just Desvern": [
+    41.3760581,
+    2.071591
+  ],
+  "C-37 Sant Salvador de Guardiola": [
+    41.7096762,
+    1.7837383
+  ],
+  "N-II PontÃ³s": null,
+  "AP-7 PerellÃ³, el": null,
+  "AP-7 OlÃ¨rdola": null,
+  "L-314 SanaÃ¼ja": null,
+  "C-44 Tivissa": [
+    41.0536496,
+    0.7113904
+  ],
+  "LV-2012 Borges Blanques, les": [
+    41.5117133,
+    0.8771265
+  ],
+  "B-10 Barcelona": [
+    41.4374567,
+    2.2087737
+  ],
+  "T-750 Pobla de Mafumet, la": [
+    41.1865619,
+    1.2206408
+  ],
+  "C-31 Barcelona": [
+    41.3959238,
+    2.1769281
+  ],
+  "C-66 Girona": [
+    42.0289117,
+    2.8357071
+  ],
+  "CR Mieres": [
+    43.2349957,
+    -5.769932
+  ],
+  "C-13 Espot": [
+    42.5755489,
+    1.141597
+  ],
+  "AP-7 VandellÃ²s i l'Hospitalet de l'Infant": null,
+  "BV-1221 Terrassa": [
+    41.5771989,
+    2.0175014
+  ],
+  "B-140 BarberÃ  del VallÃ¨s": null,
+  "A-7 Vila-seca": [
+    41.0883328,
+    1.0894387
+  ],
+  "GIV-6026 Masarac": [
+    42.33145,
+    2.9433939
+  ],
+  "N-152 Granollers": [
+    41.6079555,
+    2.2876008
+  ],
+  "C-17 LliÃ§Ã  d'Amunt": null,
+  "C-13 Tremp": [
+    42.1590236,
+    0.8966347
+  ],
+  "N-260 Pont de Suert, el": [
+    42.4128154,
+    0.7446655
+  ],
+  "BV-1411 Ripollet": [
+    41.493662,
+    2.1687951
+  ],
+  "CR Forallac": [
+    41.9405813,
+    3.0817246
+  ],
+  "BP-4653 Sant AgustÃ­ de LluÃ§anÃ¨s": null,
+  "TP-2031 Secuita, la": [
+    41.1882339,
+    1.2867583
+  ],
+  "CR Riu de Cerdanya": [
+    42.3451931,
+    1.8261265
+  ],
+  "C-1415a Sentmenat": [
+    41.6218145,
+    2.1140051
+  ],
+  "C-1412a Copons": [
+    41.632568,
+    1.5195824
+  ],
+  "C-26 Solsona": [
+    41.9939383,
+    1.5260568
+  ],
+  "C-1415b Caldes de Montbui": [
+    41.6334596,
+    2.1756105
+  ],
+  "TV-2126 Bellvei": [
+    41.2165597,
+    1.5739152
+  ],
+  "C-13 Lleida": [
+    41.6037494,
+    0.6702922
+  ],
+  "N-150 Sabadell": [
+    41.528429,
+    2.1176319
+  ],
+  "C-26 AlfarrÃ s": [
+    -2.5272451,
+    -44.2224553
+  ],
+  "A-2 Bruc, el": [
+    41.5686816,
+    1.7990089
+  ],
+  "N-260 Pobla de Segur, la": [
+    42.2494403,
+    0.95253
+  ],
+  "BP-2121 Llacuna, la": [
+    41.4397392,
+    1.5609814
+  ],
+  "CR Alcoletge": [
+    41.6472222,
+    0.6944444
+  ],
+  "BP-1413 Cerdanyola del VallÃ¨s": null,
+  "A-2 Veciana": [
+    41.6306886,
+    1.4719705
+  ],
+  "BV-5251 Sant SadurnÃ­ d'Osormort": null,
+  "N-IIa AlcarrÃ s": null,
+  "BV-4022 Nou de BerguedÃ , la": [
+    42.1666509,
+    1.8853702
+  ],
+  "AP-2 Pla de Santa Maria, el": [
+    41.7212801,
+    2.3181076
+  ],
+  "BV-2202 Sant MartÃ­ de Tous": null,
+  "BV-2135 Capellades": [
+    41.5160162,
+    1.6711547
+  ],
+  "BV-5209 Vilanova de Sau": [
+    41.9643939,
+    2.4080775
+  ],
+  "C-252 ParlavÃ ": [
+    42.0234814,
+    3.032126
+  ],
+  "C-245 GavÃ ": [
+    41.2917083,
+    1.9945065
+  ],
+  "B-212 Vilafranca del PenedÃ¨s": null,
+  "B-124 Monistrol de Calders": [
+    41.7625204,
+    2.0128346
+  ],
+  "BP-1103 Bruc, el": [
+    41.61044,
+    1.7674698
+  ],
+  "AP-7 Aiguaviva": [
+    41.918055,
+    2.7749275
+  ],
+  "C-37 Manlleu": [
+    42.0019081,
+    2.2548654
+  ],
+  "C-1413b Sant MartÃ­ de Centelles": null,
+  "CR Sant Gregori": [
+    41.9910304,
+    2.7564765
+  ],
+  "C-245 Viladecans": [
+    41.3223372,
+    2.0291564
+  ],
+  "C-12 AscÃ³": null,
+  "BV-5301 Sant Esteve de Palautordera": [
+    41.7191314,
+    2.4234929
+  ],
+  "B-40 Terrassa": [
+    41.5844666,
+    2.0052798
+  ],
+  "A-2 AlcarrÃ s": null,
+  "C-17 Tona": [
+    41.8758923,
+    2.2371771
+  ],
+  "B-400 Vallcebre": [
+    42.2178908,
+    1.8266586
+  ],
+  "L-800 AlcarrÃ s": null,
+  "BV-1031 Ã’dena": null,
+  "C-1412b Isona i Conca DellÃ ": [
+    42.1131378,
+    1.0387295
+  ],
+  "N-230 RossellÃ³": null,
+  "BP-4313 Santa Maria d'OlÃ³": null,
+  "C-14 Preixens": [
+    41.8286025,
+    1.0637472
+  ],
+  "LL-11 AlamÃºs, els": null,
+  "N-150 Montcada i Reixac": [
+    41.4895881,
+    2.1532342
+  ],
+  "C-241d Pira": [
+    41.4221387,
+    1.2012682
+  ],
+  "LV-2032 Talavera": [
+    41.6235975,
+    1.3488789
+  ],
+  "B-433 OristÃ ": [
+    41.9428809,
+    2.0352048
+  ],
+  "AP-2 Castelldans": [
+    41.5129875,
+    0.8226829
+  ],
+  "BV-5114 Campins": [
+    41.7210321,
+    2.460042
+  ],
+  "B-122 Rellinars": [
+    41.6260683,
+    1.9339012
+  ],
+  "A-2 Abrera": [
+    41.5038862,
+    1.9064674
+  ],
+  "LV-7022 Torregrossa": [
+    41.5719711,
+    0.7700755
+  ],
+  "C-15 Torre de Claramunt, la": [
+    41.5409938,
+    1.6913734
+  ],
+  "T-11 Tarragona": [
+    41.1207147,
+    1.2283891
+  ],
+  "C-1413b Centelles": [
+    41.805897,
+    2.2227059
+  ],
+  "C-243c RubÃ­": null,
+  "B-30 BarberÃ  del VallÃ¨s": null,
+  "CR Mont-roig del Camp": [
+    41.0846728,
+    0.9613021
+  ],
+  "C-63 Planes d'Hostoles, les": [
+    42.05304,
+    2.54489
+  ],
+  "C-242 Bellaguarda": [
+    41.3385699,
+    0.7348577
+  ],
+  "N-420 Fatarella, la": [
+    41.1102209,
+    0.5340799
+  ],
+  "N-260 Ger": [
+    42.4091595,
+    1.8507254
+  ],
+  "CR Sudanell": [
+    41.556894,
+    0.5669118
+  ],
+  "B-140 Santa PerpÃ¨tua de Mogoda": null,
+  "T-321 Vilanova d'Escornalbou": [
+    41.0961035,
+    0.9712015
+  ],
+  "N-II Alpicat": [
+    41.6456935,
+    0.5676246
+  ],
+  "C-32 Sant Pol de Mar": [
+    41.6139154,
+    2.6405568
+  ],
+  "BP-1432 Santa EulÃ lia de RonÃ§ana": null,
+  "BP-1121 Monistrol de Montserrat": [
+    41.6104334,
+    1.846138
+  ],
+  "T-310 MontbriÃ³ del Camp": null,
+  "T-310 Mont-roig del Camp": [
+    41.0950422,
+    0.9730095
+  ],
+  "GIP-5511 Santa Coloma de Farners": [
+    41.8762993,
+    2.6519575
+  ],
+  "GI-614 CadaquÃ©s": null,
+  "N-260 Beuda": [
+    42.2037537,
+    2.7159235
+  ],
+  "BV-5122 Fogars de la Selva": [
+    41.743452,
+    2.6479501
+  ],
+  "CR GolmÃ©s": [
+    47.9223523,
+    29.8447032
+  ],
+  "T-331 Tortosa": [
+    40.7661713,
+    0.507257
+  ],
+  "GIP-5129 BorrassÃ ": [
+    42.2339132,
+    2.9355109
+  ],
+  "GIV-6741 CassÃ  de la Selva": [
+    41.879484,
+    2.8671018
+  ],
+  "BV-2127 VilobÃ­ del PenedÃ¨s": null,
+  "N-260 Navata": [
+    42.2288341,
+    2.8706131
+  ],
+  "TV-7044 Riba, la": [
+    41.3148893,
+    1.167221
+  ],
+  "T-1025 Santa BÃ rbara": null,
+  "C-58CC Montcada i Reixac": [
+    41.4681137,
+    2.1709567
+  ],
+  "CR21 Arenys de Munt": [
+    41.6095429,
+    2.5400513
+  ],
+  "C-55 Sant Mateu de Bages": [
+    41.8508872,
+    1.7226821
+  ],
+  "N-IIa Vilagrassa": [
+    41.6428827,
+    1.0702263
+  ],
+  "TP-2311 Pla de Santa Maria, el": [
+    41.3682079,
+    1.292243
+  ],
+  "GIV-6502 Pals": [
+    41.9798651,
+    3.1614381
+  ],
+  "CR Bell-lloc d'Urgell": [
+    41.6306236,
+    0.7785425
+  ],
+  "TP-2039 Tarragona": [
+    41.1524619,
+    1.3146768
+  ],
+  "C-422 ConstantÃ­": [
+    44.1767161,
+    28.6507598
+  ],
+  "N-260 Sarroca de Bellera": [
+    42.3599796,
+    0.8749078
+  ],
+  "LV-9225 Albesa": [
+    41.7379869,
+    0.6833742
+  ],
+  "N-240 Perafort": [
+    41.1995668,
+    1.2432263
+  ],
+  "N-141C Navarcles": [
+    41.7596316,
+    1.9028302
+  ],
+  "B-23 Sant Joan DespÃ­": null,
+  "B-682 Palafolls": [
+    41.6586187,
+    2.7382282
+  ],
+  "C-260 CastellÃ³ d'EmpÃºries": null,
+  "BV-1604 Parets del VallÃ¨s": null,
+  "N-260 Figueres": [
+    42.2612006,
+    2.950937
+  ],
+  "C-35 Vidreres": [
+    41.7862635,
+    2.7865867
+  ],
+  "BV-5227 Santa Maria de Besora": [
+    42.1233501,
+    2.2729911
+  ],
+  "CR Torrefarrera": [
+    41.6735377,
+    0.6066894
+  ],
+  "A-2 Esparreguera": [
+    41.5370628,
+    1.8597003
+  ],
+  "AP-2 Bisbal del PenedÃ¨s, la": null,
+  "CR Avellanes i Santa Linya, les": [
+    41.8809462,
+    0.7737873
+  ],
+  "AP-7 CastellvÃ­ de Rosanes": null,
+  "B-20 Santa Coloma de Gramenet": [
+    41.4629025,
+    2.2196646
+  ],
+  "A-2 Granyanella": [
+    41.6800192,
+    1.2323322
+  ],
+  "B-122 Terrassa": [
+    41.605842,
+    1.9768312
+  ],
+  "TP-2031 Tarragona": [
+    41.1459254,
+    1.2706823
+  ],
+  "B-502 Vilassar de Mar": [
+    41.5092191,
+    2.397504
+  ],
+  "AL Cardona": [
+    45.054441,
+    8.1908925
+  ],
+  "BV-2421 Corbera de Llobregat": [
+    41.4167202,
+    1.9259791
+  ],
+  "C-32 Sant Pere de Ribes": [
+    41.2572803,
+    1.7322279
+  ],
+  "BP-1417 Barcelona": [
+    41.4581336,
+    2.0895406
+  ],
+  "GI-524 Olot": [
+    42.1604519,
+    2.5122128
+  ],
+  "CR Riudellots de la Selva": [
+    41.8954981,
+    2.8022296
+  ],
+  "B-20 Barcelona": [
+    41.442616,
+    2.1692441
+  ],
+  "A-2 CollbatÃ³": null,
+  "C-55 Olius": [
+    41.9823404,
+    1.5539609
+  ],
+  "B-20 Sant Boi de Llobregat": [
+    41.333058,
+    2.0634183
+  ],
+  "C-243b CastellvÃ­ de Rosanes": null,
+  "C-17 Canovelles": [
+    41.6152059,
+    2.2665296
+  ],
+  "C-14z Alcover": [
+    41.2301818,
+    1.1605148
+  ],
+  "A-2 Ã’dena": [
+    34.1689263,
+    -118.1145163
+  ],
+  "C-33 Montcada i Reixac": [
+    41.4934096,
+    2.1902755
+  ],
+  "BV-1602 LliÃ§Ã  de Vall": null,
+  "CR Torregrossa": [
+    41.5805089,
+    0.8317131
+  ],
+  "A-27 Tarragona": [
+    41.1067654,
+    1.2280504
+  ],
+  "C-15z Canyelles": [
+    41.2885894,
+    1.7241218
+  ],
+  "C-245 Esplugues de Llobregat": [
+    41.3764605,
+    2.0878352
+  ],
+  "C-37z Manresa": [
+    41.7209375,
+    1.8205798
+  ],
+  "BV-5001 Santa Coloma de Gramenet": [
+    41.4393244,
+    2.2107431
+  ],
+  "TV-3321 Alcanar": [
+    40.5379143,
+    0.4671362
+  ],
+  "AP-7 Vilafranca del PenedÃ¨s": null,
+  "LV-3311 Bell-lloc d'Urgell": [
+    41.6352237,
+    0.7883983
+  ],
+  "B-10 Santa Coloma de Gramenet": [
+    41.4519395,
+    2.2080809
+  ],
+  "C-17 Malla": [
+    41.9046528,
+    2.2482922
+  ],
+  "C-243b Subirats": [
+    41.4259462,
+    1.7996819
+  ],
+  "T-200 Valls": [
+    41.2879911,
+    1.2524903
+  ],
+  "B-23 Barcelona": [
+    41.3831132,
+    2.1066056
+  ],
+  "CR Massanes": [
+    44.0231,
+    4.11289
+  ],
+  "B-20 Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "C-153 Vic": [
+    41.9545162,
+    2.2811227
+  ],
+  "C-12 Sarroca de Lleida": [
+    41.47628,
+    0.59546
+  ],
+  "AP-7 BÃ scara": null,
+  "C-35 MaÃ§anet de la Selva": null,
+  "B-201 Sant Boi de Llobregat": [
+    41.3347213,
+    2.0507181
+  ],
+  "C-17 FigarÃ³-Montmany": null,
+  "A-26 Sant Joan les Fonts": [
+    42.1941962,
+    2.5091379
+  ],
+  "TV-2127 Vendrell, el": [
+    41.2011228,
+    1.5342855
+  ],
+  "CR Pau": [
+    9.8736991,
+    -84.0634586
+  ],
+  "C-26 Lladurs": [
+    42.0173182,
+    1.4745239
+  ],
+  "A-2 ArgenÃ§ola": null,
+  "N-IIa Mollerussa": [
+    41.6298988,
+    0.8843667
+  ],
+  "N-141c Manresa": [
+    41.7348784,
+    1.8419439
+  ],
+  "A-2 Caldes de Malavella": [
+    41.8708027,
+    2.7780312
+  ],
+  "CR Vilopriu": [
+    42.1043198,
+    2.9918548
+  ],
+  "C-17 Granollers": [
+    41.59642,
+    2.2636922
+  ],
+  "GI-543 Espinelves": [
+    41.8537216,
+    2.4314529
+  ],
+  "N-260 Soriguera": [
+    42.3986089,
+    1.1382118
+  ],
+  "LV-3028 Fuliola, la": [
+    41.7083079,
+    0.9828002
+  ],
+  "BV-2421 Palma de CervellÃ³, la": null,
+  "AP-7 Sant Gregori": [
+    41.9919372,
+    2.7908112
+  ],
+  "BP-2121 Torrelles de Foix": [
+    41.4195769,
+    1.5932824
+  ],
+  "GI-667 Calonge": [
+    41.8577844,
+    3.0753442
+  ],
+  "T-1025 Mas de Barberans": [
+    40.7265561,
+    0.3868637
+  ],
+  "C-66 Torrent": [
+    41.9458,
+    3.1233
+  ],
+  "TV-3101 Riudoms": [
+    41.1394219,
+    1.0510851
+  ],
+  "GI-552 ArbÃºcies": null,
+  "C-65 Llambilles": [
+    41.9276926,
+    2.8497852
+  ],
+  "LP-7041 Soses": [
+    41.5385962,
+    0.4879442
+  ],
+  "GI-603 RabÃ³s": null,
+  "C-16z Balsareny": [
+    41.8472851,
+    1.8774291
+  ],
+  "B-220 Bellprat": [
+    41.5006216,
+    1.4840533
+  ],
+  "C-152 Preses, les": [
+    42.1454246,
+    2.4591166
+  ],
+  "GI-503 Darnius": [
+    42.3709471,
+    2.8189964
+  ],
+  "BV-3012 Rajadell": [
+    41.735174,
+    1.7061353
+  ],
+  "BV-1462 Sant Cugat del VallÃ¨s": null,
+  "GIP-6031 RabÃ³s": null,
+  "B-500 Mollet del VallÃ¨s": null,
+  "LP-3322 Vila-sana": [
+    41.6596772,
+    0.8963537
+  ],
+  "A-2 Soses": [
+    41.5354269,
+    0.4193442
+  ],
+  "TV-3408 Sant Carles de la RÃ pita": null,
+  "BV-1435 Santa EulÃ lia de RonÃ§ana": null,
+  "T-240 Bisbal del PenedÃ¨s, la": null,
+  "C-62 Sant Bartomeu del Grau": [
+    41.9266494,
+    2.1411204
+  ],
+  "BV-2242 Piera": [
+    41.5193637,
+    1.7408037
+  ],
+  "GIP-6831 Blanes": [
+    41.6680921,
+    2.7686424
+  ],
+  "TV-7231 Pobla de Massaluca, la": [
+    41.224981,
+    0.3507766
+  ],
+  "N-IIa Torres de Segre": [
+    41.5555997,
+    0.5052212
+  ],
+  "N-141c Tona": [
+    41.8720388,
+    2.2179332
+  ],
+  "C-31 Far d'EmpordÃ , el": [
+    42.2314331,
+    2.9861446
+  ],
+  "N-420 Borges del Camp, les": [
+    41.165106,
+    1.0259058
+  ],
+  "GI-510 Llers": [
+    42.2944229,
+    2.9105856
+  ],
+  "A-7 Jonquera, la": [
+    42.3786952,
+    1.7191297
+  ],
+  "B-204 Sant Boi de Llobregat": [
+    41.3054672,
+    2.0582392
+  ],
+  "C-53 Bellcaire d'Urgell": [
+    41.7764313,
+    0.855245
+  ],
+  "BP-5107 Sant Antoni de Vilamajor": [
+    41.6485585,
+    2.4058499
+  ],
+  "TV-2441 Querol": [
+    41.3997673,
+    1.4717766
+  ],
+  "C-25 CassÃ  de la Selva": [
+    41.8936859,
+    2.8574701
+  ],
+  "TV-7004 Vilanova de Prades": [
+    41.3466006,
+    0.9149417
+  ],
+  "GI-524 Santa Pau": [
+    42.1567486,
+    2.5153291
+  ],
+  "N-260 CrespiÃ ": [
+    42.2055174,
+    2.7682636
+  ],
+  "CR Navarcles": [
+    41.7531567,
+    1.9033612
+  ],
+  "LV-2003 AlamÃºs, els": null,
+  "C-221 Batea": [
+    41.1048889,
+    0.2823964
+  ],
+  "BV-5001 Sant Fost de Campsentelles": [
+    41.50322,
+    2.2048491
+  ],
+  "TP-2402 Bisbal del PenedÃ¨s, la": null,
+  "C-1413a Sant Quirze del VallÃ¨s": null,
+  "B-431 Calders": [
+    41.7924481,
+    1.9808691
+  ],
+  "BV-5301 Seva": [
+    41.8268655,
+    2.2896634
+  ],
+  "N-420 Pradell de la Teixeta": [
+    41.1460425,
+    0.8493562
+  ],
+  "A-22 Lleida": [
+    41.688512,
+    0.4873914
+  ],
+  "C-152 Olot": [
+    42.1787563,
+    2.4843112
+  ],
+  "A-7 Vilafranca del PenedÃ¨s": null,
+  "T-330 Prat de Comte": [
+    40.967529,
+    0.3747169
+  ],
+  "C-1415B Canovelles": [
+    41.6166093,
+    2.2737549
+  ],
+  "C-26 Bassella": [
+    42.0199705,
+    1.3157977
+  ],
+  "GI-634 Jafre": [
+    42.0716896,
+    3.009839
+  ],
+  "L-702 Castelldans": [
+    41.529437,
+    0.7523675
+  ],
+  "GI-531 Sant MartÃ­ de LlÃ©mena": null,
+  "A-2 BarberÃ  de la Conca": [
+    41.4110876,
+    1.2288159
+  ],
+  "T-324 Benissanet": [
+    41.0600136,
+    0.6350238
+  ],
+  "GI-623 Escala, l'": [
+    42.1245342,
+    3.1178474
+  ],
+  "C-31 Viladamat": [
+    42.1247815,
+    3.0678724
+  ],
+  "BV-2241 Masquefa": [
+    41.466892,
+    1.7903667
+  ],
+  "GI-524 Porqueres": [
+    42.1122488,
+    2.7482391
+  ],
+  "C-16C Manresa": [
+    41.7367161,
+    1.8479247
+  ],
+  "N-II Bell-lloc d'Urgell": [
+    41.6292468,
+    0.7764173
+  ],
+  "C-55 Clariana de Cardener": [
+    41.9574332,
+    1.5858435
+  ],
+  "BV-1341 Sant Quirze Safaja": [
+    41.7270313,
+    2.1600963
+  ],
+  "C-15 Torrelavit": [
+    41.4351076,
+    1.6814122
+  ],
+  "BV-4317 Muntanyola": [
+    41.878447,
+    2.1741986
+  ],
+  "C-26 NavÃ¨s": [
+    40.4787503,
+    -4.680562
+  ],
+  "C-1414 Esparreguera": [
+    41.5422076,
+    1.8811222
+  ],
+  "B-500 Badalona": [
+    41.4585064,
+    2.2484832
+  ],
+  "AL Campins": [
+    -6.188854,
+    -41.796155
+  ],
+  "AP-2 Juneda": [
+    41.5098518,
+    0.8354461
+  ],
+  "GIP-5121 EsponellÃ ": [
+    42.176937,
+    2.7954326
+  ],
+  "C-243c Terrassa": [
+    41.5492914,
+    2.0018156
+  ],
+  "T-702 Poboleda": [
+    41.2428467,
+    0.8237512
+  ],
+  "C-13 Guingueta d'Ã€neu, la": null,
+  "C-243c Castellbisbal": [
+    41.523039,
+    1.978457
+  ],
+  "BV-4601 Gurb": [
+    41.9412996,
+    2.2423457
+  ],
+  "CR Horta de Sant Joan": [
+    40.9554904,
+    0.315402
+  ],
+  "GIV-6301 VentallÃ³": null,
+  "BV-4511 Sant FruitÃ³s de Bages": null,
+  "LV-5131 Soriguera": [
+    42.3796604,
+    1.1297635
+  ],
+  "C-242 Borges del Camp, les": [
+    41.1864255,
+    1.0041962
+  ],
+  "CR Sant Esteve de la Sarga": [
+    42.0798949,
+    0.7640458
+  ],
+  "TV-2034 Valls": [
+    41.2802535,
+    1.2702735
+  ],
+  "TV-3531 Bot": [
+    41.0176942,
+    0.3847207
+  ],
+  "L-512 Artesa de Segre": [
+    41.9097577,
+    1.0687328
+  ],
+  "A-2 Fornells de la Selva": [
+    41.9266784,
+    2.7918837
+  ],
+  "N-II Bellpuig": [
+    41.6304122,
+    0.9746214
+  ],
+  "AP-7 Castellet i la Gornal": [
+    41.2917754,
+    1.5968935
+  ],
+  "L-201 MaldÃ ": [
+    41.5474251,
+    0.9824398
+  ],
+  "CR AnglÃ¨s": [
+    0.2005464,
+    -78.1560182
+  ],
+  "C-13 Talarn": [
+    42.1561124,
+    0.8985203
+  ],
+  "CR TorÃ ": [
+    4.4768938,
+    6.5029896
+  ],
+  "AP-7 Cambrils": [
+    41.0746935,
+    1.0207366
+  ],
+  "C-16 Casserres": [
+    42.0318569,
+    1.8735237
+  ],
+  "B-210 GavÃ ": [
+    41.2849254,
+    1.9999451
+  ],
+  "C-1412a Calonge de Segarra": [
+    41.7364243,
+    1.5019439
+  ],
+  "C-16z Olvan": [
+    42.0720593,
+    1.8700523
+  ],
+  "C-31 Fontanilles": [
+    42.0010208,
+    3.1474498
+  ],
+  "BV-2249 Gelida": [
+    41.4463064,
+    1.8650911
+  ],
+  "A-2 Bellpuig": [
+    41.636249,
+    1.0127951
+  ],
+  "C-243a Subirats": [
+    41.4199768,
+    1.7720427
+  ],
+  "N-420 Masroig, el": [
+    41.1178544,
+    0.71524
+  ],
+  "N-340 Sant VicenÃ§ dels Horts": null,
+  "CR Aldea, l'": [
+    38.173717,
+    -81.3087224
+  ],
+  "CR Puigverd de Lleida": [
+    41.5436104,
+    0.7334031
+  ],
+  "CR Tremp": [
+    42.1669782,
+    0.8950137
+  ],
+  "C-31 Gualta": [
+    42.0340183,
+    3.1246144
+  ],
+  "T-322 Mont-roig del Camp": [
+    41.0927046,
+    0.9285164
+  ],
+  "N-IIa Corbera de Llobregat": [
+    41.4400737,
+    1.9864856
+  ],
+  "N-340 Vallirana": [
+    41.389398,
+    1.9416724
+  ],
+  "T-330 Arnes": [
+    40.9143242,
+    0.2592643
+  ],
+  "GI-520 Viladrau": [
+    41.8496957,
+    2.392758
+  ],
+  "BV-5001 Roca del VallÃ¨s, la": null,
+  "CR20 Girona": [
+    41.9793006,
+    2.8199439
+  ],
+  "C-63 Sant Feliu de Pallerols": [
+    42.0778692,
+    2.5067455
+  ],
+  "TV-2401 Montmell, el": [
+    41.2982626,
+    1.4262698
+  ],
+  "T-240 LlorenÃ§ del PenedÃ¨s": null,
+  "C-66 CelrÃ ": [
+    42.0222974,
+    2.8510742
+  ],
+  "AP-7 Vilafant": [
+    42.2466084,
+    2.9408435
+  ],
+  "T-722 Morell, el": [
+    41.190308,
+    1.2072826
+  ],
+  "AP-7 Castellbisbal": [
+    41.4695006,
+    1.9726566
+  ],
+  "BV-1001 Calaf": [
+    41.7248299,
+    1.5108839
+  ],
+  "GI-622 BÃ scara": null,
+  "BV-1248 Terrassa": [
+    41.5942123,
+    2.0380692
+  ],
+  "N-260a Olot": [
+    42.1934299,
+    2.4815564
+  ],
+  "LV-4241b Lladurs": [
+    42.0903502,
+    1.5165566
+  ],
+  "T-714 CabacÃ©s": null,
+  "AL Cambrils": [
+    41.084202,
+    1.0366168
+  ],
+  "LP-7041 Aitona": [
+    41.4805455,
+    0.4392406
+  ],
+  "BV-4031 Castellar de n'Hug": [
+    42.2720696,
+    1.988478
+  ],
+  "C-252 Ultramort": [
+    42.0282642,
+    3.0340135
+  ],
+  "N-230 Torrefarrera": [
+    41.6692711,
+    0.6060314
+  ],
+  "BP-1503 Terrassa": [
+    41.5317119,
+    2.0357738
+  ],
+  "BV-1501 Castellbisbal": [
+    41.4700155,
+    1.9699466
+  ],
+  "T-314 Vinyols i els Arcs": [
+    41.1094437,
+    1.0370432
+  ],
+  "CR Argelaguer": [
+    42.2145207,
+    2.6414922
+  ],
+  "C-35 Cardedeu": [
+    41.6188153,
+    2.3570018
+  ],
+  "B-204 Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "BP-2121 Pacs del PenedÃ¨s": null,
+  "AP-7 Viladasens": [
+    42.1008239,
+    2.9023722
+  ],
+  "AP-7 Santa Oliva": [
+    41.2302718,
+    1.5267934
+  ],
+  "AP-7 Mont-roig del Camp": [
+    41.0491092,
+    0.9715796
+  ],
+  "L-200 Miralcamp": [
+    41.6111071,
+    0.8835511
+  ],
+  "CR CastellÃ³ d'EmpÃºries": null,
+  "L-401 OdÃ¨n": [
+    4.4683075,
+    20.5295134
+  ],
+  "C-15z Vilanova i la GeltrÃº": null,
+  "BV-5023 PremiÃ  de Dalt": [
+    41.5017215,
+    2.3594162
+  ],
+  "N-141b Aguilar de Segarra": [
+    41.7386242,
+    1.6047414
+  ],
+  "N-340 Reus": [
+    41.1024336,
+    1.1249072
+  ],
+  "N-IIa Sant VicenÃ§ dels Horts": null,
+  "L-303 Plans de SiÃ³, els": null,
+  "BV-1249 Castellar del VallÃ¨s": null,
+  "GI-533 Vilablareix": [
+    41.9570855,
+    2.7999818
+  ],
+  "BP-5107 Sant Pere de Vilamajor": [
+    41.6753999,
+    2.3904343
+  ],
+  "C-12 Corbins": [
+    41.6931893,
+    0.707477
+  ],
+  "BV-1604 LliÃ§Ã  de Vall": null,
+  "TV-2443 Montmell, el": [
+    41.322755,
+    1.4154797
+  ],
+  "C-1413a Sabadell": [
+    41.5670283,
+    2.1212423
+  ],
+  "GIV-5441 Espinelves": [
+    41.8681289,
+    2.41356
+  ],
+  "C-37 Sant Pere de TorellÃ³": null,
+  "TP-2031 Catllar, el": [
+    41.1995316,
+    1.2923023
+  ],
+  "C-17 Barcelona": [
+    41.4622135,
+    2.1819425
+  ],
+  "CR Ribera d'Urgellet": [
+    42.2861046,
+    1.4187688
+  ],
+  "C-12 Avellanes i Santa Linya, les": [
+    41.9066066,
+    0.7629382
+  ],
+  "BV-5306 Taradell": [
+    41.8740193,
+    2.282335
+  ],
+  "TV-3141 Reus": [
+    41.1391882,
+    1.0987822
+  ],
+  "B-143 Palau-solitÃ  i Plegamans": [
+    41.5584176,
+    2.1862034
+  ],
+  "CR Albons": [
+    42.1058271,
+    3.0849746
+  ],
+  "GI-602 Espolla": [
+    42.3880212,
+    2.9979767
+  ],
+  "TP-2031 BrÃ fim": null,
+  "LV-4241b Solsona": [
+    41.9900452,
+    1.5116303
+  ],
+  "C-17 Ametlla del VallÃ¨s, l'": null,
+  "N-260 AlÃ s i Cerc": null,
+  "LV-3333 Ivars d'Urgell": [
+    41.690387,
+    0.9647008
+  ],
+  "N-152a Vic": [
+    42.1361749,
+    2.2090745
+  ],
+  "C-31 UllÃ ": [
+    42.0481189,
+    3.1099154
+  ],
+  "GI-503 MaÃ§anet de Cabrenys": null,
+  "N-II Riudellots de la Selva": [
+    41.888663,
+    2.7833454
+  ],
+  "TV-2042 MasllorenÃ§": null,
+  "BV-1123 Castellbell i el Vilar": [
+    41.648983,
+    1.8046513
+  ],
+  "BV-1462 Barcelona": [
+    41.4206668,
+    2.1082752
+  ],
+  "GI-532 Sant MartÃ­ de LlÃ©mena": null,
+  "TP-2039 Catllar, el": [
+    41.170274,
+    1.3185024
+  ],
+  "LP-7043 Torres de Segre": [
+    41.5520321,
+    0.5076185
+  ],
+  "LV-5118 Peramola": [
+    42.0626277,
+    1.2761204
+  ],
+  "BV-5301 Montseny": [
+    41.7889062,
+    2.3707751
+  ],
+  "TV-2333 Sarral": [
+    41.4546131,
+    1.2629782
+  ],
+  "BV-5301 Brull, el": [
+    41.7790899,
+    2.3947558
+  ],
+  "CR Roquetes": [
+    40.8203657,
+    0.50343
+  ],
+  "C-12 Benifallet": [
+    40.9815865,
+    0.5179985
+  ],
+  "T-202 SalomÃ³": null,
+  "C-58C Sabadell": [
+    41.5633141,
+    2.0774865
+  ],
+  "BV-1414 Cerdanyola del VallÃ¨s": null,
+  "BV-2115 Vilanova i la GeltrÃº": null,
+  "TV-2122 LlorenÃ§ del PenedÃ¨s": null,
+  "N-340 Molins de Rei": [
+    41.4082641,
+    2.0120141
+  ],
+  "C-246 Castelldefels": [
+    41.2675748,
+    1.9586283
+  ],
+  "BV-5101 Dosrius": [
+    41.5983985,
+    2.4094852
+  ],
+  "LV-3025 Cubells": [
+    41.8017252,
+    0.9576359
+  ],
+  "BV-1123 Bruc, el": [
+    41.6484505,
+    1.7860462
+  ],
+  "BV-1468 Barcelona": [
+    41.4258056,
+    2.0620953
+  ],
+  "BP-4654 Sant AgustÃ­ de LluÃ§anÃ¨s": null,
+  "GIV-6226 GarrigÃ s": null,
+  "BV-2002 Sant VicenÃ§ dels Horts": null,
+  "N-340 Vila-seca": [
+    41.0913059,
+    1.0984158
+  ],
+  "C-51 Vila-rodona": [
+    41.2919464,
+    1.3424752
+  ],
+  "BP-4654 Berga": [
+    42.1153651,
+    1.8538751
+  ],
+  "CR Pera, la": [
+    41.0284233,
+    28.9736808
+  ],
+  "GI-510 Terrades": [
+    42.3061511,
+    2.8762025
+  ],
+  "GI-643 Gualta": [
+    42.0338648,
+    3.122945
+  ],
+  "GIV-6701 Madremanya": [
+    42.0030843,
+    2.9447726
+  ],
+  "BV-4021 Sant JuliÃ  de Cerdanyola": [
+    42.2298006,
+    1.8833552
+  ],
+  "C-152 Santa Coloma de Farners": [
+    41.8659092,
+    2.6645468
+  ],
+  "C-31B Tarragona": [
+    41.1060971,
+    1.2088393
+  ],
+  "L-310 Plans de SiÃ³, els": null,
+  "C-59 Santa Maria d'OlÃ³": null,
+  "BV-5106 Roca del VallÃ¨s, la": null,
+  "N-420 Garcia": [
+    41.108445,
+    0.6883931
+  ],
+  "C-32 Calella": [
+    41.6265295,
+    2.6557673
+  ],
+  "B-140 Sabadell": [
+    41.5347654,
+    2.1147265
+  ],
+  "C-234 GavÃ ": [
+    41.290654,
+    2.0106326
+  ],
+  "C-153 Rupit i Pruit": [
+    42.0415105,
+    2.4672703
+  ],
+  "LP-9221 Benavent de SegriÃ ": [
+    41.6972075,
+    0.635152
+  ],
+  "C-35 Hostalric": [
+    41.7479019,
+    2.6316683
+  ],
+  "TV-3142 Riudoms": [
+    41.1170352,
+    1.0737989
+  ],
+  "TV-7231 Vilalba dels Arcs": [
+    41.1089882,
+    0.4202904
+  ],
+  "N-240 Pallaresos, els": [
+    41.1628798,
+    1.2397231
+  ],
+  "BV-2151 Sant MartÃ­ Sarroca": null,
+  "B-300 PinÃ³s": null,
+  "N-141C Sant FruitÃ³s de Bages": null,
+  "LV-3113 Guissona": [
+    41.7872974,
+    1.2960668
+  ],
+  "N-141C Calders": [
+    41.7925876,
+    1.9956567
+  ],
+  "C-37 Castellfollit del Boix": [
+    41.6324843,
+    1.6912532
+  ],
+  "GI-521 Sant Joan de les Abadesses": [
+    42.2344392,
+    2.2893582
+  ],
+  "B-510 Argentona": [
+    41.5778194,
+    2.3929191
+  ],
+  "TV-7002 VimbodÃ­ i Poblet": null,
+  "BP-1103 Marganell": [
+    41.6062687,
+    1.8219415
+  ],
+  "CR Sant Carles de la RÃ pita": null,
+  "AL Vilamacolum": [
+    42.1965528,
+    3.0571146
+  ],
+  "CR Camarles": [
+    40.7735425,
+    0.6738724
+  ],
+  "C-155 Mollet del VallÃ¨s": null,
+  "CR Bassella": [
+    38.2286526,
+    -120.4726049
+  ],
+  "GI-633 CerviÃ  de Ter": [
+    42.0679839,
+    2.9248259
+  ],
+  "N-IIa GolmÃ©s": null,
+  "C-1415A Sentmenat": [
+    41.6218145,
+    2.1140051
+  ],
+  "C-1412b Baronia de Rialb, la": [
+    42.019729,
+    1.1530931
+  ],
+  "GIV-5136 Banyoles": [
+    42.1224789,
+    2.7863249
+  ],
+  "TV-2401 Bisbal del PenedÃ¨s, la": null,
+  "L-303 Puigverd d'Agramunt": [
+    41.7812414,
+    1.109595
+  ],
+  "N-420 Batea": [
+    41.0442562,
+    0.3504502
+  ],
+  "BV-4241 Capolat": [
+    42.0936932,
+    1.7914825
+  ],
+  "TP-2031 Vilabella": [
+    41.259233,
+    1.3190726
+  ],
+  "GIV-6542 Palafrugell": [
+    41.9156775,
+    3.1706292
+  ],
+  "N-260 Planoles": [
+    42.3144309,
+    2.1214567
+  ],
+  "A-27 MasÃ³, la": null,
+  "AP-7 Santa Margarida i els Monjos": [
+    41.3303946,
+    1.6618775
+  ],
+  "C-26 Balaguer": [
+    41.779949,
+    0.7988127
+  ],
+  "B-250a Prat de Llobregat, el": [
+    41.3258148,
+    2.1100912
+  ],
+  "AP-7 SarriÃ  de Ter": [
+    42.0107641,
+    2.8101288
+  ],
+  "BV-1439 Granollers": [
+    41.6148087,
+    2.277258
+  ],
+  "C-15z Santa Fe del PenedÃ¨s": null,
+  "L-200 Mollerussa": [
+    41.6189294,
+    0.8885464
+  ],
+  "TP-7403 Porrera": [
+    41.1869028,
+    0.8554086
+  ],
+  "C-13 Sentiu de SiÃ³, la": null,
+  "GI-504 Terrades": [
+    42.3271723,
+    2.8416509
+  ],
+  "C-16 Sallent": [
+    41.8171987,
+    1.8944749
+  ],
+  "B-150 Castellbisbal": [
+    41.4778579,
+    1.9843538
+  ],
+  "T-740 Porrera": [
+    41.1827617,
+    0.8542911
+  ],
+  "TV-7223 Selva del Camp, la": [
+    41.2108975,
+    1.1868436
+  ],
+  "BP-4654 Alpens": [
+    42.1260157,
+    2.0942427
+  ],
+  "LV-2001 Juneda": [
+    41.5549981,
+    0.8271204
+  ],
+  "N-260 MontellÃ  i Martinet": [
+    42.3650513,
+    1.6801669
+  ],
+  "BV-1435 Bigues i Riells": [
+    41.6665368,
+    2.2289436
+  ],
+  "GI-652 Pals": [
+    41.9588829,
+    3.1480669
+  ],
+  "TV-7223 Vilallonga del Camp": [
+    41.2123644,
+    1.1981191
+  ],
+  "N-340 Cambrils": [
+    41.072722,
+    1.0559159
+  ],
+  "AL Vilassar de Mar": [
+    41.4966216,
+    2.3802361
+  ],
+  "CR Sort": [
+    42.4114509,
+    1.1298362
+  ],
+  "AL Manresa": [
+    -30.0991049,
+    -51.1935261
+  ],
+  "C-246 Sitges": [
+    41.2653082,
+    1.9391571
+  ],
+  "C-253a Llagostera": [
+    41.8091416,
+    2.8748049
+  ],
+  "N-IIa Vilanova del CamÃ­": null,
+  "GIV-6441 Forallac": [
+    41.9514786,
+    3.0559557
+  ],
+  "C-58 Sabadell": [
+    41.5116387,
+    2.1023775
+  ],
+  "CR Susqueda": [
+    41.9983697,
+    2.5131351
+  ],
+  "C-26 CastellÃ³ de Farfanya": null,
+  "L-303 Cervera": [
+    41.6798279,
+    1.253583
+  ],
+  "CR Castellnou de Seana": [
+    41.6468732,
+    0.9700315
+  ],
+  "L-511 Abella de la Conca": [
+    42.1723537,
+    1.1613566
+  ],
+  "GI-632 Bellcaire d'EmpordÃ ": [
+    42.10478,
+    3.1213062
+  ],
+  "BV-2429 Subirats": [
+    41.3949043,
+    1.769879
+  ],
+  "B-142 Sentmenat": [
+    41.573723,
+    2.1510481
+  ],
+  "AL AlÃ s i Cerc": null,
+  "C-26 Cercs": [
+    42.1256324,
+    1.8743655
+  ],
+  "N-260a Ripoll": [
+    42.1952795,
+    2.2338159
+  ],
+  "C-242 Cornudella de Montsant": [
+    41.233144,
+    0.8942844
+  ],
+  "BV-2128 CastellvÃ­ de la Marca": null,
+  "CR Bellpuig": [
+    41.6254383,
+    1.0117111
+  ],
+  "L-200 Juneda": [
+    41.5705609,
+    0.8773009
+  ],
+  "N-141C MoiÃ ": [
+    41.8089329,
+    2.1067669
+  ],
+  "C-243C RubÃ­": null,
+  "C-241d Sarral": [
+    41.4629874,
+    1.2686139
+  ],
+  "L-700 AlbatÃ rrec": null,
+  "GI-532 Sant JuliÃ  del Llor i BonmatÃ­": null,
+  "AP-7 Vila-seca": [
+    41.1280224,
+    1.1575076
+  ],
+  "N-230 Les": [
+    42.795764,
+    0.6991334
+  ],
+  "N-II CelrÃ ": [
+    42.0223487,
+    2.8504957
+  ],
+  "BV-4241 Berga": [
+    42.0999057,
+    1.8272769
+  ],
+  "C-162 Fontanals de Cerdanya": [
+    42.3966949,
+    1.9099928
+  ],
+  "BV-5151 Franqueses del VallÃ¨s, les": null,
+  "N-260 Ribes de Freser": [
+    42.2587566,
+    2.1656372
+  ],
+  "GI-631 Vilopriu": [
+    42.1267178,
+    2.998651
+  ],
+  "TV-7211 Reus": [
+    41.1600007,
+    1.1229955
+  ],
+  "A-2 Sidamon": [
+    41.6355616,
+    0.8122151
+  ],
+  "N-150 Ripollet": [
+    41.491702,
+    2.1502882
+  ],
+  "CR Alp": [
+    45.001521,
+    -111.3965839
+  ],
+  "CR Alguaire": [
+    41.7361463,
+    0.585933
+  ],
+  "C-42 Tortosa": [
+    40.7613073,
+    0.5855028
+  ],
+  "BV-4131 Casserres": [
+    42.0102168,
+    1.847332
+  ],
+  "C-12 Ã€ger": [
+    43.2525682,
+    -0.0525885
+  ],
+  "AP-7 Granollers": [
+    41.5739306,
+    2.2847767
+  ],
+  "C-252 Verges": [
+    42.062151,
+    3.0478177
+  ],
+  "T-702 Vilella Alta, la": [
+    41.2368589,
+    0.7850963
+  ],
+  "GIV-5313 Canet d'Adri": [
+    42.0218754,
+    2.7440695
+  ],
+  "LV-3025 Montgai": [
+    41.8005479,
+    0.9680712
+  ],
+  "AP-7 Amposta": [
+    40.7133102,
+    0.5561138
+  ],
+  "C-260 FortiÃ ": [
+    42.2596793,
+    3.0468627
+  ],
+  "T-204 SalomÃ³": null,
+  "B-124 AviÃ ": [
+    42.0774337,
+    1.8221304
+  ],
+  "AP-7 Parets del VallÃ¨s": null,
+  "B-432 Olost": [
+    41.9921772,
+    2.0416477
+  ],
+  "N-141d AviÃ ": [
+    50.0801226,
+    20.0045001
+  ],
+  "N-II Lleida": [
+    41.5979434,
+    0.5969377
+  ],
+  "C-26 Berga": [
+    42.0896079,
+    1.8298473
+  ],
+  "L-522 Conca de Dalt": [
+    42.2865701,
+    0.9364829
+  ],
+  "BV-2127 Vilafranca del PenedÃ¨s": null,
+  "C-26 Cubells": [
+    41.8540888,
+    0.9640464
+  ],
+  "B-400 Guardiola de BerguedÃ ": [
+    42.215477,
+    1.8668934
+  ],
+  "BP-4654 Sora": [
+    42.0882472,
+    2.1459742
+  ],
+  "AP-7 Santa Maria de Palautordera": [
+    41.6477537,
+    2.4265873
+  ],
+  "B-212 Santa Margarida i els Monjos": [
+    41.3383461,
+    1.6621927
+  ],
+  "GI-553 Sant Feliu de Buixalleu": [
+    41.7435578,
+    2.6209854
+  ],
+  "C-25 Sant SadurnÃ­ d'Osormort": null,
+  "C-26 AviÃ ": [
+    52.9665666,
+    14.3973964
+  ],
+  "B-224 Sant LlorenÃ§ d'Hortons": null,
+  "TV-3401 Camarles": [
+    40.7760857,
+    0.6895196
+  ],
+  "N-IIa TÃ rrega": null,
+  "GI-610 VilajuÃ¯ga": null,
+  "CR1 Puigpelat": [
+    41.2779295,
+    1.3017783
+  ],
+  "L-303 OssÃ³ de SiÃ³": null,
+  "CR Alpicat": [
+    41.6666421,
+    0.5554774
+  ],
+  "C-25 Sant Pere Sallavinera": [
+    41.7459277,
+    1.5866224
+  ],
+  "C-26 Castellar de la Ribera": [
+    42.0250318,
+    1.4113004
+  ],
+  "C-241d Piles, les": [
+    41.51857,
+    1.3661324
+  ],
+  "TV-3141 Riudoms": [
+    41.1052505,
+    1.0843673
+  ],
+  "T-700 Espluga de FrancolÃ­, l'": null,
+  "T-702 Cornudella de Montsant": [
+    41.2367059,
+    0.8839979
+  ],
+  "A-2 Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "CR Ã€ger": [
+    10.5275086,
+    -84.4806033
+  ],
+  "N-II Far d'EmpordÃ , el": [
+    42.2485419,
+    2.9842955
+  ],
+  "CR Ulldecona": [
+    40.5967567,
+    0.4475376
+  ],
+  "C-12 Ginestar": [
+    41.0450382,
+    0.6430636
+  ],
+  "BV-2111 Sant Pere de Ribes": [
+    41.2642019,
+    1.7813658
+  ],
+  "CR2 Far d'EmpordÃ , el": [
+    42.2473013,
+    2.9956767
+  ],
+  "T-318 Pratdip": [
+    41.0420302,
+    0.9109956
+  ],
+  "CR Algerri": [
+    41.81505,
+    0.6384169
+  ],
+  "CR34 MaÃ§anet de la Selva": null,
+  "CR Abrera": [
+    41.5162832,
+    1.9017313
+  ],
+  "GIV-5132 Fontcoberta": [
+    42.1432324,
+    2.8136095
+  ],
+  "CR Juneda": [
+    41.5485218,
+    0.8245593
+  ],
+  "CR Palau de Santa EulÃ lia": null,
+  "CR Guils de Cerdanya": [
+    42.4479402,
+    1.879737
+  ],
+  "N-II Canet de Mar": [
+    41.586446,
+    2.581146
+  ],
+  "T-233 Sarral": [
+    41.4686392,
+    1.2239894
+  ],
+  "AP-2 Montblanc": [
+    41.4008976,
+    1.1536415
+  ],
+  "CR7 Santa Maria d'OlÃ³": null,
+  "N-IIa Hostalets de Pierola, els": null,
+  "CR Alins": [
+    42.549124,
+    1.3180552
+  ],
+  "C-451 Biosca": [
+    41.839741,
+    1.3560221
+  ],
+  "BP-2151 Sant Pere de Riudebitlles": [
+    41.4508494,
+    1.6841546
+  ],
+  "C-31 Viladecans": [
+    41.2979572,
+    2.0511259
+  ],
+  "CR8 Selva del Camp, la": [
+    41.1967956,
+    1.1215615
+  ],
+  "T-350 Masdenverge": [
+    40.7155482,
+    0.5287873
+  ],
+  "CR07 Sant Joan de Vilatorrada": [
+    41.7422073,
+    1.803625
+  ],
+  "GI-613 Port de la Selva, el": [
+    42.3132979,
+    3.2111552
+  ],
+  "N-260 Sant Joan les Fonts": [
+    42.2081097,
+    2.4941129
+  ],
+  "B-221 Talavera": [
+    41.5974618,
+    1.3989702
+  ],
+  "B-221 Montmaneu": [
+    41.6152602,
+    1.4023464
+  ],
+  "CR Vansa i FÃ³rnols, la": null,
+  "T-313 DuesaigÃ¼es": null,
+  "BV-5023 PremiÃ  de Mar": [
+    41.4938051,
+    2.3617564
+  ],
+  "CR40 RubÃ­": [
+    55.2973549,
+    30.3070339
+  ],
+  "N-260 Campelles": [
+    42.2697191,
+    2.1593274
+  ],
+  "C-35 Parets del VallÃ¨s": null,
+  "C-241c ArgenÃ§ola": null,
+  "GIV-4033 Das": null,
+  "TV-7048 Castellvell del Camp": [
+    41.1810036,
+    1.1006044
+  ],
+  "CR Lles de Cerdanya": [
+    42.3903804,
+    1.6875851
+  ],
+  "C-251 Granollers": [
+    41.6131529,
+    2.3048262
+  ],
+  "BV-1229 CastellgalÃ­": null,
+  "N-IIa Fondarella": null,
+  "C-55 Riner": [
+    41.9415307,
+    1.60083
+  ],
+  "C-250 CassÃ  de la Selva": [
+    41.889757,
+    2.874057
+  ],
+  "N-141b Sant Pere Sallavinera": [
+    41.7340277,
+    1.5353998
+  ],
+  "GI-633 Colomers": [
+    42.0856867,
+    2.9779461
+  ],
+  "C-32 Arenys de Mar": [
+    41.5917447,
+    2.5588082
+  ],
+  "CR SagÃ s": [
+    -3.3472888,
+    120.2776432
+  ],
+  "N-420a MÃ³ra d'Ebre": null,
+  "BV-4401 GaiÃ ": [
+    41.9582044,
+    1.9581074
+  ],
+  "CR AlÃ s i Cerc": null,
+  "C-33 Barcelona": [
+    41.4443957,
+    2.1869779
+  ],
+  "C-37 Querol": [
+    41.4619097,
+    1.4731399
+  ],
+  "N-152a Granollers": [
+    41.5970886,
+    2.2713231
+  ],
+  "C-154 Sant Bartomeu del Grau": [
+    41.9617397,
+    2.1398096
+  ],
+  "N-260 Sant Joan de les Abadesses": [
+    42.2222758,
+    2.2410965
+  ],
+  "LV-4241 Guixers": [
+    42.1144724,
+    1.7088678
+  ],
+  "C-1412 Castellfollit de RiubregÃ³s": null,
+  "GIV-6591 Palafrugell": [
+    41.9009073,
+    3.1892628
+  ],
+  "LP-9221 Lleida": [
+    41.654963,
+    0.6332988
+  ],
+  "C-15 Sant Pere de Ribes": [
+    41.2584478,
+    1.7317906
+  ],
+  "C-152 Vall d'en Bas, la": [
+    42.129677,
+    2.4502763
+  ],
+  "TV-3403 Sant Jaume d'Enveja": [
+    40.7053524,
+    0.7110071
+  ],
+  "C-26 Sentiu de SiÃ³, la": null,
+  "C-246a Sitges": [
+    41.238908,
+    1.8176372
+  ],
+  "A-7 Mont-roig del Camp": [
+    41.0298708,
+    0.9368734
+  ],
+  "BV-2212 ArgenÃ§ola": null,
+  "BV-1212 Vacarisses": [
+    41.6132363,
+    1.8947833
+  ],
+  "N-IIa Santa Llogaia d'Ã€lguema": null,
+  "GI-612 LlanÃ§Ã ": null,
+  "C-55 NavÃ s": [
+    40.4787503,
+    -4.680562
+  ],
+  "C-32 Vilassar de Dalt": [
+    41.5102381,
+    2.3752752
+  ],
+  "AP-7 Masdenverge": [
+    40.6881076,
+    0.5275145
+  ],
+  "T-331 Santa BÃ rbara": null,
+  "C-1411 Casserres": [
+    42.0318569,
+    1.8735237
+  ],
+  "C-243b Sant SadurnÃ­ d'Anoia": null,
+  "BV-2131 Carme": [
+    41.5387427,
+    1.650501
+  ],
+  "C-241d Montblanc": [
+    41.396749,
+    1.1754542
+  ],
+  "CR Bovera": [
+    41.3269404,
+    0.6386632
+  ],
+  "GIV-6741 Caldes de Malavella": [
+    41.8568295,
+    2.8286587
+  ],
+  "BV-2001 Sant Joan DespÃ­": null,
+  "C-17 BalenyÃ ": [
+    41.8131052,
+    2.2275337
+  ],
+  "GI-660 Calonge": [
+    41.8883553,
+    3.0618534
+  ],
+  "C-31 VentallÃ³": null,
+  "LV-5133 Valls d'Aguilar, les": [
+    42.2901162,
+    1.357261
+  ],
+  "C-25 Campllong": [
+    41.896817,
+    2.8295813
+  ],
+  "GIV-5201 Viladrau": [
+    41.8065895,
+    2.4116009
+  ],
+  "CR33 AlamÃºs, els": null,
+  "C-253 Sant Feliu de GuÃ­xols": null,
+  "C-253 Castell-Platja d'Aro": [
+    41.8237165,
+    3.0729418
+  ],
+  "CR SalÃ s de Pallars": null,
+  "BV-4656 BorredÃ ": [
+    42.1353637,
+    1.9966336
+  ],
+  "LV-3003 Ivorra": [
+    41.7890626,
+    1.3925264
+  ],
+  "C-45 SerÃ²s": null,
+  "C-35 MontmelÃ³": null,
+  "CR Porqueres": [
+    42.1226823,
+    2.7254945
+  ],
+  "C-16 Viladecavalls": [
+    41.5548735,
+    1.980178
+  ],
+  "CR Sentiu de SiÃ³, la": null,
+  "BV-1203 Ullastrell": [
+    41.5283964,
+    1.9600667
+  ],
+  "LV-3231 Agramunt": [
+    41.7666533,
+    1.0843278
+  ],
+  "LV-9046 Os de Balaguer": [
+    41.824421,
+    0.8015299
+  ],
+  "BV-2002 CornellÃ  de Llobregat": [
+    41.3563581,
+    2.0667
+  ],
+  "A-2 Alpicat": [
+    41.6477008,
+    0.5664849
+  ],
+  "BP-1121 Castellbell i el Vilar": [
+    41.6213904,
+    1.8637392
+  ],
+  "C-62 OristÃ ": [
+    41.9768125,
+    2.1068129
+  ],
+  "CR Pont de Suert, el": [
+    42.3980486,
+    0.7432987
+  ],
+  "N-IIa PallejÃ ": [
+    41.4089035,
+    2.0029844
+  ],
+  "LV-3025 Preixens": [
+    41.7943455,
+    1.0094847
+  ],
+  "CR Gironella": [
+    42.0337588,
+    1.8825316
+  ],
+  "CR Santa Coloma de Farners": [
+    41.8603109,
+    2.6659047
+  ],
+  "C-253 PalamÃ³s": null,
+  "CR Mura": [
+    -37.0426037,
+    174.9004183
+  ],
+  "CR Alcanar": [
+    40.5438634,
+    0.4808409
+  ],
+  "N-152 PuigcerdÃ ": [
+    42.4230611,
+    1.9225683
+  ],
+  "L-310 TÃ rrega": null,
+  "LV-3344 Fuliola, la": [
+    41.7250288,
+    0.9826384
+  ],
+  "TV-3022 Rasquera": [
+    40.9995717,
+    0.6172073
+  ],
+  "BV-5103 Llinars del VallÃ¨s": null,
+  "GIP-5244 Sant Miquel de Campmajor": [
+    42.1277432,
+    2.6832198
+  ],
+  "C-32 Pineda de Mar": [
+    41.6398171,
+    2.6749742
+  ],
+  "GIP-5233 Montagut i Oix": [
+    42.2278807,
+    2.5859133
+  ],
+  "C-35 Vallgorguina": [
+    41.6473229,
+    2.5100384
+  ],
+  "C-422 Selva del Camp, la": [
+    41.2053166,
+    1.1474188
+  ],
+  "CR40 Sabadell": [
+    41.5460801,
+    2.1083214
+  ],
+  "GI-531 Planes d'Hostoles, les": [
+    42.0660971,
+    2.5760723
+  ],
+  "AP-7 Capmany": [
+    42.3674095,
+    2.8910757
+  ],
+  "BV-2155 Subirats": [
+    41.3966888,
+    1.7357888
+  ],
+  "C-12 Roquetes": [
+    40.8103073,
+    0.5099902
+  ],
+  "C-37 Pla de Santa Maria, el": [
+    41.7212801,
+    2.3181076
+  ],
+  "N-340a Molins de Rei": [
+    41.4082641,
+    2.0120141
+  ],
+  "B-431 OristÃ ": [
+    41.9881104,
+    2.0249711
+  ],
+  "BV-4235 NavÃ s": null,
+  "C-14 Vila-seca": [
+    41.0979317,
+    1.1285489
+  ],
+  "N-152a Montcada i Reixac": [
+    41.5077114,
+    2.1896379
+  ],
+  "C-25 Folgueroles": [
+    41.9575267,
+    2.28506
+  ],
+  "C-66 Sant JuliÃ  de Ramis": [
+    42.0289117,
+    2.8357071
+  ],
+  "TP-2031 Nulles": [
+    41.2543869,
+    1.3107458
+  ],
+  "C-31 Santa Cristina d'Aro": [
+    41.8064271,
+    3.0194199
+  ],
+  "AL Sant Boi de Llobregat": [
+    41.3324141,
+    2.0545594
+  ],
+  "BV-4511 Santpedor": [
+    41.7774461,
+    1.8576943
+  ],
+  "C-16 Puig-reig": [
+    41.9102394,
+    1.880986
+  ],
+  "C-242 Alforja": [
+    41.216732,
+    0.9580324
+  ],
+  "GI-623 VilaÃ¼r": null,
+  "T-211 Pobla de MontornÃ¨s, la": null,
+  "AL Quart": [
+    45.7577396,
+    7.4380582
+  ],
+  "C-1412b Tremp": [
+    42.1513566,
+    0.9159094
+  ],
+  "C-1412a SanaÃ¼ja": null,
+  "C-162 Das": [
+    42.3637338,
+    1.8737863
+  ],
+  "C-51 BrÃ fim": null,
+  "LV-7031 Borges Blanques, les": [
+    41.4844656,
+    0.8781654
+  ],
+  "BV-2004 Sant Boi de Llobregat": [
+    41.3482956,
+    2.0378676
+  ],
+  "AP-2 Montoliu de Lleida": [
+    41.5547774,
+    0.6018823
+  ],
+  "CR Das": [
+    43.5609789,
+    -5.9226428
+  ],
+  "CR Sant Pere Pescador": [
+    42.1899836,
+    3.0837479
+  ],
+  "N-141c Sant FruitÃ³s de Bages": null,
+  "CR34 Sils": [
+    41.8098347,
+    2.743055
+  ],
+  "BV-5128 Sant CebriÃ  de Vallalta": [
+    41.6227257,
+    2.5837633
+  ],
+  "GIV-6043 Peralada": [
+    42.2686683,
+    3.0629934
+  ],
+  "B-212 CastellvÃ­ de la Marca": null,
+  "C-35 Massanes": [
+    41.745807,
+    2.6530601
+  ],
+  "BV-1229 Sant VicenÃ§ de Castellet": null,
+  "BV-2441 Pontons": [
+    41.4197463,
+    1.4988371
+  ],
+  "CR14 BorredÃ ": [
+    42.1355536,
+    1.9941054
+  ],
+  "C-16 Sant FruitÃ³s de Bages": null,
+  "GI-552 Breda": [
+    41.7579366,
+    2.5583407
+  ],
+  "CR36 Tarragona": [
+    41.1172364,
+    1.2546057
+  ],
+  "BV-5226 Sant VicenÃ§ de TorellÃ³": null,
+  "GI-662 Castell-Platja d'Aro": [
+    41.8148331,
+    3.040011
+  ],
+  "CR Farrera": [
+    42.4802681,
+    1.2956313
+  ],
+  "N-II Torres de Segre": [
+    41.5553054,
+    0.5051188
+  ],
+  "CR2 Saus, Camallera i Llampaies": [
+    42.1319421,
+    2.979009
+  ],
+  "C-243B Sant SadurnÃ­ d'Anoia": null,
+  "CR7 Castellbell i el Vilar": [
+    41.6400604,
+    1.8474189
+  ],
+  "TV-2236 Pallaresos, els": [
+    41.1751913,
+    1.277428
+  ],
+  "AP-7 Vallgorguina": [
+    41.6477537,
+    2.4265873
+  ],
+  "BV-2204 Santa Margarida de Montbui": [
+    41.5498463,
+    1.5902055
+  ],
+  "GIV-4031 IsÃ²vol": null,
+  "GIP-5121 Fontcoberta": [
+    42.1523796,
+    2.77016
+  ],
+  "C-670 Santa Maria d'OlÃ³": null,
+  "BV-1468 Sant Cugat del VallÃ¨s": null,
+  "C-37 Igualada": [
+    41.5911865,
+    1.6170735
+  ],
+  "GI-643 Serra de DarÃ³": null,
+  "CR Llagostera": [
+    41.8289064,
+    2.8920386
+  ],
+  "BV-1224 Pont de Vilomara i Rocafort, el": [
+    41.7045169,
+    1.8710252
+  ],
+  "C-230a AlbatÃ rrec": null,
+  "TP-3311 SÃ©nia, la": null,
+  "GIV-6024 Sant Climent Sescebes": [
+    42.3640758,
+    2.973979
+  ],
+  "N-141 BossÃ²st": null,
+  "GIV-5264 Vilallonga de Ter": [
+    42.3299145,
+    2.311395
+  ],
+  "C-65 Sant Feliu de GuÃ­xols": null,
+  "T-340 Deltebre": [
+    40.7143467,
+    0.8282536
+  ],
+  "BV-5128 Sant Iscle de Vallalta": [
+    41.6219149,
+    2.5736891
+  ],
+  "CR Torres de Segre": [
+    41.5353408,
+    0.513451
+  ],
+  "N-141g Aguilar de Segarra": [
+    41.7376884,
+    1.6242707
+  ],
+  "C-33 Mollet del VallÃ¨s": null,
+  "C-66 Palafrugell": [
+    41.9345481,
+    3.1351426
+  ],
+  "CR Vallfogona de RipollÃ¨s": null,
+  "C-17 Vic": [
+    41.9284524,
+    2.230421
+  ],
+  "A-22 Alpicat": [
+    41.6666421,
+    0.5554774
+  ],
+  "C-17 Centelles": [
+    41.807702,
+    2.2255864
+  ],
+  "B-201z Prat de Llobregat, el": [
+    41.3343505,
+    2.0933763
+  ],
+  "CR Jorba": [
+    41.605325,
+    1.5225474
+  ],
+  "BV-5222 Manlleu": [
+    42.0021089,
+    2.2962909
+  ],
+  "C-32 Alella": [
+    41.4872487,
+    2.311985
+  ],
+  "BV-1415 Barcelona": [
+    41.4434701,
+    2.1548611
+  ],
+  "C-65z Llagostera": [
+    41.8294251,
+    2.90648
+  ],
+  "N-II Sant AdriÃ  de BesÃ²s": null,
+  "BV-1435 LliÃ§Ã  d'Amunt": null,
+  "L-311 Tarroja de Segarra": [
+    41.7073294,
+    1.2751094
+  ],
+  "AP-7 Pont de Molins": [
+    42.3358573,
+    2.9262488
+  ],
+  "GIV-6213 FortiÃ ": [
+    42.2439039,
+    3.0382621
+  ],
+  "N-420 Caseres": [
+    41.0397707,
+    0.2421573
+  ],
+  "LP-3322 Bellcaire d'Urgell": [
+    41.7573992,
+    0.9066264
+  ],
+  "BP-1121 Marganell": [
+    41.6038901,
+    1.8283992
+  ],
+  "T-700 VimbodÃ­ i Poblet": null,
+  "GIV-6102 Palau-saverdera": [
+    42.2834293,
+    3.1351747
+  ],
+  "N-260 Baix Pallars": [
+    42.3310684,
+    1.0677815
+  ],
+  "BV-1201 Abrera": [
+    41.504996,
+    1.9210043
+  ],
+  "AP-7 Biure": [
+    42.3540701,
+    2.9047976
+  ],
+  "C-32 Cabrera de Mar": [
+    41.5167852,
+    2.3885167
+  ],
+  "GI-535 Salt": [
+    41.9712132,
+    2.7833347
+  ],
+  "TP-7225 ConstantÃ­": null,
+  "C-16 Olvan": [
+    42.0433521,
+    1.8760465
+  ],
+  "C-61 Sant Celoni": [
+    41.6755435,
+    2.4836244
+  ],
+  "GI-604 VilajuÃ¯ga": null,
+  "C-1415b LliÃ§Ã  d'Amunt": null,
+  "C-53 Anglesola": [
+    41.6550061,
+    1.0941767
+  ],
+  "LL-12 AlbatÃ rrec": null,
+  "CR Corbera d'Ebre": [
+    41.0775819,
+    0.4776725
+  ],
+  "C-1412a TorÃ ": [
+    41.8081964,
+    1.4034429
+  ],
+  "C-53 Tornabous": [
+    41.7021652,
+    1.0442164
+  ],
+  "N-141d Folgueroles": [
+    41.9361643,
+    2.3100928
+  ],
+  "B-510 Llinars del VallÃ¨s": null,
+  "AL Lloret de Mar": [
+    41.6973503,
+    2.8392392
+  ],
+  "C-1411a Balsareny": [
+    41.8710011,
+    1.8763328
+  ],
+  "BV-5031 Sant Andreu de Llavaneres": [
+    41.5694487,
+    2.4769576
+  ],
+  "C-15z OlÃ¨rdola": null,
+  "GIV-4016 Toses": [
+    42.3208463,
+    2.0144826
+  ],
+  "B-224 Vallbona d'Anoia": [
+    41.5283924,
+    1.7176286
+  ],
+  "CR33 Lleida": [
+    41.6147605,
+    0.6267842
+  ],
+  "CR Seu d'Urgell, la": [
+    42.3504825,
+    1.4364675
+  ],
+  "LP-3322 Linyola": [
+    41.717368,
+    0.9029622
+  ],
+  "CR Palma d'Ebre, la": [
+    41.2986594,
+    0.6414169
+  ],
+  "CR Les": [
+    49.2630766,
+    -1.153185
+  ],
+  "N-II Calella": [
+    41.6135494,
+    2.6535003
+  ],
+  "T-331 Godall": [
+    40.6981455,
+    0.5048992
+  ],
+  "GIV-6211 Figueres": [
+    42.2602697,
+    2.978043
+  ],
+  "C-58cc Montcada i Reixac": [
+    41.4689196,
+    2.1693436
+  ],
+  "BV-4316 Vic": [
+    41.9124667,
+    2.2226411
+  ],
+  "N-141C Tona": [
+    41.8720388,
+    2.2179332
+  ],
+  "B-420 NavÃ¨s": [
+    40.4787503,
+    -4.680562
+  ],
+  "CR Artesa de Segre": [
+    41.9376976,
+    1.098281
+  ],
+  "GI-533 Brunyola": [
+    41.8793266,
+    2.6975227
+  ],
+  "BP-1432 Garriga, la": [
+    41.671623,
+    2.2771463
+  ],
+  "C-13 Masdenverge": [
+    40.7150044,
+    0.5311135
+  ],
+  "T-734 Masroig, el": [
+    41.1633902,
+    0.7053374
+  ],
+  "C-16 Castellbell i el Vilar": [
+    41.64759,
+    1.8621289
+  ],
+  "LV-3025 Agramunt": [
+    41.7885182,
+    1.0571924
+  ],
+  "C-153 Vall d'en Bas, la": [
+    42.1208427,
+    2.4504518
+  ],
+  "C-243C Terrassa": [
+    41.5476639,
+    1.9936737
+  ],
+  "C-162 Alp": [
+    42.3660752,
+    1.8765423
+  ],
+  "C-244 Santa Fe del PenedÃ¨s": null,
+  "GIV-6821 Llagostera": [
+    41.7934372,
+    2.8984129
+  ],
+  "BP-5002 Mollet del VallÃ¨s": null,
+  "BV-2136 Mediona": [
+    41.4798879,
+    1.6080089
+  ],
+  "LV-2141 Granyanella": [
+    41.6477065,
+    1.2234394
+  ],
+  "C-462 AlÃ s i Cerc": null,
+  "AP-2 BarberÃ  de la Conca": [
+    41.3908495,
+    1.2178466
+  ],
+  "C-17 OrÃ­s": [
+    12.1410311,
+    125.4408359
+  ],
+  "LP-2335 Vallbona de les Monges": [
+    41.5247604,
+    1.092326
+  ],
+  "BV-1245 CastellterÃ§ol": null,
+  "C-25 Sallent": [
+    41.7932396,
+    1.9174894
+  ],
+  "C-17 Sant Quirze de Besora": [
+    42.087721,
+    2.2239292
+  ],
+  "TV-7004 Ulldemolins": [
+    41.3324076,
+    0.8676678
+  ],
+  "A-7 Reus": [
+    41.1220503,
+    1.1624283
+  ],
+  "BV-5159 Roca del VallÃ¨s, la": null,
+  "BV-4608 Sant Boi de LluÃ§anÃ¨s": null,
+  "N-IIa Granyanella": null,
+  "B-10 CornellÃ  de Llobregat": [
+    41.3417741,
+    2.0958346
+  ],
+  "CR2 Sant Pere Pescador": [
+    42.1899836,
+    3.0837479
+  ],
+  "CR Albesa": [
+    9.8633533,
+    -83.9106785
+  ],
+  "CR Santa Maria d'OlÃ³": null,
+  "T-313 Botarell": [
+    41.1237633,
+    0.9981523
+  ],
+  "TV-7222 Alcover": [
+    41.2532506,
+    1.1734664
+  ],
+  "GIP-5237 Cabanelles": [
+    42.2586739,
+    2.7721266
+  ],
+  "BV-4031 Toses": [
+    42.3066753,
+    1.9767528
+  ],
+  "AP-7 Figueres": [
+    42.2711703,
+    2.9391069
+  ],
+  "TV-2122 Sant Jaume dels Domenys": [
+    41.2936736,
+    1.5787747
+  ],
+  "CR24 Sant JuliÃ  de Vilatorta": [
+    41.9219404,
+    2.3240651
+  ],
+  "C-670 OristÃ ": [
+    41.9115162,
+    2.0848847
+  ],
+  "TV-2042 Bisbal del PenedÃ¨s, la": null,
+  "C-1413a Molins de Rei": [
+    41.4102779,
+    2.0133578
+  ],
+  "GI-623 Saus, Camallera i Llampaies": [
+    42.1278961,
+    2.970341
+  ],
+  "C-244 Capellades": [
+    41.5166796,
+    1.678426
+  ],
+  "TV-7231 Gandesa": [
+    41.0579939,
+    0.4394749
+  ],
+  "CR Foradada": [
+    41.876869,
+    1.0131802
+  ],
+  "CR Almenar": [
+    9.9305765,
+    -84.1512592
+  ],
+  "N-340 Sant Cugat Sesgarrigues": [
+    41.3605117,
+    1.7658991
+  ],
+  "CR Albinyana": [
+    41.2454739,
+    1.486748
+  ],
+  "LV-4241a Guixers": [
+    42.1141456,
+    1.7099036
+  ],
+  "CR Pira": [
+    9.6681524,
+    -83.9748871
+  ],
+  "CR Tortosa": [
+    34.90313,
+    35.8950098
+  ],
+  "C-230a Torres de Segre": [
+    41.51249,
+    0.5659754
+  ],
+  "C-32 Sant Andreu de Llavaneres": [
+    41.558384,
+    2.478435
+  ],
+  "C-32 Montgat": [
+    41.4765771,
+    2.2845093
+  ],
+  "C-1412a Prats de Rei, els": [
+    41.7047188,
+    1.5388182
+  ],
+  "B-245 Viladecavalls": [
+    41.5580301,
+    1.9602447
+  ],
+  "BP-4653 Perafita": [
+    42.0490839,
+    2.1231177
+  ],
+  "CR34 Lloret de Mar": [
+    41.6973503,
+    2.8392392
+  ],
+  "B-420 Montmajor": [
+    42.0188608,
+    1.7224769
+  ],
+  "AP-7 Vinyols i els Arcs": [
+    41.0833505,
+    1.0627808
+  ],
+  "B-20 Tiana": [
+    41.4742204,
+    2.2627549
+  ],
+  "CR Mas de Barberans": [
+    40.7345687,
+    0.3742211
+  ],
+  "T-702 CabacÃ©s": null,
+  "T-313 Riudecanyes": [
+    41.1333333,
+    0.9626337
+  ],
+  "LP-9132 Vilanova de MeiÃ ": [
+    41.9442349,
+    1.0589596
+  ],
+  "N-II Caldes d'Estrac": [
+    41.5671603,
+    2.5211309
+  ],
+  "C-15 Capellades": [
+    41.5262676,
+    1.69297
+  ],
+  "TP-7013 Selva del Camp, la": [
+    41.2108933,
+    1.1401742
+  ],
+  "BV-5123 Fogars de la Selva": [
+    41.7435902,
+    2.6477294
+  ],
+  "T-334 Horta de Sant Joan": [
+    40.940857,
+    0.3165337
+  ],
+  "TV-3145 Reus": [
+    41.130682,
+    1.1797261
+  ],
+  "LV-9047 Camarasa": [
+    41.8458349,
+    0.8247318
+  ],
+  "GI-540 BescanÃ³": null,
+  "BV-4608 Masies de VoltregÃ , les": [
+    42.0054796,
+    2.2412599
+  ],
+  "N-420 DuesaigÃ¼es": null,
+  "TV-3454 Aldea, l'": [
+    40.714182,
+    0.5934942
+  ],
+  "TV-3322 Ulldecona": [
+    40.6168497,
+    0.3574801
+  ],
+  "BV-4341 LluÃ§Ã ": null,
+  "TP-7013 Albiol, l'": null,
+  "GIV-6232 Vilopriu": [
+    42.1093661,
+    2.9933853
+  ],
+  "CR Vinaixa": [
+    41.4281821,
+    0.9745809
+  ],
+  "LV-3121 Sant Ramon": [
+    41.7340508,
+    1.3568983
+  ],
+  "CR Bellmunt d'Urgell": [
+    41.7741855,
+    0.9519865
+  ],
+  "AL BellvÃ­s": null,
+  "CR Lladorre": [
+    42.6209464,
+    1.2494301
+  ],
+  "CR Rialp": [
+    42.4430046,
+    1.1354914
+  ],
+  "C-25 Cervera": [
+    41.6840574,
+    1.2849671
+  ],
+  "BV-1037 RubiÃ³": null,
+  "A-22 Almacelles": [
+    41.7319254,
+    0.4188582
+  ],
+  "LV-5224 Sort": [
+    42.433952,
+    1.1195874
+  ],
+  "BV-5202 Sant JuliÃ  de Vilatorta": [
+    41.8999785,
+    2.3132805
+  ],
+  "GI-401 CampdevÃ nol": null,
+  "B-124 Mura": [
+    41.7557846,
+    2.0126486
+  ],
+  "GIV-5521 Riells i Viabrea": [
+    41.7762437,
+    2.5154162
+  ],
+  "C-26 Ivars de Noguera": [
+    41.8290637,
+    0.5787503
+  ],
+  "CR Soriguera": [
+    42.3848228,
+    1.1834819
+  ],
+  "BV-2111 Olivella": [
+    41.2941049,
+    1.7802268
+  ],
+  "BV-2116 Castellet i la Gornal": [
+    41.24412,
+    1.6168113
+  ],
+  "T-704 FebrÃ³, la": null,
+  "AL TÃ rrega": null,
+  "BV-5301 Fogars de MontclÃºs": null,
+  "C-63 Vall d'en Bas, la": [
+    42.1224614,
+    2.47976
+  ],
+  "AP-2 Molins de Rei": [
+    41.4138087,
+    2.0159626
+  ],
+  "GI-524 Banyoles": [
+    42.1114928,
+    2.7489685
+  ],
+  "GIV-6703 Girona": [
+    41.9795787,
+    2.8756003
+  ],
+  "C-25 Espinelves": [
+    41.8822612,
+    2.3928469
+  ],
+  "CR Arnes": [
+    50.5107446,
+    -96.9864196
+  ],
+  "GI-642 Pera, la": [
+    42.0206353,
+    2.9940917
+  ],
+  "C-1411 Manresa": [
+    41.7209375,
+    1.8205798
+  ],
+  "C-16 Sant VicenÃ§ de Castellet": null,
+  "GI-643 Fontanilles": [
+    42.0342481,
+    3.0866099
+  ],
+  "TV-7001 Espluga de FrancolÃ­, l'": null,
+  "LP-7041 Granja d'Escarp, la": [
+    41.4268559,
+    0.3550706
+  ],
+  "BV-5103 Dosrius": [
+    41.6066438,
+    2.3818246
+  ],
+  "GI-680a Lloret de Mar": [
+    41.7364696,
+    2.8179683
+  ],
+  "AP-7 Llers": [
+    42.2953586,
+    2.9410901
+  ],
+  "GIV-6701 Bordils": [
+    42.0380001,
+    2.9181151
+  ],
+  "C-59 Estany, l'": [
+    41.8489875,
+    2.1125238
+  ],
+  "N-141c Collsuspina": [
+    41.8278828,
+    2.175524
+  ],
+  "N-II Cabanes": [
+    42.2828245,
+    2.9679258
+  ],
+  "BV-3008 Sant Joan de Vilatorrada": [
+    41.7495253,
+    1.8049727
+  ],
+  "C-32 Vilanova i la GeltrÃº": null,
+  "AP-2 Soses": [
+    41.5426235,
+    0.4944509
+  ],
+  "CR Viladecavalls": [
+    41.5563969,
+    1.9553173
+  ],
+  "N-240 Almacelles": [
+    41.7028881,
+    0.4705612
+  ],
+  "C-241C Sant MartÃ­ de Tous": null,
+  "CR Miralcamp": [
+    41.6049685,
+    0.8801705
+  ],
+  "CR8 Vilanova d'Escornalbou": [
+    41.1129833,
+    0.9366799
+  ],
+  "C-1413B Sant Quirze Safaja": [
+    41.7131926,
+    2.1700137
+  ],
+  "CR Coll de NargÃ³": null,
+  "CR CastellvÃ­ de la Marca": null,
+  "C-462 Solsona": [
+    41.9945762,
+    1.5184038
+  ],
+  "C-252 VilajuÃ¯ga": null,
+  "C-59 Sant Quirze Safaja": [
+    41.7194763,
+    2.1498645
+  ],
+  "LV-3027 Penelles": [
+    41.7573414,
+    0.965493
+  ],
+  "CR Castell de Mur": [
+    42.1209291,
+    0.796629
+  ],
+  "CR Conca de Dalt": [
+    42.2310615,
+    1.0565329
+  ],
+  "N-260 Vall de Bianya, la": [
+    42.2353505,
+    2.4313506
+  ],
+  "C-43 Pinell de Brai, el": [
+    41.0275186,
+    0.5005612
+  ],
+  "CR39 Pont de Bar, el": null,
+  "BV-2134 Torre de Claramunt, la": [
+    41.53234,
+    1.6721388
+  ],
+  "GIV-6228 Vilamalla": [
+    42.2269089,
+    2.9688285
+  ],
+  "C-14 Salou": [
+    41.0931189,
+    1.1295199
+  ],
+  "A-26 Argelaguer": [
+    42.2166988,
+    2.6385689
+  ],
+  "CR Vall d'en Bas, la": null,
+  "C-1311 Tremp": [
+    42.1406612,
+    0.7035026
+  ],
+  "B-141 Ripollet": [
+    41.4917424,
+    2.1515062
+  ],
+  "CR Sant Mateu de Bages": [
+    41.7969781,
+    1.7327386
+  ],
+  "B-451 Sant FruitÃ³s de Bages": null,
+  "CR MaÃ§anet de la Selva": null,
+  "GI-610 Palau-saverdera": [
+    42.3088043,
+    3.1369267
+  ],
+  "T-3225 Cornudella de Montsant": [
+    41.2590019,
+    0.9367317
+  ],
+  "GIV-6425 Pera, la": [
+    42.0103685,
+    2.9668768
+  ],
+  "C-241C Santa Margarida de Montbui": [
+    41.581809,
+    1.5566883
+  ],
+  "BV-1225 Manresa": [
+    41.718394,
+    1.8501076
+  ],
+  "CR Sant Feliu de Pallerols": [
+    42.0758164,
+    2.5078037
+  ],
+  "BV-1123 Marganell": [
+    41.6416239,
+    1.796543
+  ],
+  "BP-5002 Masnou, el": [
+    41.4818494,
+    2.3040915
+  ],
+  "GI-610 Roses": [
+    42.2768533,
+    3.1588552
+  ],
+  "C-14z Reus": [
+    41.14153,
+    1.1160443
+  ],
+  "GIV-6024 Cabanes": [
+    42.3201162,
+    2.978286
+  ],
+  "GI-531 Sant Aniol de Finestres": [
+    42.0684236,
+    2.6073044
+  ],
+  "CR Balaguer": [
+    41.7896408,
+    0.8050711
+  ],
+  "CR Port de la Selva, el": [
+    42.3300405,
+    3.2049498
+  ],
+  "GIP-5106 Figueres": [
+    42.2693757,
+    2.9417452
+  ],
+  "C-1412b Artesa de Segre": [
+    42.0554587,
+    1.0897954
+  ],
+  "TV-7421 Valls": [
+    41.2955123,
+    1.2021945
+  ],
+  "CR Garrigoles": [
+    42.1071682,
+    3.030074
+  ],
+  "BV-5105 Cardedeu": [
+    41.6198556,
+    2.3499746
+  ],
+  "BV-5224 Sant VicenÃ§ de TorellÃ³": null,
+  "TV-7041 Alcover": [
+    41.2663225,
+    1.1674474
+  ],
+  "CR Montoliu de Lleida": [
+    41.5601373,
+    0.5889379
+  ],
+  "CR Poal, el": [
+    41.2711836,
+    1.9404651
+  ],
+  "BV-4511 Sant Joan de Vilatorrada": [
+    41.7792942,
+    1.8156187
+  ],
+  "B-431 AvinyÃ³": null,
+  "BV-2304 Mediona": [
+    41.4783935,
+    1.6953078
+  ],
+  "CR MollÃ³": null,
+  "CR Granja d'Escarp, la": [
+    41.4203057,
+    0.3490488
+  ],
+  "C-26 Navata": [
+    42.2266914,
+    2.8819527
+  ],
+  "N-420a Reus": [
+    41.163257,
+    1.102513
+  ],
+  "T-723 AviÃ ": [
+    41.2483786,
+    1.2960539
+  ],
+  "BV-4401 Santa Maria de MerlÃ¨s": null,
+  "TP-2039 AviÃ ": null,
+  "N-260 Montagut i Oix": [
+    42.2309257,
+    2.5967415
+  ],
+  "L-700 Granyena de Segarra": [
+    41.6238745,
+    1.2461381
+  ],
+  "LV-4241 OdÃ¨n": null,
+  "LV-2014 Espluga Calba, l'": [
+    41.4949881,
+    1.0052201
+  ],
+  "LV-2012 Omellons, els": [
+    41.501,
+    0.9599211
+  ],
+  "GI-610 Pau": [
+    42.3145782,
+    3.113789
+  ],
+  "GIV-6024 Masarac": [
+    42.3379195,
+    2.9738713
+  ],
+  "CR AlÃ²s de Balaguer": null,
+  "C-154 Santa Maria de MerlÃ¨s": null,
+  "C-63 Sils": [
+    41.8021546,
+    2.7709516
+  ],
+  "T-322 Colldejou": [
+    41.1017943,
+    0.8927374
+  ],
+  "BV-1221 Talamanca": [
+    41.7355835,
+    1.977852
+  ],
+  "CR7 Talamanca": [
+    41.7381785,
+    1.9772537
+  ],
+  "CR Tarragona": [
+    41.1172364,
+    1.2546057
+  ],
+  "BV-2151 VilobÃ­ del PenedÃ¨s": null,
+  "C-58 Cerdanyola del VallÃ¨s": null,
+  "C-233 Arbeca": [
+    41.5373301,
+    0.9162778
+  ],
+  "BV-1275 Terrassa": [
+    41.5918709,
+    2.0213561
+  ],
+  "A-2 Igualada": [
+    41.5935845,
+    1.5838451
+  ],
+  "CR Vilanova de MeiÃ ": [
+    41.9953518,
+    1.0228846
+  ],
+  "B-400 Saldes": [
+    42.229034,
+    1.7775846
+  ],
+  "B-430 ArtÃ©s": [
+    46.158803,
+    6.2711304
+  ],
+  "B-212 Sant MartÃ­ Sarroca": null,
+  "AP-7 Camarles": [
+    40.765737,
+    0.6289851
+  ],
+  "CR Soses": [
+    41.5331552,
+    0.4874802
+  ],
+  "T-333 Prat de Comte": [
+    40.9794134,
+    0.4120481
+  ],
+  "GIV-6744 Llagostera": [
+    41.8122938,
+    2.8968238
+  ],
+  "CR Sant Feliu de Buixalleu": [
+    41.7913017,
+    2.5861463
+  ],
+  "CR Sidamon": [
+    41.6289346,
+    0.8318491
+  ],
+  "CR Fontanals de Cerdanya": [
+    42.3844794,
+    1.9112934
+  ],
+  "BV-5119 Fogars de MontclÃºs": null,
+  "BV-5114 Montseny": [
+    41.8036645,
+    2.4251713
+  ],
+  "GI-523 TortellÃ ": [
+    42.2323796,
+    2.6347045
+  ],
+  "CR Torrefeta i Florejacs": [
+    41.7787656,
+    1.2473908
+  ],
+  "BV-3003 CallÃºs": null,
+  "CR MontellÃ  i Martinet": [
+    42.3229253,
+    1.6931213
+  ],
+  "N-152a Santa PerpÃ¨tua de Mogoda": null,
+  "LV-9045 Avellanes i Santa Linya, les": [
+    41.8788897,
+    0.7873187
+  ],
+  "C-1411 Berga": [
+    60.0310079,
+    18.2038093
+  ],
+  "T-343 Argentera, l'": [
+    41.1436247,
+    0.9207881
+  ],
+  "N-340 Riera de GaiÃ , la": [
+    41.1539782,
+    1.3759669
+  ],
+  "GI-623 VentallÃ³": null,
+  "N-230 Bausen": [
+    42.8480179,
+    0.735136
+  ],
+  "BV-5116 Gualba": [
+    41.7146511,
+    2.5319096
+  ],
+  "N-340a Reus": [
+    41.1138277,
+    1.1630235
+  ],
+  "BV-4031 Pobla de Lillet, la": [
+    42.2460794,
+    1.9781946
+  ],
+  "C-15z Granada, la": [
+    41.371809,
+    1.7107702
+  ],
+  "CR SerÃ²s": null,
+  "L-504 Vall de CardÃ³s": null,
+  "GIV-5234 Beuda": [
+    42.2076372,
+    2.7040534
+  ],
+  "L-504 Lladorre": [
+    42.6392436,
+    1.2513141
+  ],
+  "CR Pacs del PenedÃ¨s": null,
+  "N-141c Muntanyola": [
+    41.8720388,
+    2.2179332
+  ],
+  "BV-1418 Barcelona": [
+    41.4218983,
+    2.120867
+  ],
+  "GI-644 Serra de DarÃ³": null,
+  "BV-4655 Montesquiu": [
+    42.1192881,
+    2.2004387
+  ],
+  "T-713 Margalef": [
+    41.2962064,
+    0.7666922
+  ],
+  "GIV-5247 Porqueres": [
+    42.10414,
+    2.7094174
+  ],
+  "N-141C Collsuspina": [
+    41.8275559,
+    2.1795694
+  ],
+  "LV-9047 Os de Balaguer": [
+    41.8458349,
+    0.8247318
+  ],
+  "GIV-5201 ArbÃºcies": null,
+  "BV-4131 Espunyola, l'": [
+    42.0521752,
+    1.77323
+  ],
+  "BV-1212 Castellbell i el Vilar": [
+    41.6176123,
+    1.8674746
+  ],
+  "L-304 Plans de SiÃ³, els": null,
+  "BV-2425 Corbera de Llobregat": [
+    41.4292144,
+    1.9026902
+  ],
+  "LP-7041 SerÃ²s": null,
+  "CR24 Taradell": [
+    41.8762624,
+    2.2859511
+  ],
+  "CR11 Cubelles": [
+    45.0064242,
+    3.5799549
+  ],
+  "CR Artesa de Lleida": [
+    41.552805,
+    0.7034622
+  ],
+  "TV-3406 Amposta": [
+    40.6475501,
+    0.6140509
+  ],
+  "GIV-6217 Torroella de FluviÃ ": [
+    42.1803274,
+    3.0626845
+  ],
+  "GIP-5107 Llers": [
+    42.2978268,
+    2.9172848
+  ],
+  "C-12 Tivissa": [
+    41.0630277,
+    0.662836
+  ],
+  "CR Selva de Mar, la": [
+    9.1196884,
+    -83.6855305
+  ],
+  "T-210 Pobla de MontornÃ¨s, la": null,
+  "C-230a Lleida": [
+    41.6068709,
+    0.6374821
+  ],
+  "AL Batea": [
+    16.9083,
+    33.0457
+  ],
+  "N-340a Canonja, la": [
+    41.1146454,
+    1.1901329
+  ],
+  "BV-1433 Ametlla del VallÃ¨s, l'": null,
+  "N-IIa SarriÃ  de Ter": [
+    42.0092302,
+    2.816995
+  ],
+  "C-37 Alcover": [
+    41.2673235,
+    1.2102911
+  ],
+  "C-1412a Ponts": [
+    41.8953047,
+    1.2049483
+  ],
+  "C-62 Santa Maria de MerlÃ¨s": null,
+  "TV-3002 CapÃ§anes": null,
+  "B-250 Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "CR Camarasa": [
+    41.8756649,
+    0.8778945
+  ],
+  "N-154 PuigcerdÃ ": [
+    42.4342739,
+    1.9381944
+  ],
+  "CR09 Ametlla de Mar, l'": [
+    40.8494197,
+    0.7602217
+  ],
+  "TV-7232 Batea": [
+    41.1072408,
+    0.3576238
+  ],
+  "C-230a Sarroca de Lleida": [
+    41.51249,
+    0.5659754
+  ],
+  "C-15z Vilafranca del PenedÃ¨s": null,
+  "N-420 Reus": [
+    41.1424591,
+    1.096066
+  ],
+  "CR34 AnglÃ¨s": [
+    0.2005464,
+    -78.1560182
+  ],
+  "BV-2411 Avinyonet del PenedÃ¨s": null,
+  "TV-3421 SÃ©nia, la": null,
+  "CR Baronia de Rialb, la": null,
+  "T-341 Tortosa": [
+    40.813189,
+    0.5196912
+  ],
+  "T-741 Riba-roja d'Ebre": [
+    41.2470594,
+    0.4852071
+  ],
+  "A-27 ConstantÃ­": [
+    44.1767161,
+    28.6507598
+  ],
+  "L-912 Isona i Conca DellÃ ": [
+    42.0959277,
+    0.9926583
+  ],
+  "T-244 Querol": [
+    41.3924957,
+    1.4708493
+  ],
+  "LP-3322 Poal, el": [
+    41.674066,
+    0.9011354
+  ],
+  "N-II Santa Susanna": [
+    41.6329083,
+    2.7041252
+  ],
+  "LV-9223 Vilanova de SegriÃ ": [
+    41.7051981,
+    0.6237232
+  ],
+  "BV-2429 Avinyonet del PenedÃ¨s": null,
+  "TV-3409 Camarles": [
+    40.7731127,
+    0.6686328
+  ],
+  "LV-2001 Mollerussa": [
+    41.624466,
+    0.8849414
+  ],
+  "GI-665 Castell-Platja d'Aro": [
+    41.826203,
+    3.0633693
+  ],
+  "GI-674 Caldes de Malavella": [
+    41.8393721,
+    2.8098198
+  ],
+  "AP-2 Borges Blanques, les": [
+    41.48851,
+    0.8667692
+  ],
+  "AP-2 Vila-rodona": [
+    41.3326814,
+    1.323056
+  ],
+  "BV-1221 Mura": [
+    41.6526291,
+    1.9777902
+  ],
+  "C-462 Sant LlorenÃ§ de Morunys": null,
+  "CR Estamariu": [
+    42.3750366,
+    1.5237335
+  ],
+  "C-153 Esquirol, l'": [
+    42.0514097,
+    2.3912189
+  ],
+  "BV-5005 Santa Coloma de Gramenet": [
+    41.4508544,
+    2.2066949
+  ],
+  "GIV-6216 CastellÃ³ d'EmpÃºries": null,
+  "CR Tossa de Mar": [
+    41.7197773,
+    2.9312155
+  ],
+  "CR Santa Maria de Miralles": [
+    41.5004287,
+    1.5282249
+  ],
+  "GIV-6216 Sant Pere Pescador": [
+    42.2153653,
+    3.088074
+  ],
+  "N-II Castellnou de Seana": [
+    41.6295079,
+    0.9678632
+  ],
+  "GIV-5142 Vilademuls": [
+    42.0976286,
+    2.8898967
+  ],
+  "CR Viladasens": [
+    42.0951146,
+    2.9294718
+  ],
+  "C-37 CastellolÃ­": null,
+  "CR Ger": [
+    9.9657814,
+    -84.1156936
+  ],
+  "B-151 RubÃ­": [
+    55.2973549,
+    30.3070339
+  ],
+  "AL Ivars d'Urgell": [
+    41.6809224,
+    0.986114
+  ],
+  "N-141c BalenyÃ ": [
+    41.832778,
+    2.1962984
+  ],
+  "CR22 Sant Carles de la RÃ pita": null,
+  "AL BescanÃ³": null,
+  "N-IIa Bellpuig": [
+    41.6307519,
+    1.0200681
+  ],
+  "N-141e AnglÃ¨s": null,
+  "BV-4243 Berga": [
+    42.1133257,
+    1.8330431
+  ],
+  "TP-7225 Reus": [
+    41.164241,
+    1.128045
+  ],
+  "GI-644 Ullastret": [
+    42.0002774,
+    3.0699612
+  ],
+  "LP-9221 Portella, la": [
+    41.7405985,
+    0.646139
+  ],
+  "T-320 Riudecanyes": [
+    41.1367101,
+    0.9844441
+  ],
+  "T-704 Riudoms": [
+    41.1663012,
+    1.0591423
+  ],
+  "GI-623 Vilopriu": [
+    42.1341821,
+    3.0091939
+  ],
+  "C-532 Sant SadurnÃ­ d'Anoia": null,
+  "A-7 Vinyols i els Arcs": [
+    41.0856828,
+    1.0500769
+  ],
+  "L-311 Torrefeta i Florejacs": [
+    41.7553387,
+    1.2842059
+  ],
+  "C-26 Vilada": [
+    42.1308209,
+    1.9444692
+  ],
+  "GIP-5106 Llers": [
+    42.2805485,
+    2.9263829
+  ],
+  "GIV-5231 Montagut i Oix": [
+    42.234015,
+    2.5963692
+  ],
+  "C-1415b Santa EulÃ lia de RonÃ§ana": null,
+  "N-340a Aldea, l'": [
+    40.7388519,
+    0.6064318
+  ],
+  "BV-5031 Arenys de Munt": [
+    41.6012969,
+    2.517774
+  ],
+  "A-2 Riudellots de la Selva": [
+    41.8906872,
+    2.7833118
+  ],
+  "BV-5024 PremiÃ  de Mar": [
+    41.4948003,
+    2.3500152
+  ],
+  "C-233 Granadella, la": [
+    38.7301242,
+    0.1912357
+  ],
+  "TV-2231 Secuita, la": [
+    41.1959401,
+    1.2621539
+  ],
+  "CR Balsareny": [
+    41.8631839,
+    1.8755997
+  ],
+  "LV-3231 Tornabous": [
+    41.7316774,
+    1.0557248
+  ],
+  "C-147 Esterri d'Ã€neu": null,
+  "BV-2131 OrpÃ­": null,
+  "BV-5033 Sant Andreu de Llavaneres": [
+    41.5626935,
+    2.4942156
+  ],
+  "N-340 Pobla de MontornÃ¨s, la": null,
+  "CR Alfara de Carles": [
+    40.8738809,
+    0.400045
+  ],
+  "C-241C Jorba": [
+    41.5857742,
+    1.5787951
+  ],
+  "L-232 Omells de na Gaia, els": [
+    41.5011311,
+    1.0810422
+  ],
+  "BP-4653 Prats de LluÃ§anÃ¨s": null,
+  "N-340a Vilafranca del PenedÃ¨s": null,
+  "N-230b PaÃ¼ls": null,
+  "N-1411 Bellver de Cerdanya": [
+    42.3638965,
+    1.8028995
+  ],
+  "BV-5222 Masies de Roda, les": [
+    41.9891023,
+    2.3068284
+  ],
+  "CR Sunyer": [
+    41.5230023,
+    0.5924514
+  ],
+  "CR Santa Cristina d'Aro": [
+    41.813979,
+    2.9974879
+  ],
+  "N-152 Ametlla del VallÃ¨s, l'": null,
+  "LV-3024 Preixens": [
+    41.8230422,
+    1.0585838
+  ],
+  "N-260z Montagut i Oix": [
+    42.220861,
+    2.5531397
+  ],
+  "C-1412b Talarn": [
+    42.1655052,
+    0.9074621
+  ],
+  "AP-7 Riera de GaiÃ , la": [
+    41.1479537,
+    1.3572246
+  ],
+  "C-37 TorellÃ³": null,
+  "BV-4131 Puig-reig": [
+    42.0023952,
+    1.8553819
+  ],
+  "AL Forallac": [
+    41.9405813,
+    3.0817246
+  ],
+  "GI-514 Sant JuliÃ  de Ramis": [
+    42.0563183,
+    2.8503511
+  ],
+  "BV-2151 Font-rubÃ­": null,
+  "BP-2427 Subirats": [
+    41.38709,
+    1.809041
+  ],
+  "CR Begues": [
+    41.3328119,
+    1.925468
+  ],
+  "A-2 Aiguaviva": [
+    41.9312535,
+    2.7878868
+  ],
+  "GIV-5224 Vall d'en Bas, la": [
+    42.17623,
+    2.44396
+  ],
+  "C-153 Olot": [
+    42.1936947,
+    2.5000613
+  ],
+  "N-420a MÃ³ra la Nova": null,
+  "C-62 Olost": [
+    41.9772133,
+    2.1061069
+  ],
+  "C-26 Montmajor": [
+    42.0286738,
+    1.6975061
+  ],
+  "GIV-6321 Albons": [
+    42.0923874,
+    3.088722
+  ],
+  "GI-680 Lloret de Mar": [
+    41.7010125,
+    2.8377872
+  ],
+  "C-1415b Canovelles": [
+    41.6166093,
+    2.2737549
+  ],
+  "C-32 Masnou, el": [
+    41.4872487,
+    2.311985
+  ],
+  "AP-7 CastellvÃ­ de la Marca": null,
+  "AL Centelles": [
+    39.4610973,
+    -0.3423298
+  ],
+  "AL Solsona": [
+    41.9798077,
+    1.5383615
+  ],
+  "GIV-5332 Aiguaviva": [
+    41.9467551,
+    2.7843838
+  ],
+  "C-62 SagÃ s": [
+    -3.3472888,
+    120.2776432
+  ],
+  "BV-4501 Sant FruitÃ³s de Bages": null,
+  "BV-5031 MatarÃ³": null,
+  "GI-660 CruÃ¯lles, Monells i Sant SadurnÃ­ de l'Heura": null,
+  "GIV-5248 Porqueres": [
+    42.1270756,
+    2.7531963
+  ],
+  "CR AiguamÃºrcia": null,
+  "CR BellvÃ­s": null,
+  "N-IIa Ã’dena": null,
+  "GI-651 Forallac": [
+    41.9797534,
+    3.0981467
+  ],
+  "N-260 Avinyonet de PuigventÃ³s": null,
+  "C-1411z Puig-reig": [
+    41.9091705,
+    1.8791827
+  ],
+  "TP-3211 Riudecanyes": [
+    41.1287293,
+    0.9637657
+  ],
+  "A-2 Castellnou de Seana": [
+    41.639534,
+    0.9699087
+  ],
+  "C-38 Camprodon": [
+    42.3002025,
+    2.3574723
+  ],
+  "C-149b Berga": [
+    42.0984235,
+    1.8413237
+  ],
+  "N-240a Almacelles": [
+    41.7270765,
+    0.4420854
+  ],
+  "AL Alguaire": [
+    41.7361463,
+    0.585933
+  ],
+  "LP-9221 Albesa": [
+    41.7467075,
+    0.6518573
+  ],
+  "C-31 Palafrugell": [
+    41.9273254,
+    3.1484824
+  ],
+  "C-233 Flix": [
+    41.2395891,
+    0.5515439
+  ],
+  "BP-1241 Gallifa": [
+    41.7029646,
+    2.1356501
+  ],
+  "AL Bell-lloc d'Urgell": [
+    41.6343941,
+    0.7945623
+  ],
+  "TV-3443 Amposta": [
+    40.7430433,
+    0.5630747
+  ],
+  "CR Granadella, la": [
+    41.4382612,
+    2.2056288
+  ],
+  "N-152a Masies de VoltregÃ , les": [
+    41.9873434,
+    2.2429809
+  ],
+  "BV-2005 Sant VicenÃ§ dels Horts": null,
+  "CR Peramola": [
+    42.0577991,
+    1.2678488
+  ],
+  "LV-7011 Juncosa": [
+    41.3739714,
+    0.7777297
+  ],
+  "BV-2127 Font-rubÃ­": null,
+  "N-IIa Bruc, el": null,
+  "N-340 Canonja, la": [
+    41.1208525,
+    1.220113
+  ],
+  "BV-2003 Sant Climent de Llobregat": [
+    41.3318252,
+    2.0021901
+  ],
+  "C-37z Sant Salvador de Guardiola": [
+    41.6908619,
+    1.7816061
+  ],
+  "C-147B Balaguer": [
+    41.7970154,
+    0.8200117
+  ],
+  "C-233 SolerÃ s, el": null,
+  "BV-2002 Sant Joan DespÃ­": null,
+  "BV-1604 Mollet del VallÃ¨s": null,
+  "B-511 Arenys de Mar": [
+    41.5828705,
+    2.5483391
+  ],
+  "N-260a Riudaura": [
+    42.2038468,
+    2.3777477
+  ],
+  "CR Preses, les": [
+    46.165551,
+    6.5841253
+  ],
+  "CR Vinebre": [
+    41.1835005,
+    0.5894559
+  ],
+  "N-141D Calldetenes": [
+    41.9252767,
+    2.2842704
+  ],
+  "C-15 Santa Fe del PenedÃ¨s": null,
+  "CR Poboleda": [
+    41.233358,
+    0.844888
+  ],
+  "LV-4241 Solsona": [
+    41.9980961,
+    1.521036
+  ],
+  "C-153 TavÃ¨rnoles": null,
+  "AL Bellver de Cerdanya": [
+    42.3700044,
+    1.7566193
+  ],
+  "AL TorÃ ": [
+    41.3336088,
+    19.8045875
+  ],
+  "T-301 Benifallet": [
+    40.9522613,
+    0.5020116
+  ],
+  "CR Cistella": [
+    42.268711,
+    2.8472717
+  ],
+  "CR Pobla de Segur, la": [
+    42.235194,
+    0.9661463
+  ],
+  "CR LlÃ­via": [
+    41.9195549,
+    3.1653838
+  ],
+  "A-26 Sant Jaume de Llierca": [
+    42.2196333,
+    2.5828579
+  ],
+  "CR Portella, la": [
+    41.5234294,
+    13.877691
+  ],
+  "GI-503 AlbanyÃ ": [
+    42.3662691,
+    2.6756436
+  ],
+  "TV-7333 Fatarella, la": [
+    41.1327708,
+    0.4731471
+  ],
+  "GIV-6026 Sant Climent Sescebes": [
+    42.3590229,
+    2.9744256
+  ],
+  "C-162 UrÃºs": null,
+  "GI-682 Santa Cristina d'Aro": [
+    41.7558741,
+    2.963531
+  ],
+  "CR Granyanella": [
+    41.6485431,
+    1.2236395
+  ],
+  "C-31 Calonge i Sant Antoni": [
+    41.8399475,
+    3.0738081
+  ],
+  "LV-2032 Ribera d'Ondara": [
+    41.6282851,
+    1.3414408
+  ],
+  "BV-2152 Torrelavit": [
+    41.4295189,
+    1.7455396
+  ],
+  "C-32 Cubelles": [
+    41.2186421,
+    1.6740909
+  ],
+  "L-503 Torre de Cabdella, la": [
+    42.3358554,
+    0.9461859
+  ],
+  "BV-4601 Sobremunt": [
+    42.011971,
+    2.1453061
+  ],
+  "CR Vilafant": [
+    42.2515266,
+    2.9418008
+  ],
+  "TP-2124 Banyeres del PenedÃ¨s": null,
+  "VM-4406 BorredÃ ": [
+    42.1185652,
+    2.0375953
+  ],
+  "C-1411z Berga": [
+    42.0980334,
+    1.846447
+  ],
+  "T-710 Falset": [
+    41.1415533,
+    0.8236006
+  ],
+  "TV-3531 Gandesa": [
+    41.0463442,
+    0.402385
+  ],
+  "GI-642 ParlavÃ ": [
+    42.0236255,
+    3.0309275
+  ],
+  "C-451 Solsona": [
+    41.9897377,
+    1.5305604
+  ],
+  "TV-3313 Ulldecona": [
+    40.603488,
+    0.445401
+  ],
+  "N-IIa Jorba": [
+    41.615931,
+    1.5174743
+  ],
+  "TP-7049 Reus": [
+    41.1672494,
+    1.1016771
+  ],
+  "CR Castelldans": [
+    41.4980663,
+    0.7663389
+  ],
+  "TV-3422 Aldover": [
+    40.8617374,
+    0.4198641
+  ],
+  "GI-653 RegencÃ³s": null,
+  "C-25D Vic": [
+    41.9308167,
+    2.2161333
+  ],
+  "T-330 Horta de Sant Joan": [
+    40.9357616,
+    0.3105609
+  ],
+  "TV-3146 Salou": [
+    41.0635833,
+    1.1747744
+  ],
+  "TP-2031 Renau": [
+    41.2235371,
+    1.2935507
+  ],
+  "TV-2035 Vallmoll": [
+    41.2648345,
+    1.2696525
+  ],
+  "BV-1310 Castellcir": [
+    41.7624626,
+    2.144322
+  ],
+  "CR Morell, el": [
+    41.1923783,
+    1.2063559
+  ],
+  "L-201 Sant MartÃ­ de Riucorb": null,
+  "GI-660 Calonge i Sant Antoni": [
+    41.8979017,
+    3.0559807
+  ],
+  "CR Bellvei": [
+    41.2390234,
+    1.5780273
+  ],
+  "AL Girona": [
+    29.4048749,
+    96.1448987
+  ],
+  "N-240 Figuerola del Camp": [
+    41.3414515,
+    1.2247228
+  ],
+  "C-12 Torrelameu": [
+    41.7020344,
+    0.7093323
+  ],
+  "CR Cubells": [
+    41.8526897,
+    0.9587685
+  ],
+  "TV-7221 Reus": [
+    41.1604079,
+    1.1224874
+  ],
+  "CR Torrelameu": [
+    41.7043481,
+    0.7028965
+  ],
+  "AP-7 BorrassÃ ": [
+    42.2364575,
+    2.9365931
+  ],
+  "BV-3003 Sant Mateu de Bages": [
+    41.8008457,
+    1.7328341
+  ],
+  "TV-2004 Pla de Santa Maria, el": [
+    41.3548451,
+    1.3016544
+  ],
+  "BV-4135 AviÃ ": [
+    42.0774703,
+    1.8402573
+  ],
+  "N-240 TarrÃ©s": [
+    8.312711,
+    -73.0711464
+  ],
+  "BV-5003 Granollers": [
+    41.5745039,
+    2.2723797
+  ],
+  "T-244 AiguamÃºrcia": null,
+  "LV-9124 Castell de Mur": null,
+  "CR Linyola": [
+    41.7104501,
+    0.9037626
+  ],
+  "N-II Granyanella": [
+    41.6681534,
+    1.2361067
+  ],
+  "GI-681 Llagostera": [
+    41.808038,
+    2.8736336
+  ],
+  "BV-2422 Palma de CervellÃ³, la": null,
+  "CR Torredembarra": [
+    41.146155,
+    1.3959508
+  ],
+  "GI-512 MaÃ§anet de la Selva": null,
+  "T-331 Freginals": [
+    40.6474946,
+    0.5021108
+  ],
+  "GI-600 Blanes": [
+    41.6836232,
+    2.7702593
+  ],
+  "CR Sabadell": [
+    10.0172064,
+    -84.2159569
+  ],
+  "T-344 Masdenverge": [
+    40.7090199,
+    0.5411002
+  ],
+  "CR Montgai": [
+    41.7999989,
+    0.961434
+  ],
+  "GIV-6303 Armentera, l'": [
+    42.1720216,
+    3.072776
+  ],
+  "TV-7004 Vallclara": [
+    41.3718969,
+    0.9756067
+  ],
+  "T-312 MontbriÃ³ del Camp": null,
+  "C-42 Aldea, l'": [
+    40.7543314,
+    0.5994288
+  ],
+  "AL Manlleu": [
+    41.9968222,
+    2.2829445
+  ],
+  "GIV-6211 Far d'EmpordÃ , el": [
+    42.2596441,
+    2.9829406
+  ],
+  "C-31 Begur": [
+    41.9322768,
+    3.1589161
+  ],
+  "C-153a Vall de Bianya, la": [
+    42.2469825,
+    2.4011259
+  ],
+  "A-27 Morell, el": [
+    41.1991309,
+    1.216225
+  ],
+  "B-520 Vic": [
+    41.92655,
+    2.2678012
+  ],
+  "TP-2002 AiguamÃºrcia": null,
+  "CR ArtÃ©s": [
+    46.158803,
+    6.2711304
+  ],
+  "N-152z Santa PerpÃ¨tua de Mogoda": null,
+  "GIV-5232 TortellÃ ": [
+    42.228754,
+    2.6113641
+  ],
+  "CR AlcanÃ³": null,
+  "GIV-5041 Boadella i les Escaules": [
+    42.3219281,
+    2.8832194
+  ],
+  "T-342 Roquetes": [
+    40.8262916,
+    0.4647042
+  ],
+  "CR Subirats": [
+    41.3951601,
+    1.8112496
+  ],
+  "AL Amposta": [
+    40.6992657,
+    0.6135611
+  ],
+  "GI-653 Begur": [
+    41.9535152,
+    3.2020799
+  ],
+  "GIV-5248 Banyoles": [
+    42.1174937,
+    2.7473898
+  ],
+  "N-152z Granollers": [
+    41.6017921,
+    2.2791663
+  ],
+  "CR Pratdip": [
+    41.0515188,
+    0.8716047
+  ],
+  "BV-2112 Sant Pere de Ribes": [
+    41.2559247,
+    1.7607569
+  ],
+  "N-II Cervera": [
+    41.6711424,
+    1.2578851
+  ],
+  "C-32 Santa Susanna": [
+    41.6561627,
+    2.7074218
+  ],
+  "B-100 Sant Guim de Freixenet": [
+    41.6432921,
+    1.4160853
+  ],
+  "AL FortiÃ ": [
+    42.2473013,
+    2.9956767
+  ],
+  "GIP-6307 Escala, l'": [
+    42.138709,
+    3.1161924
+  ],
+  "GIV-5512 Santa Coloma de Farners": [
+    41.8586547,
+    2.6683576
+  ],
+  "L-401 Coll de NargÃ³": null,
+  "C-244 Sant QuintÃ­ de Mediona": null,
+  "C-16 Manresa": [
+    41.7170691,
+    1.8643006
+  ],
+  "BV-2003 Montcada i Reixac": [
+    41.4826497,
+    2.1926989
+  ],
+  "GIV-5132 Banyoles": [
+    42.1212526,
+    2.7835173
+  ],
+  "B-122 Castellbell i el Vilar": [
+    41.6351376,
+    1.8708029
+  ],
+  "TP-2036 Puigpelat": [
+    41.2830565,
+    1.2941783
+  ],
+  "T-722 Valls": [
+    41.2672766,
+    1.2110664
+  ],
+  "BV-4501 Santpedor": [
+    41.765389,
+    1.8370326
+  ],
+  "TV-7041 Mont-ral": [
+    41.2939387,
+    1.0932184
+  ],
+  "AP-7 Altafulla": [
+    41.159753,
+    1.3910332
+  ],
+  "CR Cervera": [
+    38.805734,
+    -3.8473788
+  ],
+  "CR Sant MartÃ­ de Riucorb": null,
+  "AP-7 Cardedeu": [
+    41.6227894,
+    2.3612647
+  ],
+  "C-26 Vallfogona de Balaguer": [
+    41.7830954,
+    0.8230271
+  ],
+  "C-15B Canyelles": [
+    41.290476,
+    1.7362544
+  ],
+  "C-451 Guissona": [
+    41.7942224,
+    1.2808781
+  ],
+  "C-243B CastellvÃ­ de Rosanes": null,
+  "TP-2044 Vendrell, el": [
+    41.2101279,
+    1.5238604
+  ],
+  "GIV-5334 Brunyola i Sant MartÃ­ Sapresa": null,
+  "LV-9223 Benavent de SegriÃ ": [
+    41.6991413,
+    0.6314703
+  ],
+  "CR CruÃ¯lles, Monells i Sant SadurnÃ­ de l'Heura": null,
+  "C-26 Camarasa": [
+    41.8412157,
+    0.9288461
+  ],
+  "AL SÃºria": null,
+  "CR Cambrils": [
+    41.0679423,
+    1.0657579
+  ],
+  "C-14 Solivella": [
+    41.4867333,
+    1.1834736
+  ],
+  "AL Vilanova de la Barca": [
+    41.6895577,
+    0.7288787
+  ],
+  "CR Vila-sacra": [
+    42.2668061,
+    3.0170438
+  ],
+  "AP-2 Albi, l'": [
+    41.493275,
+    0.8457626
+  ],
+  "C-37 Santa Maria de Miralles": [
+    41.4820917,
+    1.4993143
+  ],
+  "T-301 Tivenys": [
+    40.8875363,
+    0.5058283
+  ],
+  "LV-3331 Penelles": [
+    41.7234851,
+    0.9199272
+  ],
+  "C-352 Granollers": [
+    41.5985732,
+    2.2738296
+  ],
+  "CR UllÃ ": [
+    42.0500542,
+    3.1073899
+  ],
+  "AP-7 Avinyonet del PenedÃ¨s": null,
+  "A-2 Sils": [
+    41.812518,
+    2.7641163
+  ],
+  "GI-664 CassÃ  de la Selva": [
+    41.8933375,
+    2.8884058
+  ],
+  "T-701 Cornudella de Montsant": [
+    41.3114015,
+    0.9289226
+  ],
+  "BV-4347 Olvan": null,
+  "T-721 Tarragona": [
+    41.1428655,
+    1.2214558
+  ],
+  "BV-2162 Pacs del PenedÃ¨s": null,
+  "B-23 Papiol, el": [
+    41.4282472,
+    2.0049001
+  ],
+  "N-152z Garriga, la": [
+    41.6704822,
+    2.2881662
+  ],
+  "AL Castell-Platja d'Aro": [
+    41.828383,
+    3.0428963
+  ],
+  "B-522 Vic": [
+    41.9406733,
+    2.2561341
+  ],
+  "BP-5109 Sant Antoni de Vilamajor": [
+    41.6758636,
+    2.3987139
+  ],
+  "GIV-5273 Vall d'en Bas, la": [
+    42.1267308,
+    2.4410511
+  ],
+  "TV-3103 Riudoms": [
+    41.1363433,
+    1.0505231
+  ],
+  "TV-7046 Albiol, l'": [
+    41.2302146,
+    1.1523331
+  ],
+  "C-1411a Gironella": [
+    42.030638,
+    1.8830686
+  ],
+  "CR ArsÃ¨guel": null,
+  "GIV-6703 Madremanya": [
+    41.9819666,
+    2.93527
+  ],
+  "CR SanaÃ¼ja": null,
+  "TV-7333 Corbera d'Ebre": [
+    41.1402342,
+    0.4864286
+  ],
+  "C-53 Barbens": [
+    41.684939,
+    1.0649738
+  ],
+  "CR Mollerussa": [
+    41.6298226,
+    0.8937727
+  ],
+  "CR Bolvir": [
+    42.417885,
+    1.8798183
+  ],
+  "BP-1413 Sant Cugat del VallÃ¨s": null,
+  "C-451 Llobera": [
+    41.945469,
+    1.4896301
+  ],
+  "GIP-5121 Banyoles": [
+    42.1267645,
+    2.7649593
+  ],
+  "BV-5106 Ã’rrius": null,
+  "GIV-6216 Torroella de FluviÃ ": [
+    42.1803274,
+    3.0626845
+  ],
+  "C-246a Sant Pere de Ribes": [
+    41.2388635,
+    1.7663366
+  ],
+  "BP-2121 Vilafranca del PenedÃ¨s": null,
+  "CR Vallirana": [
+    41.3877623,
+    1.9320806
+  ],
+  "TP-2124 Sant Jaume dels Domenys": [
+    41.2844144,
+    1.5704068
+  ],
+  "A-27 Pobla de Mafumet, la": [
+    41.1875251,
+    1.2152282
+  ],
+  "C-1412a Biosca": [
+    41.8388674,
+    1.3576002
+  ],
+  "TV-7331 Fatarella, la": [
+    41.1362327,
+    0.4952189
+  ],
+  "C-16c Manresa": [
+    41.7363982,
+    1.8481795
+  ],
+  "GIV-6703 Sant MartÃ­ Vell": null,
+  "C-13 Alcoletge": [
+    41.6447408,
+    0.6803372
+  ],
+  "TP-3311 Santa BÃ rbara": null,
+  "GIP-6543 Palafrugell": [
+    41.9097816,
+    3.1694283
+  ],
+  "N-152a Franqueses del VallÃ¨s, les": null,
+  "BV-5225 Masies de VoltregÃ , les": [
+    42.0475976,
+    2.2342517
+  ],
+  "N-II Aiguaviva": [
+    41.9178233,
+    2.7916856
+  ],
+  "N-260z Castellfollit de la Roca": [
+    42.2185381,
+    2.5425876
+  ],
+  "CR Bellver de Cerdanya": [
+    42.3702061,
+    1.7745202
+  ],
+  "C-63 AnglÃ¨s": [
+    0.2005464,
+    -78.1560182
+  ],
+  "L-313 Guissona": [
+    41.7942066,
+    1.2785078
+  ],
+  "TV-2043 Albinyana": [
+    41.2468809,
+    1.5017524
+  ],
+  "GI-513 Vilademuls": [
+    42.1128004,
+    2.8497141
+  ],
+  "CR Juncosa": [
+    41.3715158,
+    0.7753498
+  ],
+  "TP-7013 Alforja": [
+    41.2112467,
+    1.0021087
+  ],
+  "BV-5306 Malla": [
+    41.8812026,
+    2.2423398
+  ],
+  "BV-2136 Llacuna, la": [
+    41.4949559,
+    1.5662684
+  ],
+  "CR Torre de l'Espanyol, la": [
+    41.199362,
+    0.6190173
+  ],
+  "GI-663 CassÃ  de la Selva": [
+    41.8933288,
+    2.8601763
+  ],
+  "CR Vilanova de Sau": [
+    41.9476741,
+    2.383405
+  ],
+  "CR RossellÃ³": null,
+  "N-340 Hospitalet de Llobregat, l'": [
+    41.3755224,
+    2.1191401
+  ],
+  "C-15 Sant QuintÃ­ de Mediona": null,
+  "T-721 ConstantÃ­": [
+    44.2112802,
+    28.6445539
+  ],
+  "GI-614 Port de la Selva, el": [
+    42.2889846,
+    3.214203
+  ],
+  "TP-2125 Banyeres del PenedÃ¨s": null,
+  "AL Palau d'Anglesola, el": [
+    41.6584442,
+    0.8818254
+  ],
+  "C-242 Ulldemolins": [
+    41.3283665,
+    0.8510325
+  ],
+  "TV-7044 Montblanc": [
+    41.3090581,
+    1.1344391
+  ],
+  "C-59 Llagosta, la": [
+    42.4125406,
+    2.4248982
+  ],
+  "N-420 Falset": [
+    41.1392778,
+    0.8277695
+  ],
+  "CR Vila-sana": [
+    41.6628331,
+    0.9289367
+  ],
+  "GI-502 Darnius": [
+    42.3660064,
+    2.8367352
+  ],
+  "LP-7041 Massalcoreig": [
+    41.4302048,
+    0.3577389
+  ],
+  "GIV-6121 Port de la Selva, el": [
+    42.3303157,
+    3.1998463
+  ],
+  "CR Avinyonet del PenedÃ¨s": null,
+  "C-31F Cabrera de Mar": [
+    41.5250118,
+    2.4112914
+  ],
+  "N-IIa Vilamalla": [
+    42.2289077,
+    2.9562107
+  ],
+  "CR Montmell, el": [
+    41.3330505,
+    1.4665431
+  ],
+  "BV-5229 Sant VicenÃ§ de TorellÃ³": null,
+  "C-563 GÃ³sol": null,
+  "GIV-4082 Alp": [
+    42.3414941,
+    1.9576079
+  ],
+  "N-141D TavÃ¨rnoles": null,
+  "N-II TÃ rrega": null,
+  "B-423 NavÃ s": [
+    40.4787503,
+    -4.680562
+  ],
+  "C-1411 Puig-reig": [
+    41.9103109,
+    1.8811443
+  ],
+  "CR FÃ­gols i AlinyÃ ": null,
+  "AL Cabrera de Mar": [
+    41.5276986,
+    2.3925117
+  ],
+  "LV-4001 Ribera d'Urgellet": [
+    42.2471755,
+    1.3491137
+  ],
+  "CR AlamÃºs, els": null,
+  "BV-4024 Guardiola de BerguedÃ ": [
+    42.2811029,
+    1.8491692
+  ],
+  "T-730 Figuera, la": [
+    41.2129159,
+    0.7149829
+  ],
+  "A-7 Castellet i la Gornal": [
+    41.2532183,
+    1.5917346
+  ],
+  "GIV-6229 Vilamalla": [
+    42.2206464,
+    2.9530087
+  ],
+  "C-32 Cabrils": [
+    41.5140428,
+    2.3819242
+  ],
+  "AL Mollerussa": [
+    41.6291477,
+    0.8942378
+  ],
+  "N-141D Vilanova de Sau": [
+    41.9476285,
+    2.3801513
+  ],
+  "C-233 Juneda": [
+    41.5275403,
+    0.864091
+  ],
+  "GI-514 CornellÃ  del Terri": [
+    42.0864236,
+    2.8216606
+  ],
+  "N-230 BÃ²rdes, Es": null,
+  "GI-542 Osor": [
+    41.9495935,
+    2.604311
+  ],
+  "C-16z Berga": [
+    42.0885078,
+    1.854944
+  ],
+  "BV-4404 OristÃ ": [
+    41.9433805,
+    2.0485148
+  ],
+  "T-710 Gratallops": [
+    41.1907074,
+    0.7784893
+  ],
+  "C-233 Castelldans": [
+    41.4885729,
+    0.7455008
+  ],
+  "N-340A Tarragona": [
+    40.7148774,
+    0.5817
+  ],
+  "AL Canonja, la": [
+    41.3845708,
+    2.1764392
+  ],
+  "CR Isona i Conca DellÃ ": [
+    42.1290793,
+    1.0046633
+  ],
+  "CR Naut Aran": [
+    42.8028179,
+    0.7403623
+  ],
+  "LV-7021 Artesa de Lleida": [
+    41.5513479,
+    0.7022497
+  ],
+  "CR Gelida": [
+    41.4324961,
+    1.8614458
+  ],
+  "GIV-5147 Porqueres": [
+    42.1034231,
+    2.7665346
+  ],
+  "BV-4342 LluÃ§Ã ": null,
+  "C-230a Sudanell": [
+    41.5623912,
+    0.5806163
+  ],
+  "AL Roca del VallÃ¨s, la": null,
+  "GIV-6703 Quart": [
+    41.9832944,
+    2.8995984
+  ],
+  "BV-2004 Sant Climent de Llobregat": [
+    41.3432774,
+    2.0071512
+  ],
+  "CR Escala, l'": [
+    44.2667497,
+    -76.5974836
+  ],
+  "B-420 Cardona": [
+    41.9202404,
+    1.6829024
+  ],
+  "GIP-5226 Vall d'en Bas, la": [
+    42.1496931,
+    2.4175349
+  ],
+  "BV-1468 Sant Just Desvern": [
+    41.4084323,
+    2.0860651
+  ],
+  "C-12 Rasquera": [
+    41.0072773,
+    0.6050562
+  ],
+  "BV-4609 Masies de VoltregÃ , les": [
+    42.0222647,
+    2.2351649
+  ],
+  "A-2 Hostalets de Pierola, els": [
+    41.5285644,
+    1.7812057
+  ],
+  "L-501 Vall de BoÃ­, la": null,
+  "AL FlaÃ§Ã ": [
+    46.7715764,
+    11.7048633
+  ],
+  "C-62 Olvan": [
+    42.0512884,
+    1.9023308
+  ],
+  "BV-5103 Cardedeu": [
+    41.6276258,
+    2.3635472
+  ],
+  "N-340a Ametlla de Mar, l'": [
+    40.9317774,
+    0.7875405
+  ],
+  "C-58c Sabadell": [
+    41.5504306,
+    2.0757704
+  ],
+  "N-260a Vallfogona de RipollÃ¨s": null,
+  "GIV-5211 Sant Joan de les Abadesses": [
+    42.2402095,
+    2.2870491
+  ],
+  "N-230 Vilaller": [
+    42.4849443,
+    0.7182356
+  ],
+  "C-63 Brunyola i Sant MartÃ­ Sapresa": null,
+  "C-25 Vic": [
+    41.9341595,
+    2.2155575
+  ],
+  "BP-4313 Castellnou de Bages": [
+    41.8592521,
+    1.793613
+  ],
+  "AL Catllar, el": [
+    42.1883766,
+    2.164372
+  ],
+  "LV-4241 Lladurs": [
+    42.0879702,
+    1.5147431
+  ],
+  "LV-5004 Espot": [
+    42.5744951,
+    1.0916385
+  ],
+  "C-16 UrÃºs": null,
+  "T-702 Bisbal de Falset, la": [
+    41.274959,
+    0.7196742
+  ],
+  "A-27 Vilallonga del Camp": [
+    41.2193847,
+    1.2133829
+  ],
+  "CR Vespella de GaiÃ ": [
+    41.2040993,
+    1.3599407
+  ],
+  "AP-2 AlfÃ©s": [
+    53.0941257,
+    18.048729
+  ],
+  "AP-7 CerviÃ  de Ter": [
+    42.062887,
+    2.8855939
+  ],
+  "C-243a Sant SadurnÃ­ d'Anoia": null,
+  "BP-5002 Granollers": [
+    41.5949532,
+    2.2861533
+  ],
+  "AL Alpicat": [
+    41.6666421,
+    0.5554774
+  ],
+  "CR Catllar, el": [
+    42.1883766,
+    2.164372
+  ],
+  "TV-2336 Espluga de FrancolÃ­, l'": null,
+  "GIP-6821 Tossa de Mar": [
+    41.7579364,
+    2.95419
+  ],
+  "BV-5222 Roda de Ter": [
+    41.9888254,
+    2.3070464
+  ],
+  "GIV-6322 Albons": [
+    42.1127934,
+    3.0985177
+  ],
+  "GIV-5264 Llanars": [
+    42.3184305,
+    2.3521232
+  ],
+  "BV-2443 OlÃ¨rdola": null,
+  "C-26 Ripoll": [
+    42.2129324,
+    2.2074512
+  ],
+  "T-703 Palma d'Ebre, la": [
+    41.2845689,
+    0.645424
+  ],
+  "LV-3344 Castellnou de Seana": [
+    41.6612403,
+    0.9945864
+  ],
+  "bp-5002 Alella": [
+    41.4872813,
+    2.2997125
+  ],
+  "CR Coma i la Pedra, la": [
+    42.1758114,
+    1.5914256
+  ],
+  "L-324 Plans de SiÃ³, els": null,
+  "BV-5114 Fogars de MontclÃºs": null,
+  "T-214 Altafulla": [
+    41.1601676,
+    1.3910901
+  ],
+  "CR Fogars de MontclÃºs": null,
+  "LL-11 Bell-lloc d'Urgell": [
+    41.6305843,
+    0.7495446
+  ],
+  "AL Vall-llobrega": [
+    41.8817908,
+    3.1409813
+  ],
+  "BV-2428 Subirats": [
+    41.3846138,
+    1.7964409
+  ],
+  "T-350 Santa BÃ rbara": null,
+  "GI-661 Calonge i Sant Antoni": [
+    41.8586076,
+    3.0798536
+  ],
+  "CR Vilanova i la GeltrÃº": null,
+  "BV-2433 Sant Esteve Sesrovires": [
+    41.4757337,
+    1.9005548
+  ],
+  "AL Montgai": [
+    41.7999989,
+    0.961434
+  ],
+  "GI-512 Fogars de la Selva": [
+    41.745626,
+    2.6860463
+  ],
+  "A-27 Valls": [
+    41.284291,
+    1.2306037
+  ],
+  "B-201 Prat de Llobregat, el": [
+    41.314354,
+    2.1057889
+  ],
+  "GI-602 Capmany": [
+    42.3721463,
+    2.9222511
+  ],
+  "C-31 Vall-llobrega": [
+    41.8778786,
+    3.1398933
+  ],
+  "BV-5201 Sant SadurnÃ­ d'Osormort": null,
+  "TP-2031 Pallaresos, els": [
+    41.1619424,
+    1.2719484
+  ],
+  "CR Benifallet": [
+    40.9740568,
+    0.5172791
+  ],
+  "AL Valls": [
+    41.2925276,
+    1.2820946
+  ],
+  "C-233 Borges Blanques, les": [
+    41.5186381,
+    0.8572311
+  ],
+  "C-26 Artesa de Segre": [
+    41.8849956,
+    1.0526012
+  ],
+  "BV-4406 Santa Maria de MerlÃ¨s": null,
+  "BP-2427 Sant SadurnÃ­ d'Anoia": null,
+  "T-318 VandellÃ²s i l'Hospitalet de l'Infant": null,
+  "LV-4036 Lles de Cerdanya": [
+    42.3804365,
+    1.6868915
+  ],
+  "TV-3451 Deltebre": [
+    40.7276038,
+    0.7384117
+  ],
+  "LV-3005 TorÃ ": [
+    41.8217647,
+    1.4182926
+  ],
+  "C-462 Guixers": [
+    42.1289898,
+    1.6007488
+  ],
+  "N-152 Centelles": [
+    41.7981296,
+    2.2218056
+  ],
+  "C-31b Canonja, la": [
+    41.105042,
+    1.2033342
+  ],
+  "C-1413 Papiol, el": [
+    41.4286308,
+    2.012334
+  ],
+  "GIV-6612 Llagostera": [
+    41.8377168,
+    2.9400052
+  ],
+  "C-233 Bellpuig": [
+    41.6173572,
+    0.986267
+  ],
+  "C-252 Peralada": [
+    42.3236437,
+    3.0300897
+  ],
+  "C-246A Vilanova i la GeltrÃº": null,
+  "T-203 Riera de GaiÃ , la": [
+    41.1720695,
+    1.3417048
+  ],
+  "LP-2015 Bellpuig": [
+    41.6131216,
+    1.0061668
+  ],
+  "C-32 Canet de Mar": [
+    41.5908812,
+    2.5566977
+  ],
+  "N-235 Aldea, l'": [
+    40.7529051,
+    0.606752
+  ],
+  "C-150z CornellÃ  del Terri": [
+    42.0865617,
+    2.8148317
+  ],
+  "L-911 Gavet de la Conca": [
+    42.0513988,
+    1.0784838
+  ],
+  "C-253 Calonge i Sant Antoni": [
+    41.8465637,
+    3.099297
+  ],
+  "N-IIA Figueres": [
+    42.2566021,
+    2.9655786
+  ],
+  "T-223 Secuita, la": [
+    41.2157258,
+    1.2733804
+  ],
+  "AL Lleida": [
+    41.6147605,
+    0.6267842
+  ],
+  "GI-666 Castell-Platja d'Aro": [
+    41.8087266,
+    3.0523457
+  ],
+  "CR Salou": [
+    41.0768193,
+    1.1440411
+  ],
+  "BP-1432 Bigues i Riells del Fai": [
+    41.6809912,
+    2.1715441
+  ],
+  "BV-4602 Santa CecÃ­lia de VoltregÃ ": null,
+  "GI-521 Riudaura": [
+    42.2107206,
+    2.3326868
+  ],
+  "C-244 Torre de Claramunt, la": [
+    41.5202802,
+    1.6811574
+  ],
+  "GIV-6535 Begur": [
+    41.9605634,
+    3.2275163
+  ],
+  "C-35 Llagostera": [
+    41.8091197,
+    2.8859119
+  ],
+  "N-141g Rajadell": [
+    41.7323609,
+    1.6985763
+  ],
+  "TV-2035 Nulles": [
+    41.2648345,
+    1.2696525
+  ],
+  "T-242 BarberÃ  de la Conca": [
+    41.4081083,
+    1.2111951
+  ],
+  "TV-3141 Cambrils": [
+    41.0993378,
+    1.0829106
+  ],
+  "C-230a Montoliu de Lleida": [
+    41.5639955,
+    0.5870405
+  ],
+  "T-2237 Vinebre": [
+    41.1951321,
+    0.5891766
+  ],
+  "C-153a Sant Pau de SegÃºries": null,
+  "TV-3403 Amposta": [
+    40.7098699,
+    0.6504206
+  ],
+  "C-14 Passanant": [
+    41.5042463,
+    1.1861447
+  ],
+  "N-IIa Castellnou de Seana": null,
+  "GIV-5147 CamÃ³s": null,
+  "T-314 Cambrils": [
+    41.1025493,
+    1.0225154
+  ],
+  "B-20 Hospitalet de Llobregat, l'": [
+    41.3791453,
+    2.1024136
+  ],
+  "N-II Ã’dena": null,
+  "AP-7 Vilalba Sasserra": [
+    41.6477537,
+    2.4265873
+  ],
+  "C-244 Vilanova del CamÃ­": null,
+  "GI-602 Sant Climent Sescebes": [
+    42.3811283,
+    2.9883981
+  ],
+  "BV-1484 Bigues i Riells del Fai": [
+    41.6787486,
+    2.217582
+  ],
+  "LV-4241 Sant LlorenÃ§ de Morunys": null,
+  "TV-7221 Alcover": [
+    41.262612,
+    1.1775873
+  ],
+  "B-300 Molsosa, la": [
+    41.7813588,
+    1.533805
+  ],
+  "T-222 ForÃ¨s": [
+    -27.7524293,
+    -48.6276573
+  ],
+  "N-II Pineda de Mar": [
+    41.6300727,
+    2.6924505
+  ],
+  "BV-1038 Ã’dena": null,
+  "CR RÃ pita, la": null,
+  "T-713 Bellaguarda": [
+    41.3344325,
+    0.7629256
+  ],
+  "AP-2 Banyeres del PenedÃ¨s": null,
+  "TV-2041 Montferri": [
+    41.2408043,
+    1.4235653
+  ],
+  "CR VilobÃ­ d'Onyar": null,
+  "T-732 Lloar, el": [
+    41.1863916,
+    0.749978
+  ],
+  "CR BÃ²rdes, Es": null,
+  "C-230a Sunyer": [
+    41.5315374,
+    0.5751583
+  ],
+  "TP-3318 Alcanar": [
+    40.5527024,
+    0.4827238
+  ],
+  "C-151a Ripoll": [
+    42.2045654,
+    2.1937675
+  ],
+  "GIP-5223 Riudaura": [
+    42.1884267,
+    2.4281294
+  ],
+  "TP-7101 Bellmunt del Priorat": [
+    41.1597349,
+    0.7743977
+  ],
+  "T-11 Canonja, la": [
+    41.3845708,
+    2.1764392
+  ],
+  "T-721 Pobla de Mafumet, la": [
+    41.1820934,
+    1.2105676
+  ],
+  "T-240 Sant Jaume dels Domenys": [
+    41.2843197,
+    1.527808
+  ],
+  "AP-2 VimbodÃ­ i Poblet": null,
+  "LV-5223 Rialp": [
+    42.4417981,
+    1.1266646
+  ],
+  "C-37 Pont d'Armentera, el": [
+    41.3842552,
+    1.3654143
+  ],
+  "TV-2034 Puigpelat": [
+    41.2782419,
+    1.2856192
+  ],
+  "T-713 Bisbal de Falset, la": [
+    41.2842087,
+    0.7536135
+  ],
+  "B-40 MatarÃ³": null,
+  "CR Barbens": [
+    41.6777676,
+    1.0164683
+  ],
+  "T-310 Vilanova d'Escornalbou": [
+    41.0976482,
+    0.9742859
+  ],
+  "N-340 RÃ pita, la": null,
+  "C-154 Vic": [
+    41.9311229,
+    2.2151086
+  ],
+  "GI-533 BescanÃ³": null,
+  "C-12F Balaguer": [
+    41.76894,
+    0.7900721
+  ],
+  "BV-1229 Pont de Vilomara i Rocafort, el": [
+    41.6928351,
+    1.873028
+  ],
+  "AL Banyoles": [
+    42.1313258,
+    2.7719748
+  ],
+  "C-155 Montcada i Reixac": [
+    41.5689683,
+    2.1871356
+  ],
+  "GIV-5217 Queralbs": [
+    42.3435614,
+    2.1655803
+  ],
+  "AP-7 Albinyana": [
+    41.2302718,
+    1.5267934
+  ],
+  "BV-5227 Sant Quirze de Besora": [
+    42.1048309,
+    2.2176466
+  ],
+  "C-31 Sant Boi de Llobregat": [
+    41.3079561,
+    2.0634688
+  ],
+  "T-320 Botarell": [
+    41.1283885,
+    0.9962358
+  ],
+  "BV-1245 Granera": [
+    41.7438715,
+    2.088396
+  ],
+  "CR36 Vila-seca": [
+    41.1109268,
+    1.144961
+  ],
+  "N-141F EstarÃ s": null,
+  "T-3231 Almoster": [
+    41.1978631,
+    1.1149053
+  ],
+  "GIV-6026 Pont de Molins": [
+    42.3303962,
+    2.942025
+  ],
+  "B-522 Esquirol, l'": [
+    42.0151639,
+    2.3233559
+  ],
+  "BP-4313 AvinyÃ³": null,
+  "B-220 Santa Maria de Miralles": [
+    41.4907222,
+    1.5132663
+  ],
+  "LV-2012 Espluga Calba, l'": [
+    41.4778079,
+    1.0192536
+  ],
+  "C-31D Cabrera de Mar": [
+    41.5280422,
+    2.4215072
+  ],
+  "GIV-6103 Palau-saverdera": [
+    42.283897,
+    3.1183625
+  ],
+  "LV-2021 VerdÃº": [
+    -15.6062008,
+    -56.1179751
+  ],
+  "T-313 MontbriÃ³ del Camp": null,
+  "BV-1211 Vacarisses": [
+    41.6047666,
+    1.9181259
+  ],
+  "AL Sitges": [
+    41.2327543,
+    1.8018696
+  ],
+  "C-243B Martorell": [
+    41.4709642,
+    1.9250821
+  ],
+  "C-35 Fogars de la Selva": [
+    41.7448428,
+    2.6686408
+  ],
+  "N-IIa Sidamon": null
+}
