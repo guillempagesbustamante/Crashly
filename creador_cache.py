@@ -1,9 +1,11 @@
+
+"""
 from Marker import Markers
 Markers().construir_cache()
-
+"""
 """crea el json, en la versio antiga (stats), el crea de 50 en 50, i no parava fins que acabava o el paraves """
 
-"""la alternativa ara seria:
+"""la alternativa ara seria:"""
 
 from Marker import Markers
 
@@ -20,4 +22,3 @@ print("Cache completa!")
 
 
 
-"""
